@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>File Upload & Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="outer-wrapper">
+        <div class="container">
+            <div class="box left-box">
+                <h2>Upload a File</h2>
+                <form method="post" enctype="multipart/form-data">
+                    <input type="file" name="file"  required>
+                    <button type="submit">Upload</button>
+                </form>
+            </div>
+            <div class="box right-box">
+                <h2>File Content</h2>
+                {% if table %}
+                    <div class="table-wrapper">
+                        <table>
+                            {% for row in table %}
+                            <tr>
+                                {% for cell in row %}
+                                <td>{{ cell }}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </table>
+                    </div>
+                {% else %}
+                    <pre>{{ content }}</pre>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
