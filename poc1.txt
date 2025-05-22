@@ -1,0 +1,104 @@
+pip install flask pandas scikit-learn
+
+
+bank-anomaly-detector/
+│
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── bank_data.csv
+
+
+app.py
+
+from flask import Flask, render_template, request
+import pandas as pd
+from sklearn.ensemble import IsolationForest
+
+app = Flask(__name__)
+
+# Load dataset
+DATA_PATH = "bank_data.csv"
+
+def detect_anomalies(df):
+    model = IsolationForest(n_estimators=100, contamination=0.05, random_state=42)
+    df_numeric = df.select_dtypes(include=['float64', 'int64'])
+    
+    model.fit(df_numeric)
+    df['anomaly'] = model.predict(df_numeric)
+    df['anomaly'] = df['anomaly'].map({1: 'Normal', -1: 'Anomaly'})
+    
+    return df
+
+@app.route('/', methods=['GET'])
+def index():
+    try:
+        df = pd.read_csv(DATA_PATH)
+        df_with_anomalies = detect_anomalies(df)
+        anomalies = df_with_anomalies[df_with_anomalies['anomaly'] == 'Anomaly']
+        return render_template('index.html', tables=[anomalies.to_html(classes='data', header="true", index=False)])
+    except Exception as e:
+        return f"Error loading data: {e}"
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+=======================
+
+templates/index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bank Anomaly Detector</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Bank Transaction Anomalies</h1>
+    <div>
+        {{ tables|safe }}
+    </div>
+</body>
+</html>
+
+
+===style.css
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.dataframe {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.dataframe th, .dataframe td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.dataframe tr:nth-child(even){background-color: #f2f2f2;}
+
+.dataframe th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+}
+
+
+
+==========
+
+dataset
+
+age,balance,transactions
+30,1000,5
+40,5000,25
+22,700,2
+38,9000,100
+29,100,1
+...
