@@ -1,0 +1,1051 @@
+Customer ID,Customer Name,Address,Country,Transaction Timestamp,Transaction Amount,Transaction Location,Payer Customer ID,Payee Customer ID,Risk Profile,Account Number,Account Type,Channel,Account Status,Base Balance,Currency
+333,Ellen Lee,"0879 Michael Plaza Apt. 070, New Williamside, CO 10641",Canada,2024-06-11 04:29:04.071077,1297.33,Canada,333,755,Low,100000333,Savings,Online,Inactive,2424.96,EUR
+353,Javier Winters,"4488 Hansen Junctions, Port Lisamouth, TN 62442",Germany,2025-04-24 20:49:04.528329,3533.98,Germany,353,57,Low,100000353,Savings,ATM,Closed,66210.67,INR
+943,Bridget Phillips,"PSC 0501, Box 9268, APO AP 87867",USA,2024-10-29 17:29:04.648805,2503.92,USA,943,142,Low,100000943,Savings,Branch,Closed,65490.62,GBP
+8,Kristi Vasquez,"920 Ortiz Key Suite 840, Katherineburgh, AL 12168",Canada,2025-02-14 09:15:04.434398,1263.96,Canada,8,542,Low,100000008,Savings,ATM,Active,86751.44,INR
+569,Michael Mueller,"86839 Shannon Light Suite 556, Lake Tammy, PW 11092",Germany,2024-09-05 01:09:04.469735,4883.44,Germany,569,861,Low,100000569,Fixed Deposit,ATM,Active,90511.71,GBP
+371,John Bean,"7354 Simpson Parks, Melissahaven, WI 31092",India,2024-10-15 11:40:04.439877,2590.26,India,371,291,High,100000371,Current,ATM,Inactive,10977.02,CAD
+633,Casey Odom,"8759 Molly Cape, Mariahhaven, KS 31678",Canada,2025-01-20 19:42:04.647226,2427.3,Canada,633,88,High,100000633,Savings,Branch,Closed,51656.07,EUR
+691,Mary Kennedy,"635 Lawrence Points Apt. 389, New Stevenfort, KY 79115",USA,2024-09-02 22:52:04.098756,4140.58,USA,691,479,Medium,100000691,Savings,Branch,Inactive,33044.24,USD
+860,James Turner,"67592 Eric Drives Suite 959, Lake Christopher, MI 34283",India,2024-12-03 18:57:04.044781,6160.5,Unknown,860,531,High,100000860,Savings,Branch,Inactive,7505.16,EUR
+755,Anthony Edwards,"2545 Webster Street Apt. 664, Scottshire, HI 26423",India,2024-07-20 14:15:04.619089,2168.52,India,755,863,Medium,100000755,Savings,Online,Inactive,14787.94,INR
+134,Dave Wall,"085 Peter Cliff Suite 304, Blakefort, NC 08823",India,2025-05-16 08:23:04.129775,4320.54,India,134,542,High,100000134,Savings,ATM,Inactive,34423.9,INR
+122,Shelia Leach,"89620 Megan Mountains Suite 650, Hobbsport, AK 51508",India,2024-07-07 06:57:04.345742,3706.94,India,122,501,Medium,100000122,Savings,Online,Closed,89713.04,GBP
+920,Michael Suarez,"Unit 1992 Box 7284, DPO AA 49138",Canada,2024-09-17 05:30:04.051081,2803.76,Canada,920,645,High,100000920,Fixed Deposit,Mobile,Active,14871.2,USD
+804,Janet Brooks,"361 Rodriguez Hollow Apt. 093, Lewischester, PA 01473",USA,2024-10-01 20:25:04.043364,116353.0,Unknown,804,754,High,100000804,Fixed Deposit,Mobile,Closed,61064.79,INR
+473,Jessica Diaz,"314 Mendoza Crescent Apt. 513, Cainside, CO 24254",Canada,2024-08-16 14:05:04.014514,600.01,Canada,473,503,Medium,100000473,Fixed Deposit,Online,Inactive,5272.83,EUR
+721,Jonathan Cox,"5377 Nathan Mountains, Josephfurt, TN 58400",UK,2025-04-05 22:56:04.417034,1463.65,UK,721,30,Low,100000721,Current,Online,Closed,93895.71,USD
+444,Erin Werner,"70448 Sharp Coves, East Jordanside, WI 24563",USA,2025-03-21 15:36:04.087623,2793.49,USA,444,820,Medium,100000444,Savings,Online,Closed,37693.57,CAD
+883,Heather Day,"98814 Dixon Turnpike, Kylemouth, CT 61742",USA,2024-10-21 19:40:04.094236,2649.75,USA,883,278,High,100000883,Current,Branch,Active,2951.34,EUR
+719,Sarah Torres,"5321 Jackson Shoals, West Amandaland, OR 18923",USA,2025-05-12 14:23:04.609277,2704.83,USA,719,583,High,100000719,Savings,Online,Active,13305.43,USD
+948,Carol Wilson,"20170 Henry Estate Suite 267, Stephanieport, MA 66723",USA,2024-09-29 22:11:04.088451,3560.31,USA,948,805,Low,100000948,Savings,Online,Active,90101.85,USD
+434,Donna Cochran,"7022 Tammy Ports, Debraberg, IL 31495",Canada,2024-06-19 20:28:04.053871,1475.85,Canada,434,172,Medium,100000434,Fixed Deposit,Branch,Active,11011.14,GBP
+186,Jonathan Evans,"6096 Robertson Lane, West Steven, SD 00645",Germany,2025-02-22 18:06:04.349002,3146.87,Germany,186,65,High,100000186,Fixed Deposit,Branch,Active,66338.42,CAD
+306,Michelle Burke,"24722 Megan River Apt. 560, New Jesseshire, MP 18396",Canada,2025-05-15 05:57:04.372736,1609.21,Canada,306,428,High,100000306,Fixed Deposit,Online,Active,97609.36,GBP
+346,James Richmond,"207 Laura Islands, Leachview, KY 19421",Germany,2025-03-26 14:15:04.037904,915.42,Germany,346,880,High,100000346,Fixed Deposit,ATM,Active,61969.16,GBP
+677,Michelle Barrera,"37949 Mary Path, East Waltermouth, MH 72636",UK,2025-03-31 04:35:04.269358,4183.72,UK,677,582,Low,100000677,Savings,Branch,Closed,12091.85,USD
+416,Keith Cummings,"03710 Lisa Rest, South Amberport, MH 48840",UK,2024-07-01 13:14:04.594929,2760.89,UK,416,577,Medium,100000416,Savings,Online,Active,45396.11,INR
+637,Anna Mcdonald,"9384 Ronald Flats, West Ronnie, MT 53833",Canada,2025-01-01 02:05:04.148524,2219.35,Canada,637,789,High,100000637,Savings,Branch,Inactive,53729.11,EUR
+964,Robert Walker,"Unit 9562 Box 6742, DPO AA 54021",UK,2025-05-16 14:03:04.173336,809.84,UK,964,753,Low,100000964,Fixed Deposit,Online,Inactive,39540.27,GBP
+141,Sheila Atkins,"42494 Alec Lights Suite 731, Port Andrew, WI 75425",Canada,2024-11-05 17:09:04.410197,769.74,Canada,141,760,High,100000141,Savings,Mobile,Inactive,96282.28,USD
+489,Laurie Baker,"9215 Vega Wells, Georgehaven, NC 33149",Canada,2024-11-15 10:51:04.145700,2563.37,Canada,489,500,Low,100000489,Fixed Deposit,Mobile,Inactive,95090.74,EUR
+21,Isaac Sanders,"761 Thomas Brooks Suite 552, West Davidtown, MP 87660",USA,2025-02-08 00:18:04.270459,1804.3,USA,21,482,Low,100000021,Savings,ATM,Closed,61573.44,INR
+744,Stephen Ruiz,"4914 Tyrone Viaduct, Jamiebury, KY 62632",India,2024-06-21 04:48:04.379969,473.87,India,744,807,Medium,100000744,Current,ATM,Closed,50769.32,USD
+547,Bradley Gilbert,"7464 Chad Unions Apt. 122, Buckleyview, KY 63356",USA,2025-03-30 12:44:04.086414,1291.14,USA,547,586,Medium,100000547,Savings,Mobile,Closed,12242.2,USD
+961,Walter Wong,"0232 Anthony Plain, Jamieside, PW 27715",India,2024-06-20 20:05:04.156805,95776.0,Unknown,961,356,High,100000961,Fixed Deposit,ATM,Closed,9197.07,EUR
+487,Amy Garrett,"13648 Jennifer Villages, Davidport, IL 30601",India,2025-03-14 00:23:04.048185,1839.11,India,487,451,Low,100000487,Fixed Deposit,ATM,Inactive,5499.19,INR
+350,David Williams,"75341 Andrew Summit, Lake Justin, AZ 90504",UK,2024-07-06 19:04:04.046470,2867.46,UK,350,386,High,100000350,Fixed Deposit,Online,Inactive,62960.13,GBP
+162,Scott Roach,"USS Ryan, FPO AE 33340",Canada,2024-10-08 01:48:04.628827,3067.79,Canada,162,816,High,100000162,Current,Mobile,Closed,63598.28,INR
+996,Vincent Collins,"9922 Copeland Pine, North Cesar, OH 29017",Germany,2024-10-18 20:33:04.455217,2090.34,Germany,996,393,High,100000996,Fixed Deposit,Branch,Closed,10066.63,INR
+505,Amy Taylor,"7886 Jeffrey Rapid, South Michelle, CT 12736",Germany,2024-11-24 05:38:04.182801,4536.53,Germany,505,564,Low,100000505,Fixed Deposit,Mobile,Closed,68788.39,USD
+305,Phillip Wright,"183 Sheila Fort, Williamstown, CT 78802",USA,2024-12-30 08:33:04.251784,2955.52,USA,305,886,Low,100000305,Current,ATM,Closed,72883.04,INR
+349,Dylan Green,"65114 Robert Glen, Martinmouth, HI 55980",USA,2024-08-14 20:52:04.624288,26.23,USA,349,433,Low,100000349,Fixed Deposit,Online,Closed,38086.65,EUR
+590,James West,"01662 Theresa Locks, Humphreyshire, FM 58965",India,2025-01-31 14:53:04.172774,474.01,India,590,899,High,100000590,Savings,Branch,Active,16038.37,USD
+800,Megan Phelps,"63267 Joanne Pine Suite 852, Lake Stephenmouth, NV 07860",UK,2025-03-01 03:35:04.617545,2282.13,UK,800,15,Medium,100000800,Savings,Online,Active,92327.44,EUR
+115,Heidi Hernandez,"Unit 1065 Box 1521, DPO AP 73589",India,2025-04-09 01:45:04.030613,2595.25,India,115,199,Low,100000115,Current,Online,Closed,63706.97,CAD
+90,Connie Scott,"5593 Jones Islands Apt. 829, West Jerry, SC 81030",USA,2025-03-29 22:57:04.058042,2705.15,USA,90,436,Medium,100000090,Savings,Mobile,Closed,47749.28,INR
+549,Diamond Pierce,"459 Anthony Drive, Smithfort, AL 35759",USA,2024-08-01 18:56:04.449453,4932.15,USA,549,683,High,100000549,Current,ATM,Inactive,52510.46,EUR
+415,Ethan Salazar,"821 Armstrong Union Suite 620, South Stephanie, LA 75841",UK,2024-11-10 11:51:04.051862,2992.92,UK,415,530,Low,100000415,Fixed Deposit,Online,Closed,63551.88,GBP
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-08-28 15:20:04.113381,2863.9,Germany,107,763,Low,100000107,Current,ATM,Inactive,41627.91,CAD
+518,Raymond Gilmore,"06978 Smith Rue, North Geraldville, VT 18179",Canada,2024-07-20 10:14:04.357978,794.85,Canada,518,476,Low,100000518,Current,ATM,Closed,81244.78,CAD
+985,Christopher Smith,"40769 Jennings Drive Suite 112, North Joshuaside, MO 99125",UK,2025-03-31 11:51:04.219165,3416.4,UK,985,950,High,100000985,Current,Branch,Active,73090.69,CAD
+335,Justin Novak,"551 Spencer Mountain Apt. 253, New Stevenburgh, NV 82417",UK,2025-02-23 11:33:04.446122,3148.66,UK,335,347,Low,100000335,Current,Branch,Inactive,5554.26,EUR
+553,Elizabeth Jacobs,"4501 Peter Land Apt. 540, New Jennifer, LA 05163",UK,2024-10-20 09:45:04.406107,4901.52,UK,553,552,Medium,100000553,Fixed Deposit,Online,Closed,55638.78,EUR
+688,Christopher Chavez,"Unit 8935 Box 4279, DPO AA 99923",UK,2024-07-26 11:21:04.332554,4096.83,UK,688,224,High,100000688,Savings,Branch,Closed,28717.93,INR
+501,Ernest Martin,"253 Stone Ports Suite 843, South Andrea, GA 17658",India,2024-07-22 13:55:04.263699,3094.88,India,501,16,Low,100000501,Savings,Online,Closed,70118.01,EUR
+890,Laurie Compton,"8872 Fletcher Flats Suite 380, Lake Brittany, SC 14042",India,2025-02-07 14:03:04.130599,123.53,India,890,743,High,100000890,Current,Mobile,Closed,25074.05,CAD
+804,Janet Brooks,"361 Rodriguez Hollow Apt. 093, Lewischester, PA 01473",USA,2024-08-16 08:27:04.673625,3661.74,USA,804,306,High,100000804,Fixed Deposit,Branch,Closed,61064.79,INR
+363,Laurie Zavala,"43704 Robinson Freeway, Walterschester, MA 70080",UK,2025-02-20 12:14:04.577545,3841.83,UK,363,877,Low,100000363,Savings,ATM,Active,46367.04,INR
+579,Christopher Roberts,"8816 Kirby Spurs, East Sean, FM 47510",India,2024-06-06 05:54:04.623791,1053.48,India,579,238,Medium,100000579,Fixed Deposit,Online,Closed,49719.51,GBP
+592,Jason Franklin,"04920 Strickland Street, Victorialand, ID 73175",Canada,2024-08-24 10:48:04.573841,1613.35,Canada,592,946,Low,100000592,Current,Mobile,Inactive,64446.6,GBP
+730,Danny Harrison,"762 Erickson Underpass Apt. 276, Cindychester, MS 11965",USA,2024-09-22 22:36:04.157288,2077.12,USA,730,242,Low,100000730,Savings,Online,Inactive,17201.94,EUR
+99,Shane Romero,"57776 Jose Valley, Woodstown, NY 89997",Germany,2024-08-20 07:47:04.491800,1039.75,Germany,99,958,High,100000099,Fixed Deposit,Online,Active,3516.49,GBP
+883,Heather Day,"98814 Dixon Turnpike, Kylemouth, CT 61742",USA,2024-11-01 00:55:04.437355,3072.91,USA,883,389,High,100000883,Current,Mobile,Active,2951.34,EUR
+912,Jacob Meyers MD,"72738 Christina Bridge, Ronaldborough, MS 84840",Canada,2024-12-13 16:44:04.605884,3598.7,Canada,912,526,Low,100000912,Current,Mobile,Closed,27538.3,GBP
+337,Nicholas Brown,"97715 John Squares, North Lisa, OH 32792",Germany,2025-06-03 11:31:04.192721,889.65,Germany,337,557,Low,100000337,Savings,Branch,Closed,85690.6,USD
+159,Theresa Collins,"02791 Todd Mount, Pattersonchester, KY 35541",UK,2024-09-30 18:06:04.424209,77.67,UK,159,798,High,100000159,Current,Mobile,Closed,24526.12,CAD
+943,Bridget Phillips,"PSC 0501, Box 9268, APO AP 87867",USA,2024-06-27 20:26:04.432416,4665.53,USA,943,190,Low,100000943,Savings,Online,Closed,65490.62,GBP
+179,Kimberly Atkins,"7269 Dawn Lodge, South Scottshire, ID 30756",Canada,2024-08-07 18:47:04.291109,1744.0,Canada,179,720,Medium,100000179,Savings,ATM,Active,93736.27,INR
+789,Melanie Harmon,"39612 Hartman Road, West Andreaton, CA 91406",Canada,2025-05-18 14:11:04.040303,2900.16,Canada,789,929,Medium,100000789,Savings,Branch,Active,46738.57,INR
+590,James West,"01662 Theresa Locks, Humphreyshire, FM 58965",India,2024-06-20 13:22:04.147108,396.65,India,590,332,High,100000590,Savings,Online,Active,16038.37,USD
+309,Nicholas Bell,"9480 Renee Oval Apt. 405, South Edwardtown, NY 67743",UK,2024-12-14 16:44:04.074452,2172.04,UK,309,776,Medium,100000309,Current,Branch,Closed,79723.43,INR
+41,Willie Lewis,"739 Burnett Forest, Jeffreyberg, VA 89609",UK,2024-08-20 04:27:04.575713,4003.1,UK,41,175,High,100000041,Fixed Deposit,Branch,Inactive,13081.79,GBP
+372,Steven Morales,"39921 Jason Common Suite 854, Williamsmouth, MO 92239",India,2025-03-12 19:21:04.095456,644.76,India,372,216,Low,100000372,Savings,Online,Active,2803.96,CAD
+621,Michael Gardner,"99071 Anne Meadows Suite 538, South Maryfort, IA 67792",Germany,2024-08-29 23:12:04.084711,1324.92,Germany,621,192,Low,100000621,Fixed Deposit,ATM,Active,19267.58,GBP
+876,Matthew Bailey,"256 Daniel Oval Suite 156, Michaelview, WY 72724",UK,2024-07-24 16:29:04.578805,739.36,UK,876,242,Low,100000876,Savings,Mobile,Active,16459.11,EUR
+661,Jon Munoz,"56690 Key Fords, Claymouth, AL 67252",USA,2024-08-22 23:56:04.640450,1761.8,USA,661,124,Medium,100000661,Fixed Deposit,ATM,Active,36253.58,INR
+621,Michael Gardner,"99071 Anne Meadows Suite 538, South Maryfort, IA 67792",Germany,2024-10-27 19:15:04.087218,1057.55,Germany,621,569,Low,100000621,Fixed Deposit,Mobile,Active,19267.58,GBP
+417,Brian Aguilar,"29724 Anthony Glens, Lisafurt, PW 24744",India,2025-03-21 20:02:04.040742,578.78,India,417,670,Low,100000417,Fixed Deposit,Mobile,Active,30027.87,CAD
+196,Robert Nguyen,"571 Hall Haven, Foxmouth, NV 11168",India,2024-12-10 17:59:04.390283,2737.83,India,196,486,High,100000196,Savings,Online,Inactive,35571.75,INR
+16,Shelby Curtis,"44289 Jenkins Trail Apt. 926, Jordanville, IL 53596",Canada,2024-07-06 09:30:04.415946,3185.98,Canada,16,128,High,100000016,Savings,ATM,Closed,19157.05,INR
+609,Janet Coleman,"12313 Vincent Islands, Powersshire, KY 26502",India,2025-02-16 21:26:04.136491,2631.24,India,609,228,Medium,100000609,Savings,ATM,Inactive,50838.31,CAD
+961,Walter Wong,"0232 Anthony Plain, Jamieside, PW 27715",India,2024-06-20 20:05:04.156805,1915.52,India,961,356,Medium,100000961,Fixed Deposit,ATM,Closed,9197.07,EUR
+980,Erin Greene,"4127 Alexandra Key Apt. 744, Johnmouth, VA 33761",India,2025-02-23 06:48:04.191296,2787.2,India,980,984,Low,100000980,Savings,ATM,Inactive,60087.44,CAD
+250,Robert Molina,"904 Robert Islands, Michaelstad, DC 01134",USA,2024-07-20 23:54:04.104816,61225.5,Unknown,250,433,High,100000250,Fixed Deposit,ATM,Closed,85447.94,USD
+332,Timothy Pratt,"7461 Baird Crossing, Port Kenneth, LA 92750",India,2025-05-18 16:11:04.588625,2734.01,India,332,188,Medium,100000332,Fixed Deposit,Mobile,Active,76026.76,GBP
+509,Francis Glass DDS,"09374 Hansen Mountain Apt. 187, Lake Justinland, IL 19266",Canada,2025-02-27 22:35:04.110378,4580.83,Canada,509,186,High,100000509,Current,Branch,Closed,95030.19,CAD
+960,Chris Hughes,"787 Tiffany Trail, Anthonyfort, MD 88977",Canada,2025-04-13 09:59:04.324373,3044.23,Canada,960,538,Low,100000960,Fixed Deposit,ATM,Closed,74065.33,CAD
+181,Patrick Weaver,"9431 Ford Meadow Apt. 061, East Amanda, IN 07544",Germany,2025-04-16 08:24:04.451214,95301.5,Unknown,181,31,High,100000181,Fixed Deposit,Online,Closed,34765.57,USD
+929,Carlos Logan,"90341 Valerie Mission Apt. 174, South Eileenfort, DE 34248",Germany,2025-01-07 06:04:04.289498,1894.41,Germany,929,873,High,100000929,Savings,Online,Active,63714.34,INR
+409,Yolanda Woods,"3486 Patricia Village, Hodgesstad, NH 63394",Canada,2024-09-06 14:39:04.055992,2576.2,Canada,409,899,Medium,100000409,Fixed Deposit,Online,Inactive,90632.82,INR
+440,Terry Smith,"34130 Rhonda Streets, Davidhaven, RI 94889",Germany,2024-12-02 11:32:04.084298,2084.61,Germany,440,334,High,100000440,Current,ATM,Active,9053.53,INR
+356,Alex Gonzalez,"30254 Melissa Meadow Apt. 793, Lake Joseph, MA 87648",Canada,2025-04-14 22:10:04.107384,205407.49999999997,Unknown,356,191,High,100000356,Savings,Mobile,Closed,64599.51,EUR
+503,Dennis Morris,"393 Anderson Passage, Dominiquechester, NE 87692",UK,2025-05-09 20:53:04.305823,4776.88,UK,503,628,High,100000503,Current,Online,Inactive,31643.23,INR
+187,Leslie Gonzales,"416 Vega Fords, Lorifurt, MH 58169",USA,2024-07-17 15:56:04.219712,1605.45,USA,187,533,Medium,100000187,Savings,Mobile,Closed,81905.0,EUR
+924,Richard Allen,"20516 Young Path, North Michaelshire, SD 13211",USA,2024-06-22 00:56:04.078673,2183.67,USA,924,970,High,100000924,Current,Mobile,Inactive,80185.67,GBP
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2024-07-07 12:31:04.353715,4665.38,India,484,724,Medium,100000484,Savings,ATM,Inactive,63128.25,EUR
+414,Dr. Samantha Mcpherson,"01749 Contreras Street, South Crystaltown, WV 13483",Germany,2024-10-10 03:22:04.584751,943.17,Germany,414,899,Low,100000414,Fixed Deposit,ATM,Closed,57770.35,EUR
+839,Katherine Johnson,"4281 Melanie Port, Sierraview, VT 34959",USA,2024-08-16 02:55:04.273307,4337.18,USA,839,619,High,100000839,Current,Online,Active,58478.25,INR
+541,Mrs. Makayla Martin,"90454 Tina Valley, Lake Dianeberg, WY 40063",UK,2024-10-01 18:25:04.429811,2940.93,UK,541,794,Low,100000541,Fixed Deposit,Mobile,Inactive,95451.05,CAD
+791,Edward Mason,"9923 Parrish Corners, Garciafurt, MO 45774",Germany,2025-04-15 08:10:04.086811,4222.29,Germany,791,834,Medium,100000791,Savings,Mobile,Closed,16181.79,INR
+207,John Sharp,"882 Emily Views, Andrewview, ME 29074",USA,2025-02-27 16:05:04.626250,355.58,USA,207,295,Medium,100000207,Current,Branch,Active,11045.68,INR
+582,Casey Patton,"91780 Maria Junction Suite 829, Christyborough, PR 14331",USA,2024-11-29 09:24:04.129362,4015.7,USA,582,842,High,100000582,Fixed Deposit,ATM,Active,98023.22,USD
+295,Larry Downs,"7062 Todd Plaza, Feliciamouth, NM 46950",UK,2025-01-22 11:34:04.586666,189.1,UK,295,290,Medium,100000295,Current,ATM,Inactive,13578.99,GBP
+145,Brendan Young,"71153 Barry Mountains Apt. 718, East Jennifer, WY 67623",UK,2025-03-17 13:49:04.133212,3796.32,UK,145,674,High,100000145,Current,Branch,Closed,29199.21,USD
+792,Ana Allen,"PSC 2633, Box 7005, APO AE 96124",India,2025-03-01 14:03:04.292785,4923.69,India,792,143,Low,100000792,Fixed Deposit,ATM,Inactive,59036.75,USD
+865,Michael Abbott,"8657 Wade Drive Suite 221, Lake Jenna, NE 53240",India,2025-03-21 00:54:04.389196,1632.89,India,865,509,High,100000865,Savings,Online,Closed,40675.54,CAD
+297,Cheryl Perez,"9477 Schaefer Cape Apt. 807, Anitaborough, MA 34394",Canada,2025-01-01 08:00:04.672168,2228.58,Canada,297,853,Low,100000297,Fixed Deposit,Online,Inactive,77229.36,INR
+330,Michelle Rivera,"2503 Osborne Field Suite 770, Lake Nathan, ID 75441",Germany,2025-05-01 05:17:04.093017,3781.27,Germany,330,870,Low,100000330,Current,ATM,Closed,25525.37,INR
+714,Deborah Burns,"8079 Greer Keys, Jenniferborough, AK 48708",USA,2024-12-20 14:50:04.675626,371.82,USA,714,108,Medium,100000714,Savings,Mobile,Inactive,41772.25,INR
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2024-07-14 13:05:04.131899,2762.69,India,484,785,Medium,100000484,Savings,Branch,Inactive,63128.25,EUR
+400,Ryan Bryant,"PSC 9353, Box 5800, APO AA 72373",Canada,2024-06-15 15:43:04.354251,490.62,Canada,400,427,Low,100000400,Savings,Mobile,Active,75699.74,EUR
+286,Amber Gilmore,"366 William Canyon Suite 234, Lindseytown, AK 81291",India,2024-06-28 05:11:04.031472,2063.98,India,286,298,Low,100000286,Fixed Deposit,Online,Active,4558.29,CAD
+355,Katrina Bailey,"692 Bennett Mountain Apt. 867, Huntshire, VT 65415",Canada,2025-04-11 15:00:04.609969,4438.45,Canada,355,526,Low,100000355,Fixed Deposit,Branch,Closed,7986.31,CAD
+699,Joel Stout,"344 Mary Stream Apt. 106, Lake Leahchester, ND 70987",Canada,2024-07-14 22:15:04.113794,2487.19,Canada,699,493,Low,100000699,Savings,ATM,Closed,16281.91,GBP
+161,Anna Green,"984 Cassandra Brook Suite 930, New Alison, MT 73527",UK,2024-10-04 22:27:04.102354,2556.19,UK,161,970,Medium,100000161,Current,Branch,Active,37410.53,INR
+372,Steven Morales,"39921 Jason Common Suite 854, Williamsmouth, MO 92239",India,2025-02-26 11:16:04.421647,3132.57,India,372,527,Low,100000372,Savings,Online,Active,2803.96,CAD
+166,Chelsea King,"00803 Connie Trail, Pattersonshire, CA 65834",USA,2024-09-28 14:48:04.127635,1896.71,USA,166,674,Medium,100000166,Savings,ATM,Inactive,83694.95,EUR
+534,Carl Barr,"09965 Rogers Roads Apt. 674, East Shelbyville, LA 52030",USA,2024-09-08 11:29:04.667313,3793.98,USA,534,922,High,100000534,Current,Mobile,Inactive,55987.74,USD
+445,Tammy Cummings,"USNS Cooper, FPO AP 91838",UK,2024-09-12 15:37:04.453227,796.28,UK,445,677,High,100000445,Fixed Deposit,Branch,Inactive,81467.16,CAD
+832,Hunter Aguilar,"9394 Carroll Overpass Suite 465, Roberttown, PW 95089",USA,2024-06-30 06:39:04.431435,4270.88,USA,832,309,Medium,100000832,Current,Online,Closed,45791.51,CAD
+603,Thomas Baker,"61655 Gutierrez Overpass Apt. 447, Welchhaven, RI 72895",India,2024-08-18 02:01:04.595463,3854.02,India,603,539,High,100000603,Savings,Online,Inactive,18524.04,EUR
+477,Nathan Ramirez,"348 Heidi Bypass Suite 379, West Misty, AS 78208",Canada,2024-12-29 09:49:04.603000,112409.99999999999,Unknown,477,754,High,100000477,Fixed Deposit,Mobile,Active,8305.86,GBP
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2025-06-06 04:26:04.227440,1702.22,Germany,107,199,Low,100000107,Current,Branch,Inactive,41627.91,CAD
+924,Richard Allen,"20516 Young Path, North Michaelshire, SD 13211",USA,2024-07-22 07:09:04.310320,1544.75,USA,924,829,High,100000924,Current,Branch,Inactive,80185.67,GBP
+957,Ryan Burke,"85357 Diane Pike, New Markbury, VT 47724",India,2024-10-06 14:24:04.095852,184.74,India,957,66,Low,100000957,Savings,Online,Inactive,52372.85,GBP
+825,Angel Brown,"215 Mendoza Greens, West Michael, NM 72073",USA,2024-07-28 23:42:04.225414,194078.0,Unknown,825,905,High,100000825,Fixed Deposit,ATM,Active,54202.16,USD
+395,Amanda Martinez,"USNV Ruiz, FPO AE 14345",USA,2025-03-23 17:25:04.149045,175.97,USA,395,639,Low,100000395,Current,Mobile,Active,34739.55,INR
+700,Joe Williams,"11189 Kevin Cape Apt. 048, Lauraton, SD 86385",India,2025-02-21 18:10:04.516935,1968.47,India,700,650,Medium,100000700,Savings,ATM,Inactive,48632.87,INR
+237,Jamie Hardin,"34667 Bradley Green Apt. 039, Ginachester, MS 35754",UK,2024-06-20 17:34:04.021086,2787.89,UK,237,886,Low,100000237,Fixed Deposit,Online,Inactive,28796.46,USD
+791,Edward Mason,"9923 Parrish Corners, Garciafurt, MO 45774",Germany,2025-05-02 18:47:04.075339,3967.68,Germany,791,265,Medium,100000791,Savings,Mobile,Closed,16181.79,INR
+598,Donald Stevenson,"45371 Winters Tunnel Suite 446, Port Colleenhaven, ID 31032",Canada,2024-11-19 19:09:04.602040,978.4,Canada,598,167,Low,100000598,Fixed Deposit,Mobile,Active,18059.67,CAD
+681,Richard Nguyen,"461 Ashley Stream Apt. 641, Deborahmouth, AZ 08500",USA,2025-04-18 01:57:04.055550,618.77,USA,681,621,High,100000681,Current,Online,Closed,81890.14,INR
+971,Valerie Huber,"153 Butler Branch Apt. 760, Hernandezstad, FM 48418",Germany,2025-05-14 21:30:04.019201,4181.66,Germany,971,499,High,100000971,Fixed Deposit,Mobile,Active,66703.45,USD
+414,Dr. Samantha Mcpherson,"01749 Contreras Street, South Crystaltown, WV 13483",Germany,2024-11-23 14:42:04.154632,4901.75,Germany,414,237,Low,100000414,Fixed Deposit,Online,Closed,57770.35,EUR
+119,Stephen Griffin,"034 Shane Well, Lake Jennifertown, NV 97539",USA,2024-06-16 18:32:04.616025,3786.58,USA,119,472,High,100000119,Current,Branch,Active,89363.34,GBP
+851,Kimberly Elliott,"24914 Buck Crescent Apt. 514, New Kristenland, IL 23296",India,2024-12-28 12:06:04.160274,4263.32,India,851,994,High,100000851,Current,Branch,Active,7640.57,GBP
+483,Joe Gilbert,"506 Joshua Center Suite 700, Gonzalesborough, IA 70424",USA,2024-06-20 01:58:04.083024,4833.59,USA,483,404,Medium,100000483,Savings,Online,Active,45999.57,GBP
+930,Michael Carter Jr.,"80401 Kelly Hollow, Stuartmouth, NE 48286",USA,2024-12-03 01:41:04.644298,1637.58,USA,930,933,High,100000930,Current,ATM,Closed,26530.88,INR
+931,William Washington,"375 Marks Fords, Lake Paulafort, VA 97704",Germany,2024-10-01 11:41:04.151653,2384.22,Germany,931,562,High,100000931,Savings,Mobile,Closed,14796.25,USD
+258,Audrey Johnson,"32188 Cody Camp Suite 682, Deniseland, KS 09585",Canada,2025-05-08 21:05:04.139889,2801.95,Canada,258,81,Low,100000258,Current,Branch,Inactive,69906.95,INR
+427,Karla Banks,"Unit 6358 Box 2277, DPO AP 04421",Germany,2024-11-28 13:52:04.062425,1740.56,Germany,427,184,High,100000427,Current,Branch,Inactive,44711.52,EUR
+113,Anthony Arnold,"PSC 4233, Box 3656, APO AE 35739",Canada,2024-08-19 15:42:04.298986,2609.44,Canada,113,39,Low,100000113,Savings,ATM,Active,93040.07,EUR
+265,Matthew Landry,"90872 Lopez Mission Suite 839, Nguyenberg, VI 21097",Canada,2024-08-28 06:27:04.010446,1350.31,Canada,265,990,High,100000265,Fixed Deposit,ATM,Active,87859.93,USD
+640,Jenny Walker,"1933 Mercado Burg Suite 447, North Keithshire, MI 01091",India,2025-03-02 03:24:04.588154,3731.47,India,640,55,High,100000640,Fixed Deposit,Mobile,Active,38351.13,INR
+791,Edward Mason,"9923 Parrish Corners, Garciafurt, MO 45774",Germany,2024-08-19 13:28:04.337257,3311.66,Germany,791,125,Medium,100000791,Savings,ATM,Closed,16181.79,INR
+863,Luis Jimenez,"9657 Castro Forges, North Raven, CT 90763",India,2025-03-28 15:52:04.145199,4733.85,India,863,781,High,100000863,Current,Mobile,Inactive,52914.64,GBP
+533,Russell Mathews,"59888 Lisa Trail, West Matthewmouth, NJ 85057",USA,2024-09-11 10:23:04.125892,276.28,USA,533,99,High,100000533,Fixed Deposit,Online,Inactive,99667.05,INR
+139,Brandon Turner PhD,"90804 Craig Skyway, Williamsburgh, AL 85558",Canada,2024-08-27 01:57:04.077709,3522.22,Canada,139,78,Medium,100000139,Current,ATM,Inactive,36999.33,EUR
+345,Claudia Mullins,"622 Watson Haven Suite 557, New Ryanstad, MH 49739",Germany,2024-11-01 12:55:04.465763,730.52,Germany,345,674,High,100000345,Fixed Deposit,Branch,Inactive,40451.97,GBP
+658,Jennifer Montgomery,"29086 Todd Estate Apt. 716, West Kristie, OH 92720",India,2024-08-03 11:20:04.325892,298.67,India,658,974,Low,100000658,Current,Online,Active,36945.15,CAD
+322,Alan Brown,"564 David Mall, East Paula, KY 66481",Canada,2024-06-20 22:10:04.422687,1644.49,Canada,322,847,Medium,100000322,Savings,ATM,Active,71745.0,INR
+42,Jared Barber,"7828 Justin Mall Suite 754, Johnburgh, CO 67111",Canada,2025-05-16 06:51:04.028903,4624.04,Canada,42,127,Low,100000042,Current,Branch,Closed,50022.51,GBP
+994,Sarah Craig,"77321 Cruz Valleys, Mossville, KS 79193",Germany,2024-06-27 10:38:04.020537,3093.6,Germany,994,216,High,100000994,Fixed Deposit,Mobile,Inactive,59432.84,INR
+537,Elizabeth Freeman,"40016 Dawn Pass, Williamsburgh, PW 70508",USA,2024-08-23 05:14:04.409591,161.89,USA,537,457,Medium,100000537,Current,Branch,Active,85115.09,INR
+121,Emma Harvey,"5426 Emily Alley, Hernandezfurt, AL 48842",Germany,2024-06-26 01:03:04.083853,1078.4,Germany,121,13,High,100000121,Fixed Deposit,Online,Closed,80936.58,GBP
+964,Robert Walker,"Unit 9562 Box 6742, DPO AA 54021",UK,2024-06-10 13:35:04.290042,3916.19,UK,964,1,Low,100000964,Fixed Deposit,ATM,Inactive,39540.27,GBP
+201,Sara Archer,"2302 Wilson Oval Apt. 762, North Emily, CO 08836",Canada,2024-09-29 10:00:04.294965,52911.0,Unknown,201,148,High,100000201,Fixed Deposit,Mobile,Active,64561.13,EUR
+842,John Oliver,"7086 Mark Streets Suite 710, Lake Gabrielland, KY 66874",India,2024-08-26 14:52:04.136883,1054.35,India,842,942,Medium,100000842,Savings,Mobile,Inactive,66690.2,GBP
+969,Debra Espinoza,"1298 Hunt Skyway Apt. 649, New Preston, FL 80324",India,2024-06-09 21:57:04.401576,333.79,India,969,663,High,100000969,Current,ATM,Active,57074.06,GBP
+846,Tammy Randall,"9318 Crystal Oval, South Markmouth, ND 02563",India,2024-12-16 12:32:04.183320,213924.5,Unknown,846,935,High,100000846,Current,Mobile,Inactive,42047.79,EUR
+578,Scott Thompson,"7539 Greene Shoals, East Staceychester, UT 06884",UK,2025-02-02 07:25:04.115961,138895.0,Unknown,578,809,High,100000578,Current,Branch,Closed,92732.17,INR
+648,Philip Chavez,"94390 Garcia Meadows, Hutchinsonstad, TN 39973",Germany,2024-08-09 12:22:04.411216,1555.91,Germany,648,143,Medium,100000648,Savings,Mobile,Inactive,68231.13,USD
+464,Dr. John Cruz,"659 Perry Track Suite 151, Harrisonport, MD 22447",USA,2025-01-06 00:39:04.008548,3365.58,USA,464,708,High,100000464,Current,Online,Active,58753.51,CAD
+538,James Diaz,"0726 Mcclure Meadows Suite 433, Lake Zacharyport, TN 73195",UK,2025-03-24 19:02:04.443950,1087.17,UK,538,123,Medium,100000538,Savings,Online,Closed,25487.46,GBP
+713,Benjamin Burgess,"5919 Ryan Divide, Port Laurenville, MA 54802",USA,2024-07-30 15:32:04.052684,4625.07,USA,713,460,High,100000713,Savings,Branch,Inactive,47686.04,USD
+618,Amy Jacobs,"USNS Maldonado, FPO AA 65959",Canada,2024-12-23 19:49:04.148020,1140.78,Canada,618,196,High,100000618,Fixed Deposit,Online,Active,28410.89,CAD
+639,Kimberly Jenkins,"3487 Solis Meadow, Lake Cassidyville, DC 71598",India,2024-12-10 05:14:04.590633,1246.7,India,639,127,High,100000639,Fixed Deposit,ATM,Inactive,27655.08,CAD
+446,Diane Nelson,"PSC 3365, Box 3813, APO AP 13077",USA,2024-11-08 07:12:04.050261,114.81,USA,446,663,Medium,100000446,Current,Online,Closed,94777.61,CAD
+27,Susan Rowland,"3288 Emma Ways, East Meaganport, AS 15948",UK,2024-10-29 07:32:04.371092,318.38,UK,27,748,Low,100000027,Fixed Deposit,Mobile,Inactive,20767.7,CAD
+270,Robert Harris,"718 Brown Passage Suite 240, East Brianna, WA 22948",Germany,2024-12-16 23:04:04.089680,1711.47,Germany,270,461,Medium,100000270,Fixed Deposit,ATM,Closed,30065.59,EUR
+962,John Huff,"12460 Jerry Overpass Apt. 280, Steinville, GA 79318",Canada,2024-08-23 01:55:04.458355,1187.63,Canada,962,488,Low,100000962,Fixed Deposit,Online,Closed,60712.06,GBP
+85,Ashlee Bird,"1434 Jordan Mill, West Edwardberg, PA 24534",USA,2024-11-13 15:00:04.144554,4300.52,USA,85,88,Low,100000085,Current,Mobile,Closed,31787.25,CAD
+800,Megan Phelps,"63267 Joanne Pine Suite 852, Lake Stephenmouth, NV 07860",UK,2025-04-16 16:21:04.467353,3927.84,UK,800,587,Medium,100000800,Savings,Mobile,Active,92327.44,EUR
+995,Alex Mercer,"8388 Harris Turnpike Apt. 650, West Kaylafurt, IN 09223",UK,2024-08-10 00:54:04.070631,4113.4,UK,995,416,High,100000995,Fixed Deposit,Online,Closed,36736.42,EUR
+250,Robert Molina,"904 Robert Islands, Michaelstad, DC 01134",USA,2024-09-03 21:25:04.465268,1736.76,USA,250,21,High,100000250,Fixed Deposit,Branch,Closed,85447.94,USD
+250,Robert Molina,"904 Robert Islands, Michaelstad, DC 01134",USA,2024-06-26 08:02:04.142046,745.91,USA,250,52,High,100000250,Fixed Deposit,Branch,Closed,85447.94,USD
+17,Ms. Kelsey Smith,"6649 Roberts Courts Apt. 971, East Johnburgh, GU 50151",USA,2025-01-27 14:48:04.582783,84004.5,Unknown,17,6,High,100000017,Fixed Deposit,Branch,Closed,31119.98,EUR
+693,Richard Valencia,"0523 Adam Meadow Apt. 604, Port Michaelshire, NJ 30148",Canada,2024-09-25 11:46:04.625289,552.73,Canada,693,120,Medium,100000693,Savings,ATM,Closed,51253.43,GBP
+236,Eugene Anderson,"8827 Manning Courts Suite 060, South Coreyshire, AK 70696",USA,2025-05-08 20:37:04.343485,3115.71,USA,236,348,Medium,100000236,Fixed Deposit,Online,Closed,72522.76,USD
+671,Joseph Houston,"USS Vincent, FPO AP 78444",Germany,2024-11-12 11:46:04.066768,4256.11,Germany,671,954,High,100000671,Fixed Deposit,ATM,Closed,18163.99,EUR
+243,Patricia Rodriguez,"919 Meghan Row, West Marcus, SC 99192",India,2025-01-13 08:04:04.586193,3334.11,India,243,893,Medium,100000243,Fixed Deposit,Branch,Inactive,91571.57,GBP
+380,Michael Mcdonald,"67369 Joshua Views, Thomasborough, KY 76287",USA,2025-03-22 10:18:04.283621,4868.06,USA,380,776,Low,100000380,Fixed Deposit,Branch,Closed,28903.62,INR
+917,David Smith,"PSC 3639, Box 9007, APO AA 61382",UK,2024-10-11 14:55:04.041606,2421.62,UK,917,138,Medium,100000917,Fixed Deposit,Online,Inactive,30152.11,GBP
+902,Marilyn Rogers,"73450 Marshall Curve Apt. 636, Freemanside, NM 19840",Canada,2024-08-29 22:48:04.196132,1115.07,Canada,902,251,Low,100000902,Savings,Mobile,Closed,3626.69,CAD
+271,Michael Parker,"36403 Oneill Crest, Port Michael, PR 53494",USA,2024-11-30 12:10:04.061498,618.61,USA,271,579,Medium,100000271,Current,Branch,Closed,81126.75,GBP
+109,Tracy Berry,"Unit 5746 Box 9980, DPO AA 42449",Germany,2025-02-06 17:41:04.447574,1726.96,Germany,109,126,Medium,100000109,Fixed Deposit,Branch,Inactive,23651.02,GBP
+3,Kevin Strong,"20554 Megan Villages Apt. 077, Smithburgh, SC 41346",Germany,2024-06-13 13:16:04.436370,70.01,Germany,3,376,Low,100000003,Savings,Branch,Closed,73467.4,GBP
+574,Nicole Friedman,"9698 John Inlet, Hesterbury, AL 33006",India,2024-11-04 09:53:04.389719,4668.92,India,574,301,High,100000574,Savings,Mobile,Closed,62586.58,EUR
+316,Chelsea Ferguson,"140 Bartlett Row, Port Cheryl, NH 50476",USA,2025-04-10 10:58:04.106108,530.76,USA,316,297,Medium,100000316,Current,Branch,Inactive,69901.45,GBP
+346,James Richmond,"207 Laura Islands, Leachview, KY 19421",Germany,2025-01-21 19:31:04.137735,179.22,Germany,346,142,High,100000346,Fixed Deposit,Mobile,Active,61969.16,GBP
+549,Diamond Pierce,"459 Anthony Drive, Smithfort, AL 35759",USA,2024-10-09 18:20:04.589140,4735.58,USA,549,723,High,100000549,Current,Branch,Inactive,52510.46,EUR
+721,Jonathan Cox,"5377 Nathan Mountains, Josephfurt, TN 58400",UK,2024-09-26 00:22:04.373706,1850.77,UK,721,464,Low,100000721,Current,Online,Closed,93895.71,USD
+658,Jennifer Montgomery,"29086 Todd Estate Apt. 716, West Kristie, OH 92720",India,2024-10-11 09:41:04.610521,68.45,India,658,97,Low,100000658,Current,ATM,Active,36945.15,CAD
+184,Eric Flores,"66920 John Summit, Lake Frankfort, MH 07897",Germany,2025-03-01 13:48:04.425140,1786.76,Germany,184,852,Medium,100000184,Savings,Online,Closed,87856.6,GBP
+337,Nicholas Brown,"97715 John Squares, North Lisa, OH 32792",Germany,2024-07-01 00:57:04.112470,475.94,Germany,337,534,Low,100000337,Savings,Branch,Closed,85690.6,USD
+474,Matthew Morrison,"PSC 9118, Box 8005, APO AE 37866",Germany,2024-07-14 00:43:04.229876,4651.26,Germany,474,12,Medium,100000474,Fixed Deposit,ATM,Inactive,89223.17,CAD
+812,Tony Prince,"0560 Phelps Stravenue, South Carla, ME 20671",Canada,2025-03-23 15:28:04.065468,465.28,Canada,812,844,High,100000812,Savings,Branch,Inactive,84050.91,GBP
+770,Laura Ramirez,"USNS Wise, FPO AE 70271",India,2025-03-04 15:10:04.081713,1598.27,India,770,503,Medium,100000770,Fixed Deposit,Branch,Closed,82304.47,INR
+517,Carolyn Kennedy,"0622 Jacqueline Mills Apt. 935, New Randallstad, UT 38853",Canada,2024-12-07 20:52:04.133599,2639.03,Canada,517,956,Medium,100000517,Current,ATM,Active,38269.87,GBP
+56,Kelly Warren,"063 Benjamin Trafficway Suite 703, West Jamesfort, TN 24347",USA,2025-02-07 05:45:04.044357,4188.96,USA,56,379,Low,100000056,Fixed Deposit,Mobile,Closed,92265.55,USD
+795,Lauren Duran,"92228 Hendricks Drives Suite 010, Michaelmouth, OR 44458",India,2024-10-24 08:15:04.119278,1854.3,India,795,825,High,100000795,Fixed Deposit,Online,Inactive,2792.91,GBP
+703,Kathy Moore,"169 Kimberly Field, North Veronicamouth, CO 64034",USA,2025-03-22 02:10:04.263135,4162.42,USA,703,280,Low,100000703,Fixed Deposit,Online,Inactive,34323.82,USD
+13,Tracey Walker,"USNS Wright, FPO AE 18306",USA,2024-07-13 03:27:04.569269,3893.32,USA,13,811,Medium,100000013,Savings,Branch,Closed,83411.82,EUR
+503,Dennis Morris,"393 Anderson Passage, Dominiquechester, NE 87692",UK,2024-09-25 07:50:04.622734,3434.85,UK,503,426,High,100000503,Current,ATM,Inactive,31643.23,INR
+100,Kathleen Patterson,"7951 Michelle Ramp Suite 696, New Veronicaburgh, IL 97366",UK,2024-07-14 06:04:04.128886,891.1,UK,100,480,Low,100000100,Current,Branch,Active,11681.25,GBP
+802,Teresa Snyder,"127 Nash Cove Suite 825, West Carlosfort, KS 46228",India,2024-08-18 19:24:04.621702,3631.14,India,802,302,Low,100000802,Current,ATM,Active,16101.37,EUR
+34,Sarah Thornton,"594 Davis Fords Suite 207, Deborahfort, CA 20163",UK,2025-03-02 05:26:04.390868,3876.45,UK,34,299,High,100000034,Current,Mobile,Active,94939.67,CAD
+709,Michael White,"1067 Allen Prairie Suite 449, Lake Rhonda, NE 70741",USA,2025-01-06 09:56:04.453712,737.23,USA,709,207,Low,100000709,Fixed Deposit,Branch,Active,26209.42,USD
+419,Bradley Evans,"344 Carlson Plain Suite 302, New Johnstad, CT 84618",Germany,2025-03-11 07:55:04.594296,4176.07,Germany,419,185,Medium,100000419,Savings,ATM,Closed,67579.33,INR
+885,Yvonne Barnett,"11476 Gutierrez Motorway Apt. 892, Mercadoberg, AZ 82344",UK,2024-10-09 09:28:04.328166,107078.0,Unknown,885,302,High,100000885,Current,Online,Closed,80191.69,GBP
+706,Madeline Hamilton,"6191 Jeffrey Isle, South Eric, ND 60450",Canada,2025-05-31 13:32:04.028496,2965.06,Canada,706,981,Medium,100000706,Savings,Mobile,Closed,99006.06,INR
+582,Casey Patton,"91780 Maria Junction Suite 829, Christyborough, PR 14331",USA,2025-01-26 22:22:04.559387,4526.79,USA,582,950,High,100000582,Fixed Deposit,Mobile,Active,98023.22,USD
+873,Keith Wade,"6103 Brenda Mews, Harringtonberg, MD 75854",India,2025-03-27 10:20:04.063634,3699.6,India,873,754,High,100000873,Fixed Deposit,Mobile,Inactive,64755.95,USD
+876,Matthew Bailey,"256 Daniel Oval Suite 156, Michaelview, WY 72724",UK,2024-12-21 16:56:04.271601,3877.77,UK,876,808,Low,100000876,Savings,Online,Active,16459.11,EUR
+84,Shelly Robinson,"407 Crystal Park Apt. 512, Port Frank, RI 30814",USA,2024-06-23 20:52:04.236126,1904.25,USA,84,579,High,100000084,Savings,Online,Active,7292.28,EUR
+474,Matthew Morrison,"PSC 9118, Box 8005, APO AE 37866",Germany,2024-06-23 11:00:04.056808,2822.23,Germany,474,919,Medium,100000474,Fixed Deposit,Branch,Inactive,89223.17,CAD
+435,Caitlin Bender,"509 Meza Cliffs Suite 033, Olsenstad, DE 27992",Germany,2024-11-13 02:00:04.664406,242.05,Germany,435,323,High,100000435,Current,Online,Active,9326.57,CAD
+57,Jason Lopez,"8177 Brown Mall Apt. 278, Skinnerhaven, MN 05295",UK,2025-05-18 11:19:04.232809,917.74,UK,57,817,Medium,100000057,Savings,Branch,Inactive,9760.76,GBP
+660,John Mckay,"10030 Lane Wells, Kristenland, WA 05271",UK,2024-10-21 23:52:04.440377,14.08,UK,660,704,High,100000660,Savings,Branch,Inactive,57507.05,USD
+214,Guy Howard,"891 Underwood Walks Suite 312, Ramosville, AL 69585",UK,2024-11-22 14:44:04.159253,4444.55,UK,214,748,High,100000214,Current,Mobile,Closed,23202.66,USD
+302,Todd Taylor,"675 Hailey Tunnel, Lambmouth, NY 19035",India,2024-07-16 18:07:04.114680,563.99,India,302,242,High,100000302,Fixed Deposit,Online,Active,53604.11,INR
+543,Megan Rodriguez,"408 Marshall Haven Apt. 267, Adamsmouth, PW 47341",Germany,2024-06-10 14:32:04.489579,12895.500000000002,Unknown,543,643,High,100000543,Current,Mobile,Closed,23635.64,GBP
+780,Joshua Beck,"20991 Edward Pass Apt. 176, North Garychester, CT 83052",India,2025-01-01 13:19:04.393613,1377.11,India,780,469,Low,100000780,Fixed Deposit,ATM,Closed,64473.62,CAD
+4,Michael Jones,"82321 Moore Shore, Allenland, MD 49116",USA,2024-12-17 09:00:04.561992,4230.45,USA,4,949,High,100000004,Savings,Online,Active,60267.19,EUR
+578,Scott Thompson,"7539 Greene Shoals, East Staceychester, UT 06884",UK,2025-02-02 07:25:04.115961,2777.9,UK,578,809,Medium,100000578,Current,Branch,Closed,92732.17,INR
+83,Jennifer George,"3283 Clements Fords Apt. 813, North Michelle, PR 57531",India,2025-01-24 10:44:04.418104,611.08,India,83,890,High,100000083,Fixed Deposit,Branch,Closed,33758.9,GBP
+416,Keith Cummings,"03710 Lisa Rest, South Amberport, MH 48840",UK,2024-09-05 17:26:04.343006,4191.83,UK,416,512,Medium,100000416,Savings,Online,Active,45396.11,INR
+301,Ronald Castro,"344 Reyes Highway Apt. 784, Lake Nathanside, NM 82524",Canada,2025-04-06 10:13:04.049019,4966.12,Canada,301,617,Medium,100000301,Fixed Deposit,Branch,Active,6116.49,GBP
+522,Phillip Kirk,"2204 Alexandria Glens Suite 946, East Amber, MS 85026",Canada,2024-07-29 05:12:04.300478,374.69,Canada,522,536,Low,100000522,Current,Branch,Closed,38708.19,EUR
+878,Jesse Olson,"1024 Bryan Vista Suite 586, Millerfort, VI 02862",Canada,2024-09-20 06:36:04.256770,4515.46,Canada,878,455,High,100000878,Current,Branch,Closed,66233.47,GBP
+146,Haley Salas,"Unit 1215 Box 3855, DPO AA 97914",UK,2025-02-17 05:50:04.350039,1161.57,UK,146,330,Medium,100000146,Current,Mobile,Closed,4651.81,INR
+255,Joanna Ramsey,"55559 Bullock Island Suite 650, Simpsonbury, AS 69067",UK,2024-12-21 16:31:04.170367,903.77,UK,255,705,High,100000255,Savings,Mobile,Inactive,17779.78,INR
+6,Marie Rojas,"9801 Adams Lane, Port Nathanhaven, WV 96841",Germany,2025-05-01 05:40:04.345189,2888.0,Germany,6,948,High,100000006,Current,Mobile,Active,16443.46,GBP
+594,Richard West,"USCGC Brown, FPO AA 76680",UK,2024-11-06 08:24:04.233884,3249.45,UK,594,474,High,100000594,Current,ATM,Closed,35221.06,USD
+362,Christopher Fox,"65979 Ellis Island Suite 954, Williamton, PA 08551",UK,2024-08-14 21:47:04.261447,2637.51,UK,362,24,Low,100000362,Current,Mobile,Inactive,64685.53,EUR
+392,Steven Nunez,"34915 Shelton Fields, Danaburgh, DC 13680",Canada,2025-05-31 01:46:04.615484,3649.28,Canada,392,120,High,100000392,Savings,Branch,Closed,41849.15,CAD
+688,Christopher Chavez,"Unit 8935 Box 4279, DPO AA 99923",UK,2024-08-17 08:11:04.333571,3158.8,UK,688,73,High,100000688,Savings,Branch,Closed,28717.93,INR
+518,Raymond Gilmore,"06978 Smith Rue, North Geraldville, VT 18179",Canada,2024-12-15 17:47:04.092595,4843.4,Canada,518,656,Low,100000518,Current,Branch,Closed,81244.78,CAD
+399,Melissa Lopez,"6284 James Canyon Apt. 849, Nathanhaven, MT 78915",UK,2024-10-20 19:36:04.313410,2390.17,UK,399,675,Low,100000399,Savings,Mobile,Active,75336.24,GBP
+927,Anthony Grimes,"USNS Richardson, FPO AA 02995",UK,2025-02-27 03:37:04.358499,2147.16,UK,927,55,Low,100000927,Current,Mobile,Active,27599.06,EUR
+601,Lisa Espinoza,"90564 Francisco Meadow, North Abigailchester, HI 27805",Germany,2025-03-02 05:16:04.105665,910.25,Germany,601,423,Medium,100000601,Fixed Deposit,Mobile,Active,17724.57,EUR
+418,Jennifer Williams,"361 Hammond Branch, Deannaville, IA 33771",India,2025-03-30 21:22:04.143611,2751.97,India,418,152,Low,100000418,Current,Branch,Inactive,33537.79,GBP
+786,Sharon Wu,"57082 Heidi Branch, South Jason, LA 07350",Canada,2024-07-18 15:22:04.217075,4448.22,Canada,786,586,Low,100000786,Savings,Branch,Active,90936.61,GBP
+462,Jason Miller,"09971 Brittany Run, Alexside, AR 45796",Germany,2024-10-05 10:04:04.441962,3967.59,Germany,462,917,Low,100000462,Savings,Mobile,Active,65271.82,GBP
+918,James Wilson,"7220 Snow Spurs, Port Darren, NM 53520",India,2024-07-06 00:43:04.060123,157.62,India,918,385,Low,100000918,Current,ATM,Inactive,94896.88,USD
+440,Terry Smith,"34130 Rhonda Streets, Davidhaven, RI 94889",Germany,2025-03-17 23:54:04.570284,17.84,Germany,440,114,High,100000440,Current,Mobile,Active,9053.53,INR
+689,Christina Rice,"56728 Wallace Burgs Suite 131, Emmahaven, PA 29383",Canada,2024-10-12 02:57:04.619561,153575.0,Unknown,689,309,High,100000689,Fixed Deposit,Branch,Closed,77179.8,EUR
+449,Alexander Roberson,"3064 Gonzalez Shoal Apt. 733, Phillipsstad, MO 37162",India,2025-02-14 08:23:04.138585,1156.15,India,449,583,Low,100000449,Current,ATM,Inactive,38249.7,GBP
+25,Matthew Brooks,"52271 Watson Shoals Suite 471, Mccluretown, UT 59983",India,2024-06-10 22:07:04.612804,129.71,India,25,898,High,100000025,Current,Branch,Active,46150.93,EUR
+114,Margaret Howe,"48966 Jay Shores, Williamschester, FM 79524",USA,2025-03-18 06:31:04.352657,1700.01,USA,114,797,Low,100000114,Savings,Branch,Inactive,81003.92,CAD
+885,Yvonne Barnett,"11476 Gutierrez Motorway Apt. 892, Mercadoberg, AZ 82344",UK,2025-01-26 15:34:04.089272,1657.11,UK,885,221,High,100000885,Current,Online,Closed,80191.69,GBP
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-10-26 12:37:04.276751,3643.34,Germany,107,804,Low,100000107,Current,ATM,Inactive,41627.91,CAD
+962,John Huff,"12460 Jerry Overpass Apt. 280, Steinville, GA 79318",Canada,2024-06-27 16:48:04.613311,78.77,Canada,962,776,Low,100000962,Fixed Deposit,ATM,Closed,60712.06,GBP
+21,Isaac Sanders,"761 Thomas Brooks Suite 552, West Davidtown, MP 87660",USA,2025-05-24 18:48:04.403644,309.24,USA,21,316,Low,100000021,Savings,Mobile,Closed,61573.44,INR
+187,Leslie Gonzales,"416 Vega Fords, Lorifurt, MH 58169",USA,2024-07-10 05:04:04.338385,2364.01,USA,187,648,Medium,100000187,Savings,ATM,Closed,81905.0,EUR
+824,Andrew Rivera,"126 Alan Ridges Suite 457, Lake Sandramouth, CA 82286",UK,2025-01-30 23:42:04.034716,1596.36,UK,824,321,Medium,100000824,Fixed Deposit,Branch,Active,40418.7,INR
+265,Matthew Landry,"90872 Lopez Mission Suite 839, Nguyenberg, VI 21097",Canada,2024-08-28 08:11:04.134838,4158.63,Canada,265,385,High,100000265,Fixed Deposit,ATM,Active,87859.93,USD
+941,Sara Gonzalez,"4945 Patty Fall, East Victoria, NY 84351",UK,2024-06-25 15:44:04.442543,2855.89,UK,941,14,Low,100000941,Savings,Online,Closed,28131.47,GBP
+162,Scott Roach,"USS Ryan, FPO AE 33340",Canada,2024-07-18 05:30:04.346877,40479.0,Unknown,162,177,High,100000162,Current,ATM,Closed,63598.28,INR
+849,Jonathan Fitzgerald,"22231 Collier Flats Suite 743, Millerview, WI 70232",Germany,2024-12-22 12:12:04.134433,354.59,Germany,849,846,Medium,100000849,Savings,Mobile,Inactive,50717.31,CAD
+168,Bruce Barnes,"28784 Rachel Harbor Apt. 070, North Michael, MP 02379",India,2024-11-18 22:13:04.097075,400.47,India,168,671,Medium,100000168,Fixed Deposit,Mobile,Closed,19465.33,INR
+368,Michael Phillips,"636 Sharp Garden Suite 537, Port Travis, OH 37204",UK,2025-03-13 17:12:04.351626,2875.12,UK,368,567,High,100000368,Current,Online,Closed,90629.71,INR
+982,Phillip Delgado,"727 Mercado Key, Port Natalieborough, ID 92722",UK,2024-12-24 16:31:04.419601,1884.42,UK,982,150,Medium,100000982,Fixed Deposit,Mobile,Inactive,77320.31,USD
+150,Mark Ortiz,"4410 Mariah Underpass, South Arthurchester, ID 49549",UK,2024-09-07 18:57:04.373237,4407.5,UK,150,436,Low,100000150,Savings,Online,Closed,28586.0,EUR
+684,Ricardo Blair,"USNV Diaz, FPO AE 48223",USA,2024-09-06 06:43:04.101776,1408.37,USA,684,481,Low,100000684,Current,Branch,Inactive,67195.68,INR
+500,Jeremiah Fox,"3494 Michael Walk, North Stephen, IL 41159",UK,2024-09-14 10:19:04.259086,3251.21,UK,500,842,Medium,100000500,Savings,Mobile,Active,98634.86,GBP
+172,Nicholas Small,"6455 Joseph Forges Apt. 136, Debrabury, MN 87381",UK,2025-01-30 15:08:04.155906,2912.23,UK,172,41,Medium,100000172,Savings,ATM,Active,2642.2,GBP
+429,Sarah Martinez,"47507 Thomas Fords Apt. 697, Lake Bradleyton, KY 97751",UK,2024-08-30 05:08:04.029357,3973.2,UK,429,551,Low,100000429,Savings,Mobile,Active,35740.59,GBP
+293,Brian Smith,"502 Flores Mountain Suite 279, Rileyburgh, MS 24595",Germany,2024-10-02 10:19:04.056413,4504.9,Germany,293,96,High,100000293,Current,Online,Active,82437.46,USD
+877,Nicholas Clay,"80522 Cisneros Port Suite 987, West Michaelborough, MO 30392",India,2025-03-30 03:43:04.208664,1358.05,India,877,483,Medium,100000877,Savings,ATM,Inactive,71881.25,EUR
+468,Jessica Gomez,"823 Katie Estate, Pinedaland, PW 58748",USA,2024-10-02 01:56:04.139027,3019.05,USA,468,812,High,100000468,Current,Online,Inactive,86991.31,INR
+43,Michael Hodges,"162 Diaz Ford Suite 619, Lake Allison, WV 08518",UK,2025-02-03 11:22:04.375125,4757.93,UK,43,303,Low,100000043,Savings,Online,Active,4404.46,INR
+723,Roberto King,"628 Jackson Rest Apt. 784, New Jim, UT 57513",USA,2024-09-23 03:15:04.257377,2216.48,USA,723,927,High,100000723,Fixed Deposit,ATM,Inactive,7583.13,EUR
+723,Roberto King,"628 Jackson Rest Apt. 784, New Jim, UT 57513",USA,2025-03-12 06:02:04.574765,2809.29,USA,723,719,High,100000723,Fixed Deposit,Branch,Inactive,7583.13,EUR
+946,Kristen Martin,"0779 Brandon Greens, Andreview, MP 16301",USA,2025-03-11 10:25:04.069232,4105.99,USA,946,630,Medium,100000946,Savings,ATM,Active,2088.59,USD
+884,Sean Brown,"022 Tucker Plains, South Rebecca, FM 04586",UK,2024-07-05 05:02:04.536791,2077.06,UK,884,688,High,100000884,Savings,Mobile,Closed,11306.75,EUR
+956,Charles Dodson,"Unit 7108 Box 7459, DPO AA 44504",Germany,2024-09-13 02:56:04.438385,1520.11,Germany,956,113,Medium,100000956,Savings,ATM,Closed,38930.71,EUR
+288,Alex Frost,"22425 Rice Spur Suite 119, Port Cassandraview, IL 25110",India,2024-07-08 07:53:04.105245,2351.36,India,288,292,Medium,100000288,Current,ATM,Inactive,54721.82,USD
+468,Jessica Gomez,"823 Katie Estate, Pinedaland, PW 58748",USA,2025-03-10 21:38:04.272741,7465.5,Unknown,468,473,High,100000468,Current,ATM,Inactive,86991.31,INR
+199,Julie Decker,"USCGC Eaton, FPO AP 52264",Canada,2025-02-04 01:48:04.355299,3569.83,Canada,199,422,Low,100000199,Fixed Deposit,Online,Inactive,88821.56,USD
+170,James Kelley,"05072 Misty Street Suite 581, Floreston, CO 11284",Canada,2025-04-29 22:38:04.329991,4904.29,Canada,170,800,High,100000170,Current,Online,Active,59498.4,USD
+100,Kathleen Patterson,"7951 Michelle Ramp Suite 696, New Veronicaburgh, IL 97366",UK,2024-10-15 21:44:04.269908,3207.67,UK,100,100,Low,100000100,Current,Branch,Active,11681.25,GBP
+696,Adam Dixon,"132 Valerie Squares, Ericfort, MT 81239",USA,2024-06-23 14:18:04.344622,3739.89,USA,696,963,High,100000696,Current,Mobile,Closed,61451.38,INR
+574,Nicole Friedman,"9698 John Inlet, Hesterbury, AL 33006",India,2024-08-15 10:46:04.090948,1824.5,India,574,591,High,100000574,Savings,Mobile,Closed,62586.58,EUR
+560,Sherri Hill,"08394 Jose Fort Apt. 590, Millerborough, CT 53218",USA,2024-11-11 05:49:04.171036,1535.83,USA,560,438,High,100000560,Fixed Deposit,Branch,Inactive,62410.65,GBP
+673,Jamie Stewart,"352 Mercado Centers, Barbaramouth, OK 94689",Canada,2025-05-09 01:10:04.007208,1938.44,Canada,673,687,Medium,100000673,Current,Mobile,Closed,8943.14,USD
+715,Rachel Jordan,"19929 Blake Fields, Millershire, VI 30122",UK,2025-03-02 07:14:04.618090,3446.86,UK,715,713,Low,100000715,Current,Branch,Active,35537.96,EUR
+317,Heather Gardner,"1448 Gill Falls Apt. 277, Smithborough, NJ 58700",Germany,2024-12-23 03:26:04.597490,2712.18,Germany,317,858,Low,100000317,Current,Online,Inactive,41486.34,INR
+825,Angel Brown,"215 Mendoza Greens, West Michael, NM 72073",USA,2024-07-28 23:42:04.225414,3881.56,USA,825,905,Medium,100000825,Fixed Deposit,ATM,Active,54202.16,USD
+880,Ann Wilson,"15205 Adkins Place Apt. 290, South Lindachester, WI 83065",India,2024-06-11 11:19:04.346302,1516.22,India,880,249,Medium,100000880,Fixed Deposit,Online,Inactive,22975.24,EUR
+771,Lucas Weaver,"169 Jason Lakes, Lake Pamela, AL 44754",India,2025-03-15 06:10:04.420098,858.25,India,771,366,Low,100000771,Current,ATM,Active,11952.54,USD
+86,Jason Robinson,"39118 Reginald Extension, Lawsonborough, PA 15371",India,2024-10-10 06:21:04.260827,416.47,India,86,342,Medium,100000086,Savings,ATM,Active,33193.15,INR
+375,Connie Marshall,"441 Nichole Gardens Apt. 296, New Hannahberg, WV 98445",Canada,2024-10-14 05:20:04.425617,2458.67,Canada,375,428,Medium,100000375,Savings,Mobile,Active,8047.68,INR
+602,Robert Aguilar,"Unit 1808 Box 6068, DPO AA 84906",USA,2025-05-14 05:46:04.045213,3693.02,USA,602,903,High,100000602,Savings,ATM,Closed,28580.44,EUR
+73,Shannon Little,"675 Hunter View, Jonesview, WI 12087",Germany,2024-12-08 13:36:04.229381,995.33,Germany,73,342,Low,100000073,Current,Mobile,Active,1546.69,INR
+412,Richard Mcdonald,"582 Harris Centers Suite 126, East Kelly, KS 92630",Canada,2025-03-09 01:06:04.231840,1371.32,Canada,412,853,High,100000412,Fixed Deposit,ATM,Inactive,95056.13,INR
+659,Lori Smith,"598 Bryant Spurs, Lewisburgh, UT 65019",India,2025-03-31 00:46:04.160814,310.67,India,659,556,Low,100000659,Fixed Deposit,Mobile,Inactive,64945.81,GBP
+102,Jennifer Luna,"951 Sanders Orchard, South Alexanderburgh, PR 28061",India,2025-05-14 08:54:04.057212,376.07,India,102,380,High,100000102,Savings,Branch,Closed,64004.63,INR
+944,Janet Lane,"247 Higgins Extensions, Port Mallorystad, ME 35208",USA,2025-02-04 19:59:04.253189,4505.66,USA,944,509,Medium,100000944,Fixed Deposit,ATM,Active,83144.44,USD
+588,Mr. Ruben Lopez,"2820 Everett Alley, South Peter, RI 78284",India,2024-08-30 13:04:04.298476,3147.24,India,588,421,High,100000588,Savings,Online,Active,13759.09,CAD
+766,John Miller,"56310 Sue Valley, North Stephenville, MD 43255",Canada,2024-06-19 09:18:04.606378,4015.5,Canada,766,664,High,100000766,Current,Branch,Closed,57419.08,USD
+648,Philip Chavez,"94390 Garcia Meadows, Hutchinsonstad, TN 39973",Germany,2024-07-18 10:54:04.606850,28130.5,Unknown,648,540,High,100000648,Savings,Online,Inactive,68231.13,USD
+222,Jonathan Miller,"798 Jackson Rue, Jasmineton, CT 82201",Canada,2025-03-23 11:12:04.618572,2866.58,Canada,222,665,Low,100000222,Fixed Deposit,Branch,Closed,57262.55,GBP
+411,Daniel Campbell,"559 Weiss Way, East Calvin, FL 21645",India,2025-04-06 07:33:04.228267,2192.66,India,411,641,High,100000411,Current,Mobile,Inactive,32612.05,USD
+477,Nathan Ramirez,"348 Heidi Bypass Suite 379, West Misty, AS 78208",Canada,2024-12-29 09:49:04.603000,2248.2,Canada,477,754,High,100000477,Fixed Deposit,Mobile,Active,8305.86,GBP
+717,Mary Evans,"2824 Darrell Trail Suite 401, North Stephen, AZ 84287",UK,2024-06-12 23:56:04.314014,914.76,UK,717,268,High,100000717,Current,Mobile,Inactive,83231.32,EUR
+831,Michael Watson,"102 Martin Plains, Samuelfurt, MI 53822",UK,2024-07-01 15:48:04.080441,2744.71,UK,831,693,High,100000831,Current,Online,Active,23235.88,USD
+338,Ian Bennett,"8812 Griffin Freeway, Port Michaelfurt, NJ 72611",India,2024-10-18 13:12:04.621178,451.71,India,338,21,Medium,100000338,Current,Mobile,Closed,70662.13,CAD
+987,Bobby Simmons,"94631 Mitchell Plains Suite 834, Hoodfurt, KS 10165",Germany,2024-08-28 02:48:04.125054,4117.38,Germany,987,785,Low,100000987,Savings,ATM,Closed,69151.84,CAD
+263,Ronald Frank,"858 Weaver Coves Suite 141, New Charles, TN 92480",India,2025-04-02 14:53:04.669907,3290.48,India,263,400,High,100000263,Fixed Deposit,ATM,Inactive,14868.32,USD
+960,Chris Hughes,"787 Tiffany Trail, Anthonyfort, MD 88977",Canada,2024-07-25 04:39:04.025497,3255.74,Canada,960,657,Low,100000960,Fixed Deposit,Online,Closed,74065.33,CAD
+449,Alexander Roberson,"3064 Gonzalez Shoal Apt. 733, Phillipsstad, MO 37162",India,2024-06-13 18:26:04.625756,4525.72,India,449,460,Low,100000449,Current,Mobile,Inactive,38249.7,GBP
+892,Justin Medina,"USS Alvarez, FPO AE 09735",Canada,2024-08-05 05:38:04.067200,165716.0,Unknown,892,729,High,100000892,Fixed Deposit,Mobile,Closed,85713.95,CAD
+891,Nicole Klein,"USNS Bird, FPO AE 23927",India,2024-10-26 18:07:04.516068,1710.84,India,891,865,High,100000891,Fixed Deposit,Online,Active,72504.43,USD
+67,Robin Knight,"626 Webb River Apt. 052, Port Williamside, MT 29517",Germany,2025-01-11 20:07:04.091371,4260.08,Germany,67,800,Low,100000067,Fixed Deposit,Branch,Active,14951.5,CAD
+817,Kyle Wilson,"71613 Joseph Throughway Suite 985, Aimeebury, LA 82834",India,2024-06-13 10:26:04.152094,2288.92,India,817,712,Low,100000817,Current,Branch,Closed,59536.27,INR
+328,Shannon Morris,"75274 Snyder Throughway, Port Tammyshire, TX 04486",Germany,2025-05-28 03:24:04.106954,309.13,Germany,328,329,Medium,100000328,Current,Online,Closed,61560.35,GBP
+241,Joel Huber,"75147 Roy Lakes, South Chelseachester, DC 29623",USA,2024-07-25 07:54:04.146168,1606.74,USA,241,575,High,100000241,Fixed Deposit,Mobile,Inactive,94105.4,CAD
+419,Bradley Evans,"344 Carlson Plain Suite 302, New Johnstad, CT 84618",Germany,2025-01-06 13:43:04.120717,3040.6,Germany,419,573,Medium,100000419,Savings,Branch,Closed,67579.33,INR
+146,Haley Salas,"Unit 1215 Box 3855, DPO AA 97914",UK,2025-01-25 22:22:04.138179,3902.23,UK,146,239,Medium,100000146,Current,Branch,Closed,4651.81,INR
+106,Christopher Spencer,"PSC 3309, Box 4673, APO AA 42708",India,2024-12-24 18:01:04.163986,3885.36,India,106,784,High,100000106,Fixed Deposit,ATM,Closed,25679.93,EUR
+410,Vicki Watts,"251 Michael Port, South Matthewburgh, OH 17716",Germany,2024-11-12 22:48:04.478795,4195.23,Germany,410,425,High,100000410,Fixed Deposit,Branch,Inactive,10037.38,EUR
+199,Julie Decker,"USCGC Eaton, FPO AP 52264",Canada,2024-08-24 23:05:04.090089,4992.85,Canada,199,574,Low,100000199,Fixed Deposit,Online,Inactive,88821.56,USD
+720,Janet Watkins,"1820 Matthew Well Suite 591, Wellsberg, PR 28268",India,2024-12-20 16:20:04.439357,2356.49,India,720,85,Low,100000720,Current,Branch,Inactive,73355.88,INR
+144,Jason Mayer,"84267 Santos Pines Apt. 997, Hamptonmouth, TX 54461",UK,2025-01-24 03:22:04.575272,1976.41,UK,144,615,Low,100000144,Savings,ATM,Closed,30786.95,EUR
+565,Miss Megan Patel,"71421 Nichols Knolls, West Brandi, MP 55882",USA,2024-08-04 14:39:04.427239,3319.67,USA,565,912,High,100000565,Savings,ATM,Active,35708.17,CAD
+278,Kathleen Stewart,"2949 Williams Underpass Apt. 826, Port Kelseymouth, AL 47740",UK,2025-02-13 17:49:04.053088,681.27,UK,278,175,High,100000278,Savings,Mobile,Closed,65346.43,EUR
+917,David Smith,"PSC 3639, Box 9007, APO AA 61382",UK,2025-01-03 05:19:04.617063,3770.77,UK,917,824,Medium,100000917,Fixed Deposit,Mobile,Inactive,30152.11,GBP
+415,Ethan Salazar,"821 Armstrong Union Suite 620, South Stephanie, LA 75841",UK,2024-10-13 09:06:04.022457,3392.48,UK,415,25,Low,100000415,Fixed Deposit,Online,Closed,63551.88,GBP
+689,Christina Rice,"56728 Wallace Burgs Suite 131, Emmahaven, PA 29383",Canada,2024-10-12 02:57:04.619561,3071.5,Canada,689,309,Medium,100000689,Fixed Deposit,Branch,Closed,77179.8,EUR
+294,Erika Hood,"96220 Myers Keys Apt. 035, Thomasmouth, NJ 65432",Germany,2024-09-24 11:36:04.348458,4682.68,Germany,294,117,Medium,100000294,Fixed Deposit,Mobile,Active,36658.87,GBP
+632,Michael Martin DDS,"4677 Blake Route, Jackborough, NY 25801",UK,2024-07-02 22:22:04.052281,1528.18,UK,632,900,Medium,100000632,Current,Mobile,Inactive,89625.48,INR
+131,Adam Cummings,"4851 Watson Port, Port Benjamin, NC 24700",India,2024-11-07 01:03:04.364940,2809.41,India,131,243,Medium,100000131,Current,Mobile,Active,42323.69,INR
+913,Christina Johnson,"Unit 1613 Box 5134, DPO AE 29475",Canada,2025-01-11 09:44:04.596483,3239.71,Canada,913,27,Medium,100000913,Fixed Deposit,Online,Active,62790.74,USD
+479,Lauren Pacheco,"23840 Flores Branch, Zunigamouth, MO 16675",India,2025-04-19 14:52:04.670490,4987.87,India,479,219,High,100000479,Current,ATM,Closed,96960.95,CAD
+372,Steven Morales,"39921 Jason Common Suite 854, Williamsmouth, MO 92239",India,2025-04-02 15:23:04.310858,2401.99,India,372,85,Low,100000372,Savings,ATM,Active,2803.96,CAD
+494,Ann Cobb,"313 King Field, Georgeville, GA 13317",India,2024-08-16 10:18:04.402128,705.47,India,494,993,Low,100000494,Current,Branch,Active,19623.99,INR
+963,Danielle Rodriguez,"1962 Joshua Bypass, East Rebecca, NM 17537",Germany,2025-04-16 22:46:04.321811,3481.34,Germany,963,274,High,100000963,Fixed Deposit,Branch,Active,25289.56,USD
+703,Kathy Moore,"169 Kimberly Field, North Veronicamouth, CO 64034",USA,2025-02-28 00:25:04.168193,1242.78,USA,703,168,Low,100000703,Fixed Deposit,Branch,Inactive,34323.82,USD
+586,Richard Diaz,"5176 Fields Gardens Suite 212, South Kimberly, TN 09300",Germany,2024-06-13 14:16:04.099189,4978.36,Germany,586,139,Medium,100000586,Fixed Deposit,Branch,Closed,24774.42,CAD
+991,Casey Hill,"241 Dustin Hills, West Joyce, HI 87855",India,2024-06-21 09:03:04.318786,1643.8,India,991,389,High,100000991,Savings,Branch,Active,80142.17,GBP
+960,Chris Hughes,"787 Tiffany Trail, Anthonyfort, MD 88977",Canada,2025-04-21 17:08:04.100524,1626.49,Canada,960,825,Low,100000960,Fixed Deposit,ATM,Closed,74065.33,CAD
+852,Denise Garcia PhD,"Unit 7392 Box 9789, DPO AE 74787",USA,2025-01-22 21:47:04.415385,2855.74,USA,852,158,High,100000852,Fixed Deposit,Branch,Closed,75246.09,CAD
+121,Emma Harvey,"5426 Emily Alley, Hernandezfurt, AL 48842",Germany,2025-01-23 19:44:04.638228,3707.09,Germany,121,903,High,100000121,Fixed Deposit,Mobile,Closed,80936.58,GBP
+915,Thomas White,"311 Hill Landing Suite 888, West Joseph, TX 69268",USA,2024-07-12 22:39:04.317288,4161.51,USA,915,56,Low,100000915,Savings,Online,Inactive,55652.67,INR
+540,Melinda Mccormick,"65056 Bradley Square, Port Joseph, AL 11513",Germany,2024-11-16 10:19:04.158770,237.17,Germany,540,350,Low,100000540,Savings,Online,Closed,13786.78,INR
+347,Brian Riley,"544 Patterson Road, Port Ericbury, WY 80307",UK,2024-06-30 12:38:04.538043,3927.23,UK,347,535,High,100000347,Current,ATM,Closed,63874.27,GBP
+236,Eugene Anderson,"8827 Manning Courts Suite 060, South Coreyshire, AK 70696",USA,2025-04-23 06:21:04.204637,4182.6,USA,236,340,Medium,100000236,Fixed Deposit,Branch,Closed,72522.76,USD
+310,James Howard,"0404 Miles Summit Apt. 206, Port John, WY 07541",Canada,2024-12-27 20:46:04.093429,3419.56,Canada,310,234,High,100000310,Savings,ATM,Active,27812.39,EUR
+92,William Mullins,"16199 Julie Extension, Jeffreyburgh, NE 24404",USA,2025-06-03 07:53:04.401068,416.47,USA,92,160,Medium,100000092,Current,ATM,Active,71611.23,EUR
+190,Michael Flores,"084 Jennifer Bridge Apt. 634, Andrewtown, NE 47448",Germany,2025-04-11 16:58:04.172215,3905.17,Germany,190,534,Low,100000190,Current,Online,Inactive,24943.38,USD
+517,Carolyn Kennedy,"0622 Jacqueline Mills Apt. 935, New Randallstad, UT 38853",Canada,2024-08-19 05:21:04.433868,839.08,Canada,517,518,Medium,100000517,Current,Online,Active,38269.87,GBP
+218,Kathryn Vasquez,"97231 Tiffany Pine, Robertsstad, MD 92179",India,2025-04-10 09:16:04.327466,3342.31,India,218,918,High,100000218,Current,ATM,Active,74902.65,GBP
+853,Jeffrey Travis,"USS Hutchinson, FPO AE 31955",Germany,2025-03-19 08:53:04.118086,227.96,Germany,853,661,Low,100000853,Savings,Online,Active,21780.65,GBP
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2024-07-20 11:34:04.014191,3741.25,India,484,793,Medium,100000484,Savings,ATM,Inactive,63128.25,EUR
+542,Molly Burke,"5009 Ramirez Creek Apt. 906, Joshualand, MT 88348",UK,2024-08-08 02:29:04.372240,2345.39,UK,542,914,Medium,100000542,Savings,Online,Active,61011.29,INR
+454,Danielle Torres,"399 Olson Greens Apt. 606, Leburgh, SD 85719",UK,2024-08-23 05:55:04.643136,45.49,UK,454,844,Medium,100000454,Savings,Online,Active,90729.08,USD
+767,Kerry Arnold,"8697 Alexander Knolls Apt. 198, Gabrielbury, WY 40004",USA,2024-10-30 14:23:04.208083,708.77,USA,767,777,Low,100000767,Fixed Deposit,ATM,Active,76483.41,GBP
+135,Allison Simmons,"57638 Wilson Junctions Apt. 839, New Matthew, WV 02512",India,2025-03-23 16:28:04.400477,4830.9,India,135,787,Low,100000135,Fixed Deposit,ATM,Active,94348.06,GBP
+234,Sarah Dixon,"9764 Kylie Orchard Apt. 807, New Dustinburgh, MN 36157",USA,2024-11-26 12:28:04.597002,4185.5,USA,234,404,High,100000234,Fixed Deposit,Online,Active,49759.25,EUR
+326,Joanne Wilson,"1688 Dominguez Estates, Laurashire, CT 16247",India,2024-11-15 07:51:04.231361,436.59,India,326,350,Low,100000326,Fixed Deposit,Online,Active,74051.79,GBP
+343,Robert Bennett,"0902 Holmes Ridge, Sarahmouth, IL 69733",India,2024-10-16 14:30:04.306882,1566.67,India,343,481,Medium,100000343,Current,Branch,Active,18146.99,USD
+979,Jason Todd,"PSC 3004, Box 7197, APO AA 29073",USA,2025-05-31 03:38:04.110782,2006.29,USA,979,849,Low,100000979,Savings,Mobile,Active,50140.26,GBP
+322,Alan Brown,"564 David Mall, East Paula, KY 66481",Canada,2024-09-24 23:47:04.450678,1429.14,Canada,322,502,Medium,100000322,Savings,Mobile,Active,71745.0,INR
+958,Chelsea Trujillo,"650 Stacy Terrace, Joefurt, DE 03793",USA,2024-07-30 19:16:04.250819,3022.25,USA,958,585,Low,100000958,Current,Online,Closed,5649.63,INR
+627,Sherry Jones,"131 Orozco View, South Kylebury, OH 48257",Canada,2024-11-27 01:01:04.103411,572.64,Canada,627,562,High,100000627,Savings,Branch,Inactive,46790.94,INR
+584,Lindsay Sandoval,"Unit 9968 Box 8546, DPO AE 62291",UK,2024-11-08 11:07:04.125476,1577.51,UK,584,331,Low,100000584,Savings,Online,Closed,33546.41,EUR
+872,Susan Buckley,"36890 Tracey Fort Suite 098, West Ryan, CO 26520",USA,2024-09-22 05:36:04.639268,1555.89,USA,872,179,Medium,100000872,Savings,Online,Inactive,27803.72,EUR
+155,Danielle Olson,"37203 Wendy Extension Suite 789, South Blake, VI 14607",India,2024-10-06 16:16:04.359056,4806.18,India,155,702,Low,100000155,Fixed Deposit,Mobile,Active,98579.39,GBP
+677,Michelle Barrera,"37949 Mary Path, East Waltermouth, MH 72636",UK,2025-04-06 23:25:04.430885,4798.73,UK,677,481,Low,100000677,Savings,Online,Closed,12091.85,USD
+932,Dana Alvarez,"1847 Antonio Knolls, West Jeffrey, KY 77805",USA,2024-09-06 11:05:04.320782,2619.43,USA,932,940,High,100000932,Fixed Deposit,Branch,Active,83658.09,USD
+976,Luke Richards,"16354 Pamela Fields Suite 014, Lake Dwayneland, ND 66557",Canada,2025-04-15 10:48:04.352146,1085.4,Canada,976,137,Low,100000976,Fixed Deposit,Branch,Inactive,26964.14,USD
+611,Jennifer Jones,"248 White Parks, Port Jamesfort, AL 91229",India,2025-03-29 03:33:04.368115,4986.37,India,611,288,Low,100000611,Savings,Branch,Closed,4891.9,INR
+930,Michael Carter Jr.,"80401 Kelly Hollow, Stuartmouth, NE 48286",USA,2025-03-23 14:32:04.319266,3387.21,USA,930,269,High,100000930,Current,Branch,Closed,26530.88,INR
+772,Michael Lee,"0527 Maddox Shores Suite 068, Kempborough, IA 69066",UK,2024-12-13 11:17:04.671029,2761.62,UK,772,534,Low,100000772,Fixed Deposit,Online,Active,84798.78,EUR
+245,Kenneth Williams,"6480 Lee Ridges Apt. 030, New Zachary, TX 06864",USA,2024-11-11 13:27:04.072361,947.28,USA,245,466,Medium,100000245,Current,ATM,Inactive,2530.21,CAD
+744,Stephen Ruiz,"4914 Tyrone Viaduct, Jamiebury, KY 62632",India,2024-09-12 11:06:04.391491,3982.5,India,744,855,Medium,100000744,Current,Branch,Closed,50769.32,USD
+480,Haley Douglas,"902 Morris Drives Suite 648, Smithbury, LA 73823",UK,2025-05-04 23:13:04.065889,1399.25,UK,480,91,Medium,100000480,Fixed Deposit,ATM,Active,52786.69,CAD
+195,Mary Adkins,"55962 Isaiah Roads, North Haleyborough, AR 98182",UK,2024-09-03 14:27:04.020056,4629.11,UK,195,995,Medium,100000195,Current,Online,Closed,34563.95,CAD
+462,Jason Miller,"09971 Brittany Run, Alexside, AR 45796",Germany,2025-02-19 10:56:04.128481,1605.11,Germany,462,14,Low,100000462,Savings,Online,Active,65271.82,GBP
+225,Angel Kent,"93343 Bailey Creek, Apriltown, WI 20592",UK,2024-10-12 08:51:04.413259,1953.28,UK,225,570,Medium,100000225,Fixed Deposit,Mobile,Active,27255.03,CAD
+77,Roger Krause,"8118 Johnson Ridge, North Larryview, AK 00624",USA,2024-10-11 08:47:04.377726,2813.0,USA,77,642,Low,100000077,Savings,Online,Inactive,77355.76,USD
+290,Stephanie Phillips,"00086 Kevin Motorway, East Stacey, WY 01189",UK,2024-07-14 08:10:04.164493,4447.4,UK,290,454,High,100000290,Savings,Mobile,Active,59492.49,INR
+950,Derek Cochran,"90985 Cook Loaf Suite 218, Harrisberg, NV 96152",Canada,2025-04-12 16:15:04.126772,3848.94,Canada,950,207,Medium,100000950,Fixed Deposit,Online,Active,60143.9,INR
+539,Tanner Mathis,"33882 Jackson Brooks Suite 852, West Tina, DC 46209",India,2025-04-20 23:49:04.538553,4046.73,India,539,509,Low,100000539,Current,Online,Inactive,45603.87,GBP
+574,Nicole Friedman,"9698 John Inlet, Hesterbury, AL 33006",India,2024-06-16 06:39:04.566170,2655.12,India,574,465,High,100000574,Savings,Online,Closed,62586.58,EUR
+264,Lynn Lyons,"USNS Yang, FPO AP 14566",UK,2024-09-15 05:22:04.650386,2224.14,UK,264,735,High,100000264,Current,ATM,Active,52314.64,CAD
+363,Laurie Zavala,"43704 Robinson Freeway, Walterschester, MA 70080",UK,2024-10-15 08:49:04.296036,916.82,UK,363,881,Low,100000363,Savings,Branch,Active,46367.04,INR
+843,Ruth Leonard,"21631 Yates Springs Apt. 745, New Autumnborough, TN 91394",India,2025-05-08 14:29:04.380497,2087.48,India,843,754,High,100000843,Fixed Deposit,ATM,Inactive,18625.56,USD
+663,Brian Stewart,"5168 Allison Lodge Apt. 529, Rodgersstad, MO 15269",India,2024-12-04 02:44:04.036023,520.9,India,663,284,High,100000663,Fixed Deposit,ATM,Closed,60971.71,INR
+757,Carla Lewis,"40654 Morales Motorway, East Ricardo, VI 70317",Canada,2024-07-21 02:20:04.190233,3046.72,Canada,757,296,Medium,100000757,Savings,Mobile,Inactive,62387.2,CAD
+415,Ethan Salazar,"821 Armstrong Union Suite 620, South Stephanie, LA 75841",UK,2024-08-11 09:46:04.579312,503.04,UK,415,379,Low,100000415,Fixed Deposit,Branch,Closed,63551.88,GBP
+895,Amanda Gutierrez,"3349 Short Flat Apt. 146, Phyllisberg, CO 35390",Canada,2024-09-27 03:33:04.590146,4299.2,Canada,895,469,Low,100000895,Fixed Deposit,Mobile,Closed,67140.43,INR
+824,Andrew Rivera,"126 Alan Ridges Suite 457, Lake Sandramouth, CA 82286",UK,2025-04-26 03:24:04.109503,3444.96,UK,824,339,Medium,100000824,Fixed Deposit,ATM,Active,40418.7,INR
+381,Adam Edwards,"4934 Harris Ferry, Port Gabriellefort, GU 03068",UK,2025-03-15 22:44:04.517536,4089.59,UK,381,662,High,100000381,Savings,Mobile,Inactive,12698.32,GBP
+430,Thomas Brown,"16627 Erica Roads Apt. 394, South James, AR 89462",Canada,2024-08-12 16:06:04.031874,3726.17,Canada,430,203,Medium,100000430,Fixed Deposit,ATM,Closed,12589.63,INR
+604,Brian Rodriguez,"50723 Neal Crossing Apt. 445, West Davidmouth, AS 75834",UK,2024-07-14 15:03:04.123277,1056.66,UK,604,1,Medium,100000604,Fixed Deposit,Mobile,Inactive,9781.55,CAD
+653,Carol Long,"593 Nathaniel Isle Suite 551, Joshuamouth, SC 42801",USA,2024-12-28 13:22:04.464262,341.5,USA,653,664,Low,100000653,Current,Online,Active,59097.27,USD
+30,Jonathan Morgan,"5705 David Corner Suite 648, Lake Christina, AR 65768",Germany,2024-07-20 21:03:04.460975,4052.44,Germany,30,784,Low,100000030,Current,Online,Closed,5598.59,INR
+483,Joe Gilbert,"506 Joshua Center Suite 700, Gonzalesborough, IA 70424",USA,2024-06-26 15:29:04.232333,1323.61,USA,483,945,Medium,100000483,Savings,Branch,Active,45999.57,GBP
+198,Kathryn Wilson,"PSC 4134, Box 3569, APO AA 78790",India,2024-07-29 21:11:04.218566,4972.24,India,198,438,Medium,100000198,Savings,ATM,Closed,89813.92,USD
+566,Kelly Walker,"810 Kramer Port Apt. 594, East Teresastad, SC 22871",Germany,2024-09-04 01:14:04.151244,3125.85,Germany,566,215,Medium,100000566,Savings,ATM,Inactive,59401.85,EUR
+919,Charles Robinson,"81951 Sanchez Spurs, Barnesview, CT 87738",Germany,2025-03-24 11:10:04.354780,4668.46,Germany,919,212,Low,100000919,Savings,Branch,Closed,76596.97,INR
+159,Theresa Collins,"02791 Todd Mount, Pattersonchester, KY 35541",UK,2025-02-05 18:14:04.541939,2926.73,UK,159,826,High,100000159,Current,Mobile,Closed,24526.12,CAD
+130,John Stewart,"57378 Allen Glens Suite 909, Port Felicia, AK 22396",India,2025-05-10 05:04:04.385474,2705.42,India,130,284,High,100000130,Current,ATM,Closed,51563.98,USD
+631,Kevin Scott,"84850 Erin Route, Port Benjamin, CA 98881",Canada,2024-09-06 07:27:04.614947,1469.12,Canada,631,445,High,100000631,Current,Branch,Closed,71621.61,GBP
+921,Billy Kennedy,"7083 Alyssa Club Apt. 464, Brownside, IA 28018",USA,2024-11-17 14:09:04.027676,3216.13,USA,921,765,Low,100000921,Fixed Deposit,Mobile,Closed,86978.33,EUR
+360,Elizabeth Carter,"1988 Williamson Expressway, South Julia, FM 91972",Germany,2024-08-06 11:58:04.278528,55.09,Germany,360,118,High,100000360,Savings,ATM,Closed,57971.94,GBP
+923,Lisa Gonzalez,"784 Patrick Canyon, Kevinfort, MI 94412",Germany,2025-03-07 16:32:04.169801,1501.38,Germany,923,68,Low,100000923,Fixed Deposit,Branch,Inactive,89560.67,EUR
+464,Dr. John Cruz,"659 Perry Track Suite 151, Harrisonport, MD 22447",USA,2024-12-03 04:18:04.060560,2810.08,USA,464,419,High,100000464,Current,Branch,Active,58753.51,CAD
+206,Tyler Lawrence,"7937 Rogers Valleys Suite 562, New Lisa, MN 30755",India,2025-04-16 09:17:04.088850,3877.49,India,206,408,High,100000206,Current,Online,Closed,1910.51,GBP
+86,Jason Robinson,"39118 Reginald Extension, Lawsonborough, PA 15371",India,2024-10-10 06:21:04.260827,20823.5,Unknown,86,342,High,100000086,Savings,ATM,Active,33193.15,INR
+604,Brian Rodriguez,"50723 Neal Crossing Apt. 445, West Davidmouth, AS 75834",UK,2024-08-15 03:24:04.082172,3997.12,UK,604,228,Medium,100000604,Fixed Deposit,Branch,Inactive,9781.55,CAD
+300,John West,"1486 Daniel Highway Suite 806, Port Dustin, MI 42177",Germany,2025-03-17 14:13:04.027257,4323.86,Germany,300,486,High,100000300,Savings,Mobile,Closed,9449.4,CAD
+543,Megan Rodriguez,"408 Marshall Haven Apt. 267, Adamsmouth, PW 47341",Germany,2024-10-16 12:30:04.179793,3658.36,Germany,543,184,Low,100000543,Current,Mobile,Closed,23635.64,GBP
+856,Terry Lopez,"995 Daniel Wall Apt. 553, East Andrew, TX 03065",UK,2024-06-24 07:16:04.451695,1700.92,UK,856,511,High,100000856,Fixed Deposit,Branch,Inactive,19878.08,INR
+289,Samantha Hurst,"757 Adam Inlet Apt. 409, Makaylastad, NM 35140",India,2024-08-01 03:03:04.326774,4783.89,India,289,89,High,100000289,Savings,Mobile,Active,29367.58,INR
+173,Nicholas Rice,"USS White, FPO AA 74672",Germany,2024-09-16 19:15:04.406640,2832.62,Germany,173,1000,Low,100000173,Fixed Deposit,Branch,Closed,51697.21,INR
+399,Melissa Lopez,"6284 James Canyon Apt. 849, Nathanhaven, MT 78915",UK,2025-05-20 09:55:04.430355,64.8,UK,399,111,Low,100000399,Savings,Online,Active,75336.24,GBP
+620,Dominique Smith,"244 Dean Summit Suite 957, Jessicaburgh, NE 22077",India,2025-03-10 01:17:04.629880,1054.77,India,620,133,Low,100000620,Savings,Branch,Closed,75077.71,CAD
+700,Joe Williams,"11189 Kevin Cape Apt. 048, Lauraton, SD 86385",India,2024-10-22 19:27:04.558901,251.86,India,700,879,Medium,100000700,Savings,Branch,Inactive,48632.87,INR
+525,Jeanette Maxwell,"7774 Vicki Track, West Jeremy, OK 95862",Germany,2025-03-22 02:17:04.048592,4573.84,Germany,525,217,High,100000525,Fixed Deposit,ATM,Active,83994.54,EUR
+219,Albert Robles,"513 Lauren Mill, Simmonsview, MI 75666",UK,2025-05-09 23:48:04.149933,2176.2,UK,219,116,High,100000219,Current,Mobile,Active,65313.66,CAD
+626,Matthew Rice,"9360 Robert Cove Suite 794, South Emily, RI 68007",Germany,2025-04-30 06:16:04.022975,1137.32,Germany,626,90,Low,100000626,Savings,ATM,Inactive,37522.45,USD
+265,Matthew Landry,"90872 Lopez Mission Suite 839, Nguyenberg, VI 21097",Canada,2024-12-27 17:30:04.587186,537.28,Canada,265,530,High,100000265,Fixed Deposit,Mobile,Active,87859.93,USD
+880,Ann Wilson,"15205 Adkins Place Apt. 290, South Lindachester, WI 83065",India,2025-01-15 23:49:04.071893,3995.88,India,880,356,Medium,100000880,Fixed Deposit,Mobile,Inactive,22975.24,EUR
+779,Debra Gonzalez,"3529 Jeffrey Fork Suite 784, Jenniferfurt, MO 51461",Canada,2024-07-24 00:07:04.124174,3636.96,Canada,779,795,Medium,100000779,Current,Online,Active,72283.62,USD
+804,Janet Brooks,"361 Rodriguez Hollow Apt. 093, Lewischester, PA 01473",USA,2024-10-01 20:25:04.043364,2327.06,USA,804,754,High,100000804,Fixed Deposit,Mobile,Closed,61064.79,INR
+646,Yvonne Sanchez,"6484 Mary Falls, Lake Scott, CO 54222",Germany,2024-08-30 06:44:04.323360,3172.65,Germany,646,321,Medium,100000646,Fixed Deposit,Online,Closed,89162.2,EUR
+380,Michael Mcdonald,"67369 Joshua Views, Thomasborough, KY 76287",USA,2024-08-26 09:53:04.457813,638.27,USA,380,676,Low,100000380,Fixed Deposit,Branch,Closed,28903.62,INR
+115,Heidi Hernandez,"Unit 1065 Box 1521, DPO AP 73589",India,2024-08-05 03:04:04.116498,669.9,India,115,705,Low,100000115,Current,Online,Closed,63706.97,CAD
+3,Kevin Strong,"20554 Megan Villages Apt. 077, Smithburgh, SC 41346",Germany,2024-10-18 19:05:04.297031,1109.87,Germany,3,566,Low,100000003,Savings,Mobile,Closed,73467.4,GBP
+716,Charles Bennett,"86862 Alejandro Prairie, Hallshire, ND 59070",Germany,2024-08-16 13:17:04.050675,828.65,Germany,716,131,High,100000716,Fixed Deposit,Mobile,Active,93023.39,CAD
+566,Kelly Walker,"810 Kramer Port Apt. 594, East Teresastad, SC 22871",Germany,2025-04-13 03:29:04.080008,2430.84,Germany,566,798,Medium,100000566,Savings,Online,Inactive,59401.85,EUR
+400,Ryan Bryant,"PSC 9353, Box 5800, APO AA 72373",Canada,2024-12-26 18:17:04.034242,665.9,Canada,400,828,Low,100000400,Savings,Online,Active,75699.74,EUR
+534,Carl Barr,"09965 Rogers Roads Apt. 674, East Shelbyville, LA 52030",USA,2025-03-05 14:02:04.132767,496.18,USA,534,171,High,100000534,Current,ATM,Inactive,55987.74,USD
+454,Danielle Torres,"399 Olson Greens Apt. 606, Leburgh, SD 85719",UK,2024-12-18 08:20:04.049436,4637.15,UK,454,831,Medium,100000454,Savings,Branch,Active,90729.08,USD
+723,Roberto King,"628 Jackson Rest Apt. 784, New Jim, UT 57513",USA,2025-04-19 08:33:04.470729,627.89,USA,723,640,High,100000723,Fixed Deposit,Online,Inactive,7583.13,EUR
+589,Stephanie Jones,"48970 Tiffany Ports Suite 025, North Karenborough, VT 19355",Canada,2025-03-22 02:44:04.607974,1019.92,Canada,589,308,High,100000589,Fixed Deposit,ATM,Inactive,13676.54,USD
+219,Albert Robles,"513 Lauren Mill, Simmonsview, MI 75666",UK,2025-02-26 11:05:04.367148,362.75,UK,219,738,High,100000219,Current,ATM,Active,65313.66,CAD
+706,Madeline Hamilton,"6191 Jeffrey Isle, South Eric, ND 60450",Canada,2024-07-03 00:12:04.463724,3211.68,Canada,706,58,Medium,100000706,Savings,Mobile,Closed,99006.06,INR
+163,Brandon Dorsey,"9919 Laura Cove Apt. 786, North Joshua, MS 86484",USA,2024-06-06 12:34:04.277943,4481.07,USA,163,758,Low,100000163,Fixed Deposit,Branch,Active,63719.44,USD
+687,Elizabeth Wood,"60907 Ryan Circles Apt. 739, Torreston, UT 14323",India,2024-11-02 16:19:04.088050,3190.4,India,687,181,Low,100000687,Savings,ATM,Closed,57589.66,EUR
+192,Carolyn Francis,"1851 Chad Lodge Suite 226, Kathleenhaven, RI 67358",UK,2024-11-22 06:22:04.267071,965.32,UK,192,109,High,100000192,Current,Branch,Closed,89824.36,CAD
+576,Melissa Drake,"15582 Katherine Extension Suite 366, Port Eric, KS 40437",Germany,2024-10-01 07:32:04.257900,3314.55,Germany,576,946,Low,100000576,Fixed Deposit,ATM,Inactive,95002.54,INR
+619,Melissa Mcmillan,"73957 Beth Street Suite 786, New Davidtown, PA 72813",Canada,2025-01-11 20:05:04.409026,2287.25,Canada,619,13,Medium,100000619,Current,ATM,Active,80813.93,INR
+23,Jason Smith,"2325 Mark Isle, Port Jacob, PR 86121",Canada,2024-06-08 09:57:04.598007,167.12,Canada,23,472,High,100000023,Savings,Branch,Active,29922.32,CAD
+40,Brian Kelley,"272 Potter Squares Apt. 729, New Luisstad, SC 10465",Germany,2025-03-09 01:10:04.549849,1210.74,Germany,40,110,High,100000040,Current,Branch,Active,44575.1,CAD
+616,Paul Johnson,"196 Warren Walks Suite 663, New Staceymouth, SC 77648",UK,2025-05-21 17:18:04.649826,1449.38,UK,616,967,High,100000616,Current,Online,Inactive,92166.37,CAD
+147,Mary Medina,"9447 Powell Junction Apt. 637, North Jamesbury, PR 69594",UK,2024-08-08 13:40:04.011419,406.8,UK,147,774,Low,100000147,Fixed Deposit,Mobile,Closed,61346.87,USD
+35,Joseph Valentine,"4155 Miller Inlet, Woodsland, MT 97006",USA,2024-12-02 13:55:04.357432,798.68,USA,35,634,Low,100000035,Fixed Deposit,Mobile,Inactive,96597.57,GBP
+637,Anna Mcdonald,"9384 Ronald Flats, West Ronnie, MT 53833",Canada,2025-05-17 10:03:04.334572,3877.13,Canada,637,956,High,100000637,Savings,ATM,Inactive,53729.11,EUR
+8,Kristi Vasquez,"920 Ortiz Key Suite 840, Katherineburgh, AL 12168",Canada,2024-06-08 08:30:04.396344,429.65,Canada,8,860,Low,100000008,Savings,Mobile,Active,86751.44,INR
+50,Travis Young,"07414 Joseph Crossroad Apt. 032, South Donaldton, VT 62961",USA,2024-06-07 22:26:04.427749,1447.99,USA,50,177,Medium,100000050,Savings,Online,Closed,19300.59,GBP
+277,Gary Benson,"648 Evans Groves, East Johnton, ME 47515",USA,2025-06-04 14:42:04.335552,709.57,USA,277,589,High,100000277,Current,Branch,Active,80031.22,EUR
+846,Tammy Randall,"9318 Crystal Oval, South Markmouth, ND 02563",India,2024-12-16 12:32:04.183320,4278.49,India,846,935,Medium,100000846,Current,Mobile,Inactive,42047.79,EUR
+439,Laurie Stevens,"31215 Jasmine Groves Apt. 047, Donaldsonchester, HI 40396",Germany,2024-06-27 03:53:04.025032,2341.48,Germany,439,399,Low,100000439,Current,Online,Active,70917.98,INR
+947,Jennifer Blackburn,"92215 Juarez Flat, Vazquezland, OR 88627",Canada,2024-06-14 21:43:04.009680,2256.88,Canada,947,524,High,100000947,Fixed Deposit,Online,Inactive,14551.68,GBP
+526,Danielle Harper,"254 Priscilla Knolls, Hernandezshire, MA 28196",Germany,2024-11-01 19:48:04.604906,1771.03,Germany,526,93,High,100000526,Savings,Mobile,Closed,47400.62,GBP
+515,Kristina Thornton,"94760 Foster Field, Jordanbury, DC 89351",Canada,2024-09-10 02:26:04.097881,3407.35,Canada,515,135,Low,100000515,Savings,Online,Inactive,5476.65,USD
+1,Kristin Rose,"2351 Matthew Isle Apt. 965, Pennyside, WA 37670",USA,2024-07-11 22:07:04.600041,3443.24,USA,1,821,Low,100000001,Savings,Online,Closed,38079.47,INR
+467,Timothy Johnson,"Unit 9019 Box 2029, DPO AE 92834",Germany,2024-09-04 22:16:04.395826,421.21,Germany,467,729,Low,100000467,Fixed Deposit,Mobile,Closed,29285.5,USD
+660,John Mckay,"10030 Lane Wells, Kristenland, WA 05271",UK,2024-10-02 12:27:04.047758,4373.09,UK,660,499,High,100000660,Savings,Mobile,Inactive,57507.05,USD
+640,Jenny Walker,"1933 Mercado Burg Suite 447, North Keithshire, MI 01091",India,2025-01-11 07:34:04.071486,1294.08,India,640,563,High,100000640,Fixed Deposit,ATM,Active,38351.13,INR
+528,Tamara Neal,"822 Howard Drive, Lisaville, OH 14967",Germany,2025-03-28 22:27:04.136099,2246.98,Germany,528,531,High,100000528,Fixed Deposit,ATM,Active,28067.3,CAD
+309,Nicholas Bell,"9480 Renee Oval Apt. 405, South Edwardtown, NY 67743",UK,2024-09-22 07:48:04.433393,1544.6,UK,309,165,Medium,100000309,Current,Mobile,Closed,79723.43,INR
+379,Antonio Francis,"USNS Thomas, FPO AP 05356",USA,2025-05-17 17:05:04.137337,58.55,USA,379,97,Medium,100000379,Current,Mobile,Active,81632.38,USD
+143,Jacqueline Walker,"431 Harris Street Suite 179, North Zacharytown, IA 53223",USA,2024-10-30 20:03:04.408410,2432.74,USA,143,734,Low,100000143,Fixed Deposit,ATM,Active,50227.6,USD
+36,William Potter,"32838 Nicholas Estate Apt. 555, Robertshaven, PR 12511",USA,2024-09-25 17:27:04.067633,701.98,USA,36,656,Low,100000036,Current,Mobile,Inactive,81031.34,EUR
+855,Maria Russell,"740 Wheeler Manors, Port Melissa, IA 62321",India,2024-11-04 01:39:04.368581,4758.26,India,855,470,Low,100000855,Savings,ATM,Closed,21308.82,GBP
+79,William Mcintyre,"673 Rodgers Field Apt. 770, East Ruth, MN 90255",UK,2024-06-20 20:18:04.149482,1702.56,UK,79,205,High,100000079,Fixed Deposit,Online,Inactive,36488.11,EUR
+695,Samantha Williams,"1093 Carter Mills, Russellberg, OH 23543",India,2024-09-21 09:13:04.141603,2876.05,India,695,335,High,100000695,Current,Mobile,Inactive,12368.85,USD
+406,Mark Parker,"3967 Conley Lock, Meyersview, ND 97136",India,2024-11-05 16:08:04.630421,1413.86,India,406,104,Low,100000406,Current,Mobile,Closed,89656.8,INR
+437,Erik Ramirez,"090 Walker Underpass, South Josephberg, NH 18015",USA,2025-05-11 04:03:04.381072,2002.87,USA,437,910,Medium,100000437,Savings,ATM,Closed,8203.54,EUR
+100,Kathleen Patterson,"7951 Michelle Ramp Suite 696, New Veronicaburgh, IL 97366",UK,2025-02-17 10:16:04.292212,3474.66,UK,100,559,Low,100000100,Current,Branch,Active,11681.25,GBP
+146,Haley Salas,"Unit 1215 Box 3855, DPO AA 97914",UK,2025-01-31 21:58:04.524787,1626.95,UK,146,29,Medium,100000146,Current,Branch,Closed,4651.81,INR
+181,Patrick Weaver,"9431 Ford Meadow Apt. 061, East Amanda, IN 07544",Germany,2025-04-16 08:24:04.451214,1906.03,Germany,181,31,Low,100000181,Fixed Deposit,Online,Closed,34765.57,USD
+265,Matthew Landry,"90872 Lopez Mission Suite 839, Nguyenberg, VI 21097",Canada,2024-12-17 03:25:04.367627,3053.22,Canada,265,208,High,100000265,Fixed Deposit,Online,Active,87859.93,USD
+84,Shelly Robinson,"407 Crystal Park Apt. 512, Port Frank, RI 30814",USA,2025-04-03 01:19:04.428760,926.97,USA,84,315,High,100000084,Savings,Online,Active,7292.28,EUR
+927,Anthony Grimes,"USNS Richardson, FPO AA 02995",UK,2024-09-16 05:21:04.019615,4002.69,UK,927,329,Low,100000927,Current,Mobile,Active,27599.06,EUR
+501,Ernest Martin,"253 Stone Ports Suite 843, South Andrea, GA 17658",India,2024-07-02 22:45:04.153804,640.66,India,501,398,Low,100000501,Savings,ATM,Closed,70118.01,EUR
+565,Miss Megan Patel,"71421 Nichols Knolls, West Brandi, MP 55882",USA,2024-06-16 00:16:04.277368,4377.97,USA,565,558,High,100000565,Savings,Online,Active,35708.17,CAD
+17,Ms. Kelsey Smith,"6649 Roberts Courts Apt. 971, East Johnburgh, GU 50151",USA,2024-11-24 13:03:04.466835,4347.62,USA,17,325,High,100000017,Fixed Deposit,ATM,Closed,31119.98,EUR
+145,Brendan Young,"71153 Barry Mountains Apt. 718, East Jennifer, WY 67623",UK,2025-03-27 15:09:04.423713,2636.15,UK,145,14,High,100000145,Current,ATM,Closed,29199.21,USD
+555,Justin King,"4653 Gutierrez Oval Suite 862, Andrewston, SD 95344",UK,2024-11-10 19:35:04.047346,3692.71,UK,555,529,High,100000555,Fixed Deposit,ATM,Closed,87788.71,GBP
+979,Jason Todd,"PSC 3004, Box 7197, APO AA 29073",USA,2025-05-06 20:11:04.672659,2329.55,USA,979,750,Low,100000979,Savings,ATM,Active,50140.26,GBP
+765,Ronald Dunn,"359 Gonzalez Row Apt. 673, East Hector, PR 86894",USA,2025-04-11 03:37:04.642538,834.84,USA,765,986,High,100000765,Savings,Online,Closed,4319.71,GBP
+307,Justin Brady,"31084 Anderson Extensions, Raymondville, PW 97552",Germany,2025-01-24 18:03:04.023985,3888.03,Germany,307,933,Low,100000307,Fixed Deposit,Branch,Closed,52113.73,CAD
+32,Luis Swanson,"058 Gordon Spurs Apt. 037, North Anthonyview, MO 29377",Canada,2025-03-13 01:33:04.094663,3346.53,Canada,32,424,Low,100000032,Fixed Deposit,Online,Active,17881.89,CAD
+177,Vanessa Williams,"247 Joshua Highway, Lanceview, MA 44806",UK,2024-10-24 19:02:04.026825,2319.5,UK,177,289,Low,100000177,Fixed Deposit,Online,Inactive,69402.84,USD
+203,Tiffany Blankenship,"64658 Paul Drives, South Melissaborough, IN 22211",Germany,2024-09-09 17:54:04.209214,209.09,Germany,203,338,Low,100000203,Current,Mobile,Closed,17001.24,GBP
+251,Randy Castaneda,"3668 Harris Union Apt. 304, North Amberchester, MH 91248",India,2024-08-10 23:11:04.061064,1841.62,India,251,668,Medium,100000251,Current,Branch,Active,30150.44,CAD
+916,Elizabeth Rhodes,"041 Rodriguez Lodge Suite 923, Lake David, GA 77274",UK,2025-01-06 07:42:04.627787,966.26,UK,916,135,Low,100000916,Fixed Deposit,Branch,Active,44176.53,GBP
+369,Jesse Wall,"288 Helen Dale, North Maurice, HI 46900",India,2024-09-13 17:07:04.083446,3774.28,India,369,716,Medium,100000369,Savings,Online,Closed,20383.32,EUR
+299,Anthony Harris,"647 Cory Falls Apt. 770, Lake Louisfort, PR 48273",India,2024-09-02 05:33:04.080855,3322.71,India,299,783,Low,100000299,Savings,Branch,Closed,62666.16,INR
+417,Brian Aguilar,"29724 Anthony Glens, Lisafurt, PW 24744",India,2024-09-07 10:25:04.320293,2758.7,India,417,985,Low,100000417,Fixed Deposit,Online,Active,30027.87,CAD
+29,Emily Martinez,"991 Kristen Land, West Jessica, KY 68831",Canada,2024-09-09 22:58:04.299994,3378.14,Canada,29,146,High,100000029,Fixed Deposit,Online,Active,59649.04,USD
+686,Tony Kelley,"Unit 3766 Box 1318, DPO AP 01112",Germany,2024-11-25 10:53:04.238759,197562.5,Unknown,686,348,High,100000686,Fixed Deposit,Mobile,Inactive,56119.53,CAD
+864,Maria Herrera,"4758 Tucker Mall, North Timothyhaven, LA 18299",Germany,2024-10-05 07:39:04.318290,1510.98,Germany,864,309,Medium,100000864,Current,Mobile,Active,44635.51,EUR
+371,John Bean,"7354 Simpson Parks, Melissahaven, WI 31092",India,2024-06-05 12:50:04.448407,1060.82,India,371,286,High,100000371,Current,ATM,Inactive,10977.02,CAD
+362,Christopher Fox,"65979 Ellis Island Suite 954, Williamton, PA 08551",UK,2025-02-23 15:59:04.603939,2711.26,UK,362,525,Low,100000362,Current,Branch,Inactive,64685.53,EUR
+783,Jennifer Warren,"9528 Robert Plaza, North Christopher, TN 69313",India,2025-05-18 09:28:04.665213,350.29,India,783,403,High,100000783,Current,Mobile,Closed,25928.11,USD
+467,Timothy Johnson,"Unit 9019 Box 2029, DPO AE 92834",Germany,2025-05-14 10:48:04.599007,1459.02,Germany,467,338,Low,100000467,Fixed Deposit,Branch,Closed,29285.5,USD
+71,Tina Santiago,"601 Vaughn Isle Apt. 116, North Jonathan, PW 98421",Canada,2024-10-27 21:37:04.142878,803.19,Canada,71,228,High,100000071,Savings,Branch,Active,77452.23,GBP
+961,Walter Wong,"0232 Anthony Plain, Jamieside, PW 27715",India,2024-10-16 09:56:04.576197,193405.0,Unknown,961,792,High,100000961,Fixed Deposit,Online,Closed,9197.07,EUR
+544,George Tucker,"7493 Sandoval Pines, Hannahside, OK 26603",UK,2025-01-24 03:08:04.100944,1705.78,UK,544,423,Medium,100000544,Current,Online,Inactive,67498.37,EUR
+824,Andrew Rivera,"126 Alan Ridges Suite 457, Lake Sandramouth, CA 82286",UK,2025-01-30 23:42:04.034716,79818.0,Unknown,824,321,High,100000824,Fixed Deposit,Branch,Active,40418.7,INR
+799,Alexandra Barker,"174 White Pine Suite 469, West Kelly, OH 36417",India,2025-05-20 17:31:04.454716,1689.15,India,799,976,Low,100000799,Fixed Deposit,Online,Inactive,69968.43,CAD
+205,Scott Park DVM,"98428 White Ramp Suite 169, Wangstad, IA 82444",USA,2025-04-02 17:11:04.397596,1704.39,USA,205,589,High,100000205,Savings,ATM,Inactive,61036.48,GBP
+914,Sheila Henson,"6684 Sylvia Vista, New Sheryl, ID 86332",Canada,2025-04-17 16:48:04.347432,159.92,Canada,914,841,High,100000914,Fixed Deposit,Mobile,Active,41531.75,INR
+975,Sarah Bush,"7915 Jeffrey Mountain, North Amber, CA 95118",Germany,2024-06-23 21:18:04.452202,4418.51,Germany,975,620,High,100000975,Fixed Deposit,ATM,Closed,4087.13,GBP
+788,Thomas Campbell,"6886 Elizabeth Expressway Suite 612, Marymouth, AZ 26130",USA,2025-05-19 01:26:04.341980,2785.67,USA,788,144,Low,100000788,Current,Mobile,Closed,40684.29,GBP
+426,Angela Mays,"3178 Rachel Camp, Mirandaside, NE 27548",Canada,2024-12-05 22:06:04.268217,4725.09,Canada,426,632,High,100000426,Fixed Deposit,Mobile,Inactive,55403.36,USD
+45,Nicholas Nielsen,"546 Mcdonald Locks, West Jeremy, MI 22132",USA,2024-11-10 18:07:04.024487,1200.74,USA,45,646,Low,100000045,Savings,Online,Closed,26619.22,USD
+982,Phillip Delgado,"727 Mercado Key, Port Natalieborough, ID 92722",UK,2024-11-30 23:49:04.128075,1665.9,UK,982,51,Medium,100000982,Fixed Deposit,Online,Inactive,77320.31,USD
+496,Michael Potter,"06591 Carlson Locks, West Regina, LA 51101",Canada,2025-01-20 11:46:04.093823,2585.14,Canada,496,728,Low,100000496,Fixed Deposit,Branch,Inactive,35981.87,EUR
+670,Ashley Daniel,"69778 Danielle Squares Apt. 930, East Carlton, SD 15978",India,2024-11-26 09:20:04.554834,4661.2,India,670,547,High,100000670,Current,ATM,Active,29224.42,GBP
+150,Mark Ortiz,"4410 Mariah Underpass, South Arthurchester, ID 49549",UK,2024-07-20 05:03:04.378249,1985.86,UK,150,882,Low,100000150,Savings,ATM,Closed,28586.0,EUR
+535,James Robertson,"92647 Mccoy Ridges Apt. 458, Stevensonstad, KS 61483",UK,2024-08-12 13:02:04.039837,1532.42,UK,535,833,Medium,100000535,Fixed Deposit,Mobile,Active,77129.75,USD
+879,Jason Johnson,"6275 Murray Roads, West Shirley, AK 70969",USA,2025-04-13 01:34:04.436832,3001.5,USA,879,690,Medium,100000879,Fixed Deposit,ATM,Active,3682.5,EUR
+72,Brett Bradley,"16625 Michael Gardens Suite 906, Wilsonbury, ID 25757",Germany,2024-06-08 01:19:04.383089,3853.74,Germany,72,575,Low,100000072,Savings,ATM,Active,20672.85,CAD
+634,Keith Williams,"15660 Frank Pass, Reidshire, LA 87251",Germany,2024-10-22 14:56:04.644885,610.77,Germany,634,726,Low,100000634,Savings,Online,Closed,53679.24,CAD
+934,Johnny Thomas,"Unit 0907 Box 3672, DPO AE 48554",Germany,2025-05-02 13:53:04.162898,1447.94,Germany,934,326,Low,100000934,Current,Online,Inactive,53043.33,EUR
+723,Roberto King,"628 Jackson Rest Apt. 784, New Jim, UT 57513",USA,2025-05-15 05:46:04.359725,97.01,USA,723,687,High,100000723,Fixed Deposit,ATM,Inactive,7583.13,EUR
+450,Jeffrey Little,"07345 Sullivan Cape, Port Thomas, NH 65275",Canada,2025-01-15 01:26:04.405551,555.97,Canada,450,801,High,100000450,Fixed Deposit,Online,Active,9266.57,INR
+858,Erik Cain,"75490 Michelle Station, New Kristin, NE 64784",Germany,2024-07-13 00:50:04.405019,4088.19,Germany,858,623,Medium,100000858,Current,Mobile,Inactive,47734.63,CAD
+495,Charles Santos,"8893 Monique Cliff Suite 863, East Susan, IL 50368",Canada,2024-11-24 14:40:04.675147,1882.82,Canada,495,732,Medium,100000495,Fixed Deposit,Mobile,Active,46906.14,INR
+303,Samantha Johnson,"32080 Flores Islands, Port Jessicaside, WA 73841",Canada,2024-11-15 10:04:04.583332,3883.4,Canada,303,310,High,100000303,Current,Mobile,Active,54522.88,CAD
+898,Jean Moyer,"54593 Amber Port Apt. 347, South Jonathanberg, SC 34720",USA,2024-10-14 14:37:04.649332,1673.68,USA,898,920,Medium,100000898,Fixed Deposit,ATM,Inactive,89737.25,INR
+570,Heather White,"012 White Shoals, Danielleville, TX 99360",Germany,2024-12-25 20:18:04.398757,246.29,Germany,570,682,Medium,100000570,Current,ATM,Inactive,35477.29,GBP
+970,Jennifer House,"76939 Deborah Well, Taylortown, RI 99542",USA,2024-12-25 11:01:04.560427,2392.57,USA,970,647,Low,100000970,Savings,Online,Inactive,48128.99,GBP
+279,James Barker,"258 Burke Flats, Port Hannah, KS 09627",UK,2025-04-18 14:24:04.581317,2608.92,UK,279,75,High,100000279,Savings,Online,Inactive,70494.72,EUR
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-12-26 15:32:04.155074,3519.28,Germany,107,926,Low,100000107,Current,Online,Inactive,41627.91,CAD
+88,Jorge Romero,"37080 Sean Parks, Martinland, WY 41864",USA,2025-03-11 14:56:04.584285,615.41,USA,88,267,High,100000088,Current,ATM,Closed,64118.19,GBP
+176,Alexandra Patel,"05997 Mitchell Falls Apt. 455, Josephview, MT 92236",Canada,2024-10-18 16:26:04.150808,1155.15,Canada,176,313,Medium,100000176,Savings,ATM,Active,18262.28,CAD
+979,Jason Todd,"PSC 3004, Box 7197, APO AA 29073",USA,2025-05-06 20:11:04.672659,116477.50000000001,Unknown,979,750,High,100000979,Savings,ATM,Active,50140.26,GBP
+559,Cameron Rodriguez,"Unit 4361 Box 6480, DPO AE 18196",UK,2024-11-19 04:37:04.342466,2291.15,UK,559,501,Medium,100000559,Savings,ATM,Inactive,75758.59,EUR
+132,Christopher Gonzalez,"PSC 5668, Box 9097, APO AE 33219",India,2025-01-10 07:06:04.150385,4923.81,India,132,890,High,100000132,Current,Online,Closed,22988.67,CAD
+528,Tamara Neal,"822 Howard Drive, Lisaville, OH 14967",Germany,2025-03-05 08:56:04.355822,11.8,Germany,528,611,High,100000528,Fixed Deposit,Online,Active,28067.3,CAD
+852,Denise Garcia PhD,"Unit 7392 Box 9789, DPO AE 74787",USA,2024-09-24 00:45:04.490604,3184.38,USA,852,591,High,100000852,Fixed Deposit,Branch,Closed,75246.09,CAD
+75,David Collins,"973 Fox Spring, West Natalieborough, MH 27975",Germany,2024-08-01 11:55:04.407234,4669.37,Germany,75,326,High,100000075,Fixed Deposit,Online,Inactive,70978.88,CAD
+340,Michelle Henderson,"4284 Vaughan Pines Apt. 048, Williamsfort, DC 10074",Canada,2025-02-15 15:21:04.130205,4761.32,Canada,340,80,Medium,100000340,Savings,Online,Inactive,10685.58,USD
+891,Nicole Klein,"USNS Bird, FPO AE 23927",India,2025-01-06 21:20:04.073211,3114.73,India,891,516,High,100000891,Fixed Deposit,ATM,Active,72504.43,USD
+647,David Morris,"1793 West Shoals Apt. 582, New Robertport, AR 98353",Canada,2024-10-21 12:50:04.363196,2098.24,Canada,647,739,High,100000647,Current,ATM,Inactive,59765.65,CAD
+744,Stephen Ruiz,"4914 Tyrone Viaduct, Jamiebury, KY 62632",India,2024-06-16 04:04:04.418589,3364.58,India,744,998,Medium,100000744,Current,Online,Closed,50769.32,USD
+553,Elizabeth Jacobs,"4501 Peter Land Apt. 540, New Jennifer, LA 05163",UK,2024-07-03 06:22:04.280868,1689.93,UK,553,661,Medium,100000553,Fixed Deposit,Mobile,Closed,55638.78,EUR
+85,Ashlee Bird,"1434 Jordan Mill, West Edwardberg, PA 24534",USA,2024-07-06 07:17:04.069696,3987.38,USA,85,245,Low,100000085,Current,Online,Closed,31787.25,CAD
+67,Robin Knight,"626 Webb River Apt. 052, Port Williamside, MT 29517",Germany,2025-02-18 12:24:04.209703,3023.32,Germany,67,713,Low,100000067,Fixed Deposit,Online,Active,14951.5,CAD
+770,Laura Ramirez,"USNS Wise, FPO AE 70271",India,2024-08-05 10:01:04.570755,1197.62,India,770,868,Medium,100000770,Fixed Deposit,ATM,Closed,82304.47,INR
+908,Jean Diaz,"10012 James Neck, West Erin, PA 45639",USA,2025-05-16 18:10:04.012439,675.43,USA,908,387,High,100000908,Current,ATM,Active,34839.92,CAD
+675,Matthew Peck,"919 Joshua Rest Suite 873, Silvafurt, VT 94429",Germany,2024-06-29 21:11:04.329420,245632.00000000003,Unknown,675,709,High,100000675,Fixed Deposit,Mobile,Closed,41629.29,GBP
+382,James Hodges,"88224 Gutierrez Corner Apt. 665, Trevormouth, KS 40735",UK,2024-10-03 16:14:04.049842,173126.5,Unknown,382,692,High,100000382,Fixed Deposit,Mobile,Inactive,69976.98,GBP
+462,Jason Miller,"09971 Brittany Run, Alexside, AR 45796",Germany,2024-07-15 20:24:04.420585,2888.91,Germany,462,430,Low,100000462,Savings,ATM,Active,65271.82,GBP
+20,Joseph Taylor,"9179 Tara Summit, Port Davidshire, MA 90247",UK,2024-12-03 02:35:04.426700,3572.25,UK,20,708,Medium,100000020,Savings,Branch,Inactive,29831.68,GBP
+326,Joanne Wilson,"1688 Dominguez Estates, Laurashire, CT 16247",India,2024-11-15 07:51:04.231361,21829.5,Unknown,326,350,High,100000326,Fixed Deposit,Online,Active,74051.79,GBP
+981,Cheryl Hampton,"694 Nichols Junction, Lewisview, HI 36566",UK,2024-06-18 11:28:04.217985,651.0,UK,981,742,Medium,100000981,Savings,ATM,Inactive,34090.15,EUR
+56,Kelly Warren,"063 Benjamin Trafficway Suite 703, West Jamesfort, TN 24347",USA,2025-01-11 16:47:04.097474,75.54,USA,56,756,Low,100000056,Fixed Deposit,Mobile,Closed,92265.55,USD
+971,Valerie Huber,"153 Butler Branch Apt. 760, Hernandezstad, FM 48418",Germany,2024-06-24 07:46:04.028093,3101.05,Germany,971,306,High,100000971,Fixed Deposit,ATM,Active,66703.45,USD
+127,Christopher Tyler,"USS Jordan, FPO AA 86034",UK,2024-08-31 14:02:04.015795,4949.83,UK,127,426,High,100000127,Savings,Online,Inactive,81983.46,EUR
+775,Laura Roberts,"8797 Coleman Bypass, West Kyle, NC 60005",Canada,2024-09-09 10:12:04.131057,1051.23,Canada,775,198,Low,100000775,Current,Mobile,Inactive,79932.24,USD
+3,Kevin Strong,"20554 Megan Villages Apt. 077, Smithburgh, SC 41346",Germany,2025-05-15 20:53:04.141199,2022.41,Germany,3,537,Low,100000003,Savings,Mobile,Closed,73467.4,GBP
+986,Molly Fowler,"352 Michael Keys Apt. 847, North Michaelton, ND 83919",USA,2024-07-18 02:32:04.092195,1830.79,USA,986,475,Medium,100000986,Fixed Deposit,Mobile,Inactive,50053.64,CAD
+323,Susan Macias,"514 John Track, Woodmouth, WY 95255",Canada,2025-03-03 01:16:04.613855,2102.01,Canada,323,350,High,100000323,Savings,Online,Active,66359.54,GBP
+556,Lindsey Silva,"2508 Johnson Lodge Suite 872, Lindabury, ND 93702",India,2025-03-13 05:43:04.308455,1184.28,India,556,297,High,100000556,Savings,ATM,Inactive,40944.8,GBP
+321,Danielle Flores,"8798 Tyler Ports, Gentryburgh, MP 31752",India,2024-09-24 14:36:04.467850,3736.37,India,321,345,Low,100000321,Fixed Deposit,ATM,Active,55373.44,USD
+674,Patricia Gordon,"PSC 5316, Box 2801, APO AE 96590",USA,2025-03-24 07:09:04.578391,1042.57,USA,674,419,Medium,100000674,Current,ATM,Active,52926.63,EUR
+989,Patrick Stephens,"10011 Louis Station, Martinborough, NY 70483",Canada,2024-10-17 06:21:04.360885,289.05,Canada,989,632,High,100000989,Fixed Deposit,Online,Inactive,25393.8,GBP
+835,Donald Anderson,"142 Dawson Keys, South Jeffery, MS 17918",UK,2025-01-13 01:22:04.572310,1893.15,UK,835,819,High,100000835,Savings,Branch,Inactive,50338.41,CAD
+733,Sara Duncan,"9821 Tina Court, Scottstad, IN 34714",Germany,2025-03-06 15:29:04.416479,4527.36,Germany,733,428,Medium,100000733,Fixed Deposit,Mobile,Closed,66854.52,EUR
+593,Jessica Wilson,"36491 Victoria Mountains, East Markview, TX 90156",Canada,2025-02-05 07:50:04.674118,2205.14,Canada,593,348,Low,100000593,Current,Mobile,Inactive,19006.13,CAD
+146,Haley Salas,"Unit 1215 Box 3855, DPO AA 97914",UK,2024-08-27 00:22:04.369581,3782.9,UK,146,592,Medium,100000146,Current,Branch,Closed,4651.81,INR
+37,Andrew Romero,"9014 Potter Groves Suite 247, South Stevenview, GU 28243",UK,2025-05-20 22:00:04.378777,4609.71,UK,37,544,High,100000037,Fixed Deposit,ATM,Active,31156.76,USD
+313,Mindy Munoz,"799 Morris Trafficway, New Travisland, MT 77246",Canada,2025-02-05 15:29:04.581781,1371.51,Canada,313,341,High,100000313,Savings,ATM,Inactive,3509.72,INR
+205,Scott Park DVM,"98428 White Ramp Suite 169, Wangstad, IA 82444",USA,2024-07-02 17:16:04.611692,4700.24,USA,205,117,High,100000205,Savings,Mobile,Inactive,61036.48,GBP
+682,Brian Williams,"7950 Mason Lock, Mooreshire, AK 54934",USA,2024-10-12 00:26:04.414749,75244.5,Unknown,682,573,High,100000682,Fixed Deposit,Online,Inactive,26532.38,CAD
+424,Abigail Dennis,"4168 Timothy Mills Suite 906, Goodwinstad, PA 79625",India,2024-10-25 18:33:04.336059,3099.4,India,424,490,Low,100000424,Savings,Online,Active,49947.61,EUR
+221,Amanda Woods,"9487 Humphrey Cove Apt. 826, Williamsonhaven, PA 89858",Germany,2024-09-08 02:59:04.122260,1876.95,Germany,221,71,High,100000221,Current,ATM,Active,66103.68,INR
+56,Kelly Warren,"063 Benjamin Trafficway Suite 703, West Jamesfort, TN 24347",USA,2025-01-25 01:50:04.419123,3958.3,USA,56,866,Low,100000056,Fixed Deposit,Online,Closed,92265.55,USD
+525,Jeanette Maxwell,"7774 Vicki Track, West Jeremy, OK 95862",Germany,2024-07-03 21:31:04.456233,1878.29,Germany,525,571,High,100000525,Fixed Deposit,Mobile,Active,83994.54,EUR
+814,Robert Glover,"59554 Tara Point, Lake Jeremy, NY 20931",UK,2025-03-04 03:24:04.196735,3861.95,UK,814,51,High,100000814,Fixed Deposit,ATM,Inactive,92163.35,GBP
+825,Angel Brown,"215 Mendoza Greens, West Michael, NM 72073",USA,2024-07-19 03:32:04.643719,3151.83,USA,825,172,Medium,100000825,Fixed Deposit,Mobile,Active,54202.16,USD
+541,Mrs. Makayla Martin,"90454 Tina Valley, Lake Dianeberg, WY 40063",UK,2025-01-23 00:09:04.076594,1732.14,UK,541,718,Low,100000541,Fixed Deposit,Online,Inactive,95451.05,CAD
+254,Mrs. Megan Maddox,"82353 Kelly Heights Suite 733, Farrelltown, SD 43009",India,2024-09-12 03:05:04.101368,3046.17,India,254,1,High,100000254,Savings,ATM,Closed,32375.28,INR
+436,Rodney Ward,"76493 Joseph Union, Port Alexisborough, CA 72885",Germany,2024-12-05 20:32:04.098338,1044.6,Germany,436,680,High,100000436,Savings,Branch,Active,70395.94,GBP
+660,John Mckay,"10030 Lane Wells, Kristenland, WA 05271",UK,2024-10-14 06:25:04.455714,1013.99,UK,660,454,High,100000660,Savings,Mobile,Inactive,57507.05,USD
+124,Robert Parker,"6266 Alvin Island Suite 684, New Mary, PA 36293",India,2024-11-22 19:01:04.010068,1606.88,India,124,949,Medium,100000124,Fixed Deposit,ATM,Active,11895.14,INR
+957,Ryan Burke,"85357 Diane Pike, New Markbury, VT 47724",India,2024-09-25 02:46:04.334089,2090.51,India,957,20,Low,100000957,Savings,Online,Inactive,52372.85,GBP
+540,Melinda Mccormick,"65056 Bradley Square, Port Joseph, AL 11513",Germany,2025-04-25 15:57:04.561420,1002.49,Germany,540,281,Low,100000540,Savings,Branch,Closed,13786.78,INR
+735,Kerry Lane,"246 Simmons Squares Suite 224, North Brandonstad, AL 13208",UK,2024-09-17 12:17:04.182341,244.15,UK,735,745,High,100000735,Fixed Deposit,Branch,Inactive,36524.22,GBP
+461,Diana Jones DDS,"346 Peters Burgs Apt. 102, East Brandy, AR 17306",Germany,2025-05-02 22:08:04.230388,3035.87,Germany,461,261,Medium,100000461,Fixed Deposit,ATM,Closed,12635.1,GBP
+930,Michael Carter Jr.,"80401 Kelly Hollow, Stuartmouth, NE 48286",USA,2025-01-09 13:41:04.438875,3427.81,USA,930,722,High,100000930,Current,Online,Closed,26530.88,INR
+602,Robert Aguilar,"Unit 1808 Box 6068, DPO AA 84906",USA,2024-08-18 00:26:04.573373,3102.61,USA,602,968,High,100000602,Savings,Online,Closed,28580.44,EUR
+629,Thomas Fisher,"93392 Bernard Squares Apt. 902, New Bonnie, ND 91752",Germany,2024-12-03 17:21:04.676120,991.19,Germany,629,843,High,100000629,Savings,Mobile,Inactive,4631.64,INR
+157,Diana Gordon,"910 Erickson Turnpike, Mariachester, VT 12450",India,2024-09-03 08:31:04.021550,1065.24,India,157,211,Medium,100000157,Current,Branch,Inactive,67541.42,CAD
+373,Shannon Newman,"984 Joshua Meadow, Cohenview, WI 46995",Canada,2025-04-24 21:49:04.058454,4424.64,Canada,373,932,Medium,100000373,Savings,Branch,Closed,10349.85,GBP
+101,Brian Perkins,"5124 Daniel Bridge, New Lisa, LA 49234",Germany,2024-12-30 21:41:04.189273,2800.71,Germany,101,430,Medium,100000101,Fixed Deposit,Branch,Closed,4111.49,EUR
+921,Billy Kennedy,"7083 Alyssa Club Apt. 464, Brownside, IA 28018",USA,2025-03-20 07:44:04.492839,2817.66,USA,921,247,Low,100000921,Fixed Deposit,ATM,Closed,86978.33,EUR
+453,Michelle Smith,"54498 Megan Plaza Suite 433, East Amanda, NJ 29466",UK,2025-04-10 21:13:04.364378,3320.52,UK,453,236,Medium,100000453,Current,Online,Active,42997.98,INR
+991,Casey Hill,"241 Dustin Hills, West Joyce, HI 87855",India,2024-06-12 11:56:04.106522,746.2,India,991,279,High,100000991,Savings,Mobile,Active,80142.17,GBP
+48,Stacy Pruitt,"1628 Sullivan Ridge, Morganton, NH 96914",Germany,2024-07-10 12:22:04.037494,148.21,Germany,48,180,High,100000048,Savings,ATM,Closed,52486.73,CAD
+524,Tamara Rodriguez,"707 Johnson Glens, New Aliciaberg, IN 24001",Germany,2025-04-30 22:38:04.146594,4472.03,Germany,524,249,Medium,100000524,Current,Branch,Inactive,84369.77,CAD
+75,David Collins,"973 Fox Spring, West Natalieborough, MH 27975",Germany,2025-03-30 12:10:04.311418,539.76,Germany,75,259,High,100000075,Fixed Deposit,ATM,Inactive,70978.88,CAD
+368,Michael Phillips,"636 Sharp Garden Suite 537, Port Travis, OH 37204",UK,2025-02-11 07:03:04.336534,1903.71,UK,368,554,High,100000368,Current,Branch,Closed,90629.71,INR
+11,Denise Torres,"82510 Thomas Underpass, North Crystalfurt, GA 82181",USA,2024-11-29 22:26:04.556803,205.58,USA,11,733,Medium,100000011,Current,Online,Active,3037.86,CAD
+367,David French,"Unit 3051 Box 0722, DPO AP 28937",India,2024-09-16 04:23:04.362643,2684.6,India,367,497,High,100000367,Savings,Mobile,Inactive,96157.87,INR
+684,Ricardo Blair,"USNV Diaz, FPO AE 48223",USA,2024-07-10 17:22:04.178197,4216.23,USA,684,475,Low,100000684,Current,Online,Inactive,67195.68,INR
+279,James Barker,"258 Burke Flats, Port Hannah, KS 09627",UK,2025-01-11 23:15:04.324872,259.42,UK,279,225,High,100000279,Savings,Online,Inactive,70494.72,EUR
+489,Laurie Baker,"9215 Vega Wells, Georgehaven, NC 33149",Canada,2025-04-01 09:18:04.428253,2679.31,Canada,489,228,Low,100000489,Fixed Deposit,Mobile,Inactive,95090.74,EUR
+508,Diana Evans,"7101 Hill Dam, South John, NE 23469",Canada,2024-11-18 04:53:04.109940,1414.8,Canada,508,795,Medium,100000508,Fixed Deposit,Branch,Closed,82431.19,USD
+479,Lauren Pacheco,"23840 Flores Branch, Zunigamouth, MO 16675",India,2025-05-15 07:56:04.527818,3574.16,India,479,660,High,100000479,Current,Online,Closed,96960.95,CAD
+959,Emily Barnes,"0344 Spencer Court, West Jessica, HI 99678",Germany,2024-11-06 23:48:04.274988,1178.97,Germany,959,605,Low,100000959,Fixed Deposit,Mobile,Closed,17462.05,CAD
+824,Andrew Rivera,"126 Alan Ridges Suite 457, Lake Sandramouth, CA 82286",UK,2025-02-14 12:45:04.193376,3209.5,UK,824,244,Medium,100000824,Fixed Deposit,Branch,Active,40418.7,INR
+570,Heather White,"012 White Shoals, Danielleville, TX 99360",Germany,2024-07-02 16:41:04.316068,172.35,Germany,570,244,Medium,100000570,Current,Mobile,Inactive,35477.29,GBP
+27,Susan Rowland,"3288 Emma Ways, East Meaganport, AS 15948",UK,2024-09-07 17:37:04.648305,229.78,UK,27,772,Low,100000027,Fixed Deposit,Mobile,Inactive,20767.7,CAD
+12,Christopher Dillon,"32447 Caleb Cove Suite 356, Port Roberto, MA 01085",Germany,2024-11-11 04:49:04.279715,1457.89,Germany,12,979,High,100000012,Current,Online,Closed,97021.08,EUR
+390,Katelyn Webb,"7826 Mcbride Prairie Suite 507, North Charlesmouth, MH 76650",USA,2024-11-09 15:21:04.072779,2001.89,USA,390,180,High,100000390,Fixed Deposit,Online,Inactive,80876.64,EUR
+206,Tyler Lawrence,"7937 Rogers Valleys Suite 562, New Lisa, MN 30755",India,2024-07-30 05:41:04.066354,572.55,India,206,82,High,100000206,Current,Branch,Closed,1910.51,GBP
+737,Erin Morse,"92087 Robinson Parks Suite 836, East Allisonhaven, AR 73044",UK,2024-08-10 08:53:04.178756,2543.08,UK,737,185,Medium,100000737,Savings,Mobile,Active,39852.07,USD
+769,Katherine Garcia,"28802 Simmons Station Suite 296, North David, KS 78230",UK,2024-11-10 01:19:04.374432,2303.34,UK,769,710,Medium,100000769,Savings,ATM,Inactive,34866.09,INR
+350,David Williams,"75341 Andrew Summit, Lake Justin, AZ 90504",UK,2024-11-01 15:44:04.555535,3688.66,UK,350,559,High,100000350,Fixed Deposit,Mobile,Inactive,62960.13,GBP
+880,Ann Wilson,"15205 Adkins Place Apt. 290, South Lindachester, WI 83065",India,2024-12-01 19:16:04.271052,380.04,India,880,935,Medium,100000880,Fixed Deposit,ATM,Inactive,22975.24,EUR
+883,Heather Day,"98814 Dixon Turnpike, Kylemouth, CT 61742",USA,2025-05-03 07:01:04.323865,120465.5,Unknown,883,852,High,100000883,Current,Online,Active,2951.34,EUR
+219,Albert Robles,"513 Lauren Mill, Simmonsview, MI 75666",UK,2025-02-23 19:58:04.492330,551.67,UK,219,535,High,100000219,Current,Mobile,Active,65313.66,CAD
+31,Kathryn Turner,"4237 Cruz Way, North Cindy, DC 02053",Canada,2025-01-26 13:24:04.550636,2408.89,Canada,31,419,Low,100000031,Current,Branch,Active,61146.94,GBP
+737,Erin Morse,"92087 Robinson Parks Suite 836, East Allisonhaven, AR 73044",UK,2025-02-24 14:58:04.155490,2705.13,UK,737,191,Medium,100000737,Savings,Online,Active,39852.07,USD
+155,Danielle Olson,"37203 Wendy Extension Suite 789, South Blake, VI 14607",India,2024-12-12 04:50:04.288408,4327.37,India,155,736,Low,100000155,Fixed Deposit,Online,Active,98579.39,GBP
+258,Audrey Johnson,"32188 Cody Camp Suite 682, Deniseland, KS 09585",Canada,2025-02-21 17:52:04.061969,2091.89,Canada,258,774,Low,100000258,Current,Branch,Inactive,69906.95,INR
+792,Ana Allen,"PSC 2633, Box 7005, APO AE 96124",India,2024-11-08 17:22:04.195425,3033.25,India,792,465,Low,100000792,Fixed Deposit,Online,Inactive,59036.75,USD
+919,Charles Robinson,"81951 Sanchez Spurs, Barnesview, CT 87738",Germany,2024-09-25 19:19:04.577124,4403.32,Germany,919,295,Low,100000919,Savings,Branch,Closed,76596.97,INR
+477,Nathan Ramirez,"348 Heidi Bypass Suite 379, West Misty, AS 78208",Canada,2025-05-11 16:36:04.641999,3474.5,Canada,477,724,High,100000477,Fixed Deposit,Branch,Active,8305.86,GBP
+790,Beth Beck,"02246 Herrera Junction, Port Dean, NH 91916",India,2024-08-21 23:24:04.309101,4866.94,India,790,745,High,100000790,Savings,Branch,Active,94781.05,CAD
+381,Adam Edwards,"4934 Harris Ferry, Port Gabriellefort, GU 03068",UK,2024-07-25 06:04:04.381592,3641.73,UK,381,477,High,100000381,Savings,ATM,Inactive,12698.32,GBP
+268,Kelly Reed,"6193 Latoya Squares, Cathyton, WI 65823",USA,2025-04-17 17:16:04.279142,1266.37,USA,268,569,Low,100000268,Savings,ATM,Active,70545.92,CAD
+302,Todd Taylor,"675 Hailey Tunnel, Lambmouth, NY 19035",India,2024-07-16 18:07:04.114680,28199.5,Unknown,302,242,High,100000302,Fixed Deposit,Online,Active,53604.11,INR
+775,Laura Roberts,"8797 Coleman Bypass, West Kyle, NC 60005",Canada,2024-08-19 03:14:04.599495,1527.94,Canada,775,333,Low,100000775,Current,Online,Inactive,79932.24,USD
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-12-11 20:01:04.463197,1985.96,Germany,107,439,Low,100000107,Current,ATM,Inactive,41627.91,CAD
+47,Ryan Miller,"903 Williams Plaza, New Morganview, ND 21576",UK,2024-09-30 17:06:04.033260,4209.67,UK,47,326,Low,100000047,Current,ATM,Closed,31859.4,GBP
+41,Willie Lewis,"739 Burnett Forest, Jeffreyberg, VA 89609",UK,2024-06-11 23:36:04.075754,650.2,UK,41,694,High,100000041,Fixed Deposit,ATM,Inactive,13081.79,GBP
+208,Zoe Mack,"022 Murray Locks Apt. 854, Lake Paulchester, CA 14834",Canada,2024-11-04 09:46:04.628308,3703.71,Canada,208,983,Low,100000208,Savings,ATM,Inactive,66686.68,CAD
+17,Ms. Kelsey Smith,"6649 Roberts Courts Apt. 971, East Johnburgh, GU 50151",USA,2025-01-27 14:48:04.582783,1680.09,USA,17,6,High,100000017,Fixed Deposit,Branch,Closed,31119.98,EUR
+536,Kenneth Sanford,"8066 Cobb Unions Suite 261, Normanland, OR 92154",Canada,2024-09-30 14:54:04.386025,3880.27,Canada,536,464,Low,100000536,Fixed Deposit,Online,Active,94531.81,CAD
+725,Derek Castro,"27459 Hobbs Motorway Suite 047, South Maryport, MS 26415",USA,2025-01-25 18:31:04.157767,673.15,USA,725,641,Low,100000725,Savings,Online,Inactive,57872.84,GBP
+160,John Burton,"067 Gonzales Alley, Laurabury, FL 89938",India,2025-01-01 15:32:04.411682,3511.52,India,160,213,Medium,100000160,Current,ATM,Active,73093.42,GBP
+593,Jessica Wilson,"36491 Victoria Mountains, East Markview, TX 90156",Canada,2024-09-14 19:55:04.018781,196.03,Canada,593,26,Low,100000593,Current,Branch,Inactive,19006.13,CAD
+26,Brandi Ponce,"546 Mcdowell Pine Apt. 107, South Miranda, AS 39107",India,2024-08-14 10:06:04.236671,1274.11,India,26,214,Low,100000026,Savings,ATM,Active,78732.42,USD
+212,Alexander Armstrong,"076 Mark Prairie, Stacyport, TX 42478",UK,2025-05-12 11:20:04.673154,1148.37,UK,212,127,Low,100000212,Current,Branch,Inactive,69497.62,GBP
+944,Janet Lane,"247 Higgins Extensions, Port Mallorystad, ME 35208",USA,2024-12-12 10:46:04.392065,3447.18,USA,944,593,Medium,100000944,Fixed Deposit,ATM,Active,83144.44,USD
+592,Jason Franklin,"04920 Strickland Street, Victorialand, ID 73175",Canada,2024-08-24 10:48:04.573841,4033375.0,Unknown,592,946,High,100000592,Current,Mobile,Inactive,64446.6,GBP
+399,Melissa Lopez,"6284 James Canyon Apt. 849, Nathanhaven, MT 78915",UK,2024-10-06 21:09:04.646638,3260.91,UK,399,252,Low,100000399,Savings,Mobile,Active,75336.24,GBP
+111,Willie Johnson,"00017 Richard Pass Apt. 222, Josephville, VA 20726",UK,2024-10-15 05:22:04.387598,1022.11,UK,111,193,High,100000111,Fixed Deposit,Branch,Active,29685.39,INR
+770,Laura Ramirez,"USNS Wise, FPO AE 70271",India,2025-03-02 19:09:04.413718,268.57,India,770,205,Medium,100000770,Fixed Deposit,Branch,Closed,82304.47,INR
+765,Ronald Dunn,"359 Gonzalez Row Apt. 673, East Hector, PR 86894",USA,2024-07-24 04:30:04.032731,3516.75,USA,765,292,High,100000765,Savings,Mobile,Closed,4319.71,GBP
+590,James West,"01662 Theresa Locks, Humphreyshire, FM 58965",India,2024-11-01 01:01:04.085540,2158.36,India,590,511,High,100000590,Savings,ATM,Active,16038.37,USD
+368,Michael Phillips,"636 Sharp Garden Suite 537, Port Travis, OH 37204",UK,2024-09-03 13:11:04.073627,1205.9,UK,368,898,High,100000368,Current,Branch,Closed,90629.71,INR
+383,Anthony Sullivan,"5344 Kenneth Way, Sarahstad, NC 09761",USA,2025-01-05 12:17:04.369107,986.19,USA,383,226,Low,100000383,Savings,Mobile,Active,63265.34,INR
+69,Jennifer Simmons,"15466 Angela Mountains, Guzmanmouth, LA 08390",Canada,2024-11-24 12:57:04.074054,1913.02,Canada,69,990,Low,100000069,Current,Mobile,Active,8380.51,INR
+507,Ashley White,"02251 Steven Ports Suite 370, Brittneyview, HI 23514",UK,2024-09-30 00:23:04.043880,3690.53,UK,507,780,Low,100000507,Fixed Deposit,ATM,Inactive,91181.79,USD
+207,John Sharp,"882 Emily Views, Andrewview, ME 29074",USA,2025-02-06 01:20:04.356883,2881.86,USA,207,572,Medium,100000207,Current,Online,Active,11045.68,INR
+892,Justin Medina,"USS Alvarez, FPO AE 09735",Canada,2024-08-05 05:38:04.067200,3314.32,Canada,892,729,High,100000892,Fixed Deposit,Mobile,Closed,85713.95,CAD
+476,Donna Anderson,"5946 Jordan Fork, Toddchester, AZ 40718",Germany,2025-01-14 09:52:04.527178,4819.71,Germany,476,265,Medium,100000476,Current,Mobile,Inactive,99303.51,USD
+450,Jeffrey Little,"07345 Sullivan Cape, Port Thomas, NH 65275",Canada,2025-03-21 22:34:04.238187,1794.01,Canada,450,68,High,100000450,Fixed Deposit,Online,Active,9266.57,INR
+104,Anthony Martin,"8590 Holly Spring, West Jeremiah, FL 00609",Canada,2024-09-21 11:57:04.167140,3575.37,Canada,104,138,Medium,100000104,Fixed Deposit,ATM,Inactive,51348.5,INR
+898,Jean Moyer,"54593 Amber Port Apt. 347, South Jonathanberg, SC 34720",USA,2024-11-14 05:26:04.601522,1170.37,USA,898,989,Medium,100000898,Fixed Deposit,Mobile,Inactive,89737.25,INR
+973,Crystal Buckley,"117 Tristan Squares Apt. 093, Terriside, IA 38033",UK,2024-06-11 16:56:04.620677,2904.59,UK,973,757,Medium,100000973,Fixed Deposit,Branch,Closed,73524.64,GBP
+746,Matthew Nguyen,"384 Cooper Groves Apt. 820, Lake Sydney, FL 84364",Germany,2024-09-01 09:36:04.161335,827.63,Germany,746,595,High,100000746,Current,Mobile,Active,90057.88,GBP
+124,Robert Parker,"6266 Alvin Island Suite 684, New Mary, PA 36293",India,2024-07-08 08:37:04.180871,4745.94,India,124,709,Medium,100000124,Fixed Deposit,Mobile,Active,11895.14,INR
+856,Terry Lopez,"995 Daniel Wall Apt. 553, East Andrew, TX 03065",UK,2024-06-13 02:21:04.064106,3232.18,UK,856,458,High,100000856,Fixed Deposit,Mobile,Inactive,19878.08,INR
+627,Sherry Jones,"131 Orozco View, South Kylebury, OH 48257",Canada,2024-06-21 03:53:04.558414,2905.12,Canada,627,925,High,100000627,Savings,Mobile,Inactive,46790.94,INR
+811,Anthony Joseph,"079 Delacruz Pine Apt. 660, North Lori, NE 65163",Germany,2025-01-22 15:50:04.458874,2187.22,Germany,811,401,High,100000811,Fixed Deposit,Branch,Active,98499.28,USD
+251,Randy Castaneda,"3668 Harris Union Apt. 304, North Amberchester, MH 91248",India,2024-07-07 23:06:04.321308,1817.62,India,251,626,Medium,100000251,Current,ATM,Active,30150.44,CAD
+39,Peter Hubbard,"4187 Sanders Park Apt. 356, Josephland, UT 46644",India,2025-02-26 21:59:04.011735,3566.73,India,39,795,High,100000039,Fixed Deposit,Mobile,Active,68739.07,INR
+237,Jamie Hardin,"34667 Bradley Green Apt. 039, Ginachester, MS 35754",UK,2024-11-06 18:04:04.147524,4419.83,UK,237,688,Low,100000237,Fixed Deposit,ATM,Inactive,28796.46,USD
+153,Jerome Jordan,"099 Harris Drive, West Nicole, KS 43221",Canada,2024-09-30 00:07:04.118565,3533.07,Canada,153,129,Low,100000153,Savings,ATM,Closed,15344.59,INR
+826,Tyler White,"808 Fisher Overpass Apt. 578, Kevinbury, MH 59176",India,2024-07-31 22:32:04.614348,4213.86,India,826,765,Medium,100000826,Fixed Deposit,Online,Inactive,92065.71,EUR
+111,Willie Johnson,"00017 Richard Pass Apt. 222, Josephville, VA 20726",UK,2024-12-03 22:14:04.016640,824.83,UK,111,340,High,100000111,Fixed Deposit,Branch,Active,29685.39,INR
+95,Cheryl Thomas,"920 Wade Common, North Helen, OR 37717",Canada,2024-06-08 20:54:04.014930,4053.91,Canada,95,803,Medium,100000095,Current,Mobile,Closed,77325.75,CAD
+961,Walter Wong,"0232 Anthony Plain, Jamieside, PW 27715",India,2024-10-16 09:56:04.576197,3868.1,India,961,792,Medium,100000961,Fixed Deposit,Online,Closed,9197.07,EUR
+556,Lindsey Silva,"2508 Johnson Lodge Suite 872, Lindabury, ND 93702",India,2025-04-03 12:14:04.431948,1164.31,India,556,802,High,100000556,Savings,Mobile,Inactive,40944.8,GBP
+901,Mary Nelson,"56395 Sandra Estate Apt. 024, Lake Donnaburgh, WA 19257",Germany,2024-10-09 22:32:04.121608,2095.18,Germany,901,332,High,100000901,Fixed Deposit,Mobile,Inactive,21580.74,INR
+618,Amy Jacobs,"USNS Maldonado, FPO AA 65959",Canada,2025-03-26 12:30:04.283032,2834.67,Canada,618,837,High,100000618,Fixed Deposit,Online,Active,28410.89,CAD
+265,Matthew Landry,"90872 Lopez Mission Suite 839, Nguyenberg, VI 21097",Canada,2024-06-19 12:35:04.571770,1648.87,Canada,265,178,High,100000265,Fixed Deposit,ATM,Active,87859.93,USD
+343,Robert Bennett,"0902 Holmes Ridge, Sarahmouth, IL 69733",India,2024-10-22 23:40:04.111435,4448.77,India,343,395,Medium,100000343,Current,Online,Active,18146.99,USD
+138,Erik Smith,"4949 Kerr Lodge Apt. 835, South Paulville, TN 10494",India,2024-10-09 18:22:04.607336,4709.35,India,138,298,Low,100000138,Savings,Branch,Inactive,70598.88,EUR
+451,Donna Miller,"4009 Taylor Mountains, Waretown, NC 02721",Canada,2024-07-28 05:43:04.176995,1015.54,Canada,451,302,Low,100000451,Fixed Deposit,Mobile,Inactive,77937.54,GBP
+618,Amy Jacobs,"USNS Maldonado, FPO AA 65959",Canada,2025-04-09 12:40:04.537470,3119.44,Canada,618,242,High,100000618,Fixed Deposit,Online,Active,28410.89,CAD
+875,Luke Brown,"993 Timothy Shoal, North Stephanie, NM 92452",UK,2024-12-24 16:45:04.262563,165.58,UK,875,546,Low,100000875,Fixed Deposit,Online,Closed,3513.25,USD
+697,William Palmer,"75006 Lisa Inlet, East Larry, MN 28466",Canada,2025-01-28 18:29:04.046883,1951.13,Canada,697,530,High,100000697,Current,Mobile,Inactive,29574.42,INR
+295,Larry Downs,"7062 Todd Plaza, Feliciamouth, NM 46950",UK,2024-11-06 20:59:04.179273,1507.57,UK,295,403,Medium,100000295,Current,Online,Inactive,13578.99,GBP
+96,Cassandra Thompson,"60410 Sarah Trail, Cowanshire, CA 40103",Germany,2024-06-28 00:39:04.169289,293.16,Germany,96,761,Medium,100000096,Current,Mobile,Active,49885.76,USD
+248,Wendy Fisher,"5104 Keller Walks Apt. 488, Tiffanyside, ND 89144",India,2024-08-27 06:03:04.339456,3937.9,India,248,181,Medium,100000248,Fixed Deposit,Mobile,Inactive,96698.83,CAD
+192,Carolyn Francis,"1851 Chad Lodge Suite 226, Kathleenhaven, RI 67358",UK,2025-01-22 14:04:04.122805,2179.1,UK,192,840,High,100000192,Current,Branch,Closed,89824.36,CAD
+832,Hunter Aguilar,"9394 Carroll Overpass Suite 465, Roberttown, PW 95089",USA,2024-08-14 07:34:04.316537,1884.07,USA,832,216,Medium,100000832,Current,ATM,Closed,45791.51,CAD
+727,Rachel Nichols,"24212 Arellano Highway, New Manuelview, PA 16918",Germany,2025-03-03 23:48:04.030207,1966.0,Germany,727,165,Low,100000727,Savings,ATM,Inactive,14837.47,INR
+520,Cassandra Ramirez,"385 Jones Mission, New Timothyport, AK 62335",USA,2025-05-06 06:50:04.459971,1737.98,USA,520,329,Medium,100000520,Current,Online,Inactive,15891.27,EUR
+353,Javier Winters,"4488 Hansen Junctions, Port Lisamouth, TN 62442",Germany,2025-01-22 12:53:04.046051,3717.24,Germany,353,855,Low,100000353,Savings,Mobile,Closed,66210.67,INR
+310,James Howard,"0404 Miles Summit Apt. 206, Port John, WY 07541",Canada,2024-08-17 10:34:04.127229,2266.53,Canada,310,33,High,100000310,Savings,Branch,Active,27812.39,EUR
+521,Erik Moreno,"4175 Shawn Path, South Jessica, IN 75357",Germany,2025-03-08 12:40:04.312689,1966.92,Germany,521,619,High,100000521,Fixed Deposit,Mobile,Inactive,59818.94,USD
+42,Jared Barber,"7828 Justin Mall Suite 754, Johnburgh, CO 67111",Canada,2024-09-28 02:52:04.587642,4586.95,Canada,42,324,Low,100000042,Current,Branch,Closed,50022.51,GBP
+875,Luke Brown,"993 Timothy Shoal, North Stephanie, NM 92452",UK,2024-07-09 13:42:04.382562,1525.2,UK,875,180,Low,100000875,Fixed Deposit,Online,Closed,3513.25,USD
+985,Christopher Smith,"40769 Jennings Drive Suite 112, North Joshuaside, MO 99125",UK,2024-10-16 22:38:04.328865,102.05,UK,985,655,High,100000985,Current,Branch,Active,73090.69,CAD
+541,Mrs. Makayla Martin,"90454 Tina Valley, Lake Dianeberg, WY 40063",UK,2024-11-30 19:36:04.460450,118.84,UK,541,132,Low,100000541,Fixed Deposit,Online,Inactive,95451.05,CAD
+162,Scott Roach,"USS Ryan, FPO AE 33340",Canada,2024-07-18 05:30:04.346877,809.58,Canada,162,177,High,100000162,Current,ATM,Closed,63598.28,INR
+68,Tyrone Smith,"0499 Cuevas Village, Port Kenneth, OH 85551",India,2025-05-10 10:14:04.114238,588.24,India,68,909,High,100000068,Fixed Deposit,Online,Closed,80417.5,CAD
+259,Robert Phillips,"1669 Edwards Isle Apt. 922, North Janetfort, FM 36142",India,2024-07-09 20:06:04.645469,4474.55,India,259,158,High,100000259,Savings,Mobile,Active,57436.06,EUR
+733,Sara Duncan,"9821 Tina Court, Scottstad, IN 34714",Germany,2024-08-08 07:33:04.041179,1287.1,Germany,733,913,Medium,100000733,Fixed Deposit,ATM,Closed,66854.52,EUR
+819,Christine Day,"0556 Jason Island, East Cory, MP 10433",Germany,2025-01-22 01:59:04.331018,4073.98,Germany,819,979,Medium,100000819,Savings,Online,Active,6421.4,CAD
+137,Sean Jensen,"5802 Karl Lakes, Katietown, AL 69952",Germany,2024-08-24 17:40:04.131493,3418.85,Germany,137,572,High,100000137,Fixed Deposit,Online,Active,52360.27,USD
+747,Jeremy Harvey,"8235 Ariana Branch, Bishopshire, AR 91313",UK,2025-02-13 00:45:04.016230,1277.29,UK,747,358,Low,100000747,Current,ATM,Active,39005.23,INR
+860,James Turner,"67592 Eric Drives Suite 959, Lake Christopher, MI 34283",India,2024-12-03 18:57:04.044781,123.21,India,860,531,Low,100000860,Savings,Branch,Inactive,7505.16,EUR
+441,Heather Burton,"1153 Sheila Parks, Amberberg, GU 92250",Germany,2025-04-05 09:51:04.349512,1452.59,Germany,441,333,High,100000441,Savings,Mobile,Closed,9398.93,EUR
+371,John Bean,"7354 Simpson Parks, Melissahaven, WI 31092",India,2024-07-01 10:23:04.301017,3177.41,India,371,646,High,100000371,Current,ATM,Inactive,10977.02,CAD
+156,David Austin,"65265 Kimberly Estates, East Kimberly, AR 70784",Germany,2025-02-18 18:11:04.360325,1936.99,Germany,156,292,High,100000156,Fixed Deposit,ATM,Inactive,24963.47,CAD
+934,Johnny Thomas,"Unit 0907 Box 3672, DPO AE 48554",Germany,2025-02-19 01:29:04.559904,1824.66,Germany,934,305,Low,100000934,Current,Branch,Inactive,53043.33,EUR
+283,Carl Miller,"041 Hendrix Stravenue Suite 994, Reedfurt, NC 30198",USA,2024-07-27 21:04:04.085137,2243.68,USA,283,483,Low,100000283,Savings,Mobile,Inactive,38182.71,USD
+35,Joseph Valentine,"4155 Miller Inlet, Woodsland, MT 97006",USA,2024-08-25 06:26:04.630971,3605.36,USA,35,215,Low,100000035,Fixed Deposit,ATM,Inactive,96597.57,GBP
+406,Mark Parker,"3967 Conley Lock, Meyersview, ND 97136",India,2024-11-02 11:41:04.563072,3187.83,India,406,361,Low,100000406,Current,ATM,Closed,89656.8,INR
+752,John Paul,"558 Murphy Rapid Apt. 424, Jessicaside, NH 95674",Canada,2024-12-18 18:05:04.307765,477.18,Canada,752,588,Medium,100000752,Savings,ATM,Inactive,94043.38,INR
+741,Samantha Decker,"40476 Jamie Crescent Suite 319, East Stephanie, MA 65934",India,2025-04-26 08:38:04.166592,3915.4,India,741,368,High,100000741,Current,Branch,Closed,46805.3,CAD
+711,Ashley Sullivan,"9785 Berry Circle Suite 038, Port Abigailfurt, DC 80135",Germany,2024-08-27 19:08:04.557933,1403.65,Germany,711,260,Low,100000711,Fixed Deposit,ATM,Inactive,76262.56,USD
+252,Jesus Lopez,"763 Parrish Crest, Alanmouth, AR 88922",UK,2024-09-09 06:06:04.314528,4511.58,UK,252,819,Medium,100000252,Fixed Deposit,Online,Active,39124.68,CAD
+143,Jacqueline Walker,"431 Harris Street Suite 179, North Zacharytown, IA 53223",USA,2025-02-15 02:55:04.424656,2429.84,USA,143,105,Low,100000143,Fixed Deposit,Mobile,Active,50227.6,USD
+324,Sabrina Calhoun,"741 Hernandez Mountains Apt. 651, West Larrytown, ME 58806",India,2025-03-17 01:51:04.042904,63.08,India,324,457,High,100000324,Savings,Mobile,Active,28713.46,GBP
+275,Bruce Rojas,"171 Bradshaw Glen Suite 638, New Kelseytown, CA 30528",India,2025-02-24 07:44:04.363823,129492.5,Unknown,275,430,High,100000275,Current,ATM,Active,51622.9,USD
+838,James Moore,"87744 Burgess Mills Apt. 548, New Lisa, UT 27036",Germany,2025-04-29 02:16:04.012121,1258.73,Germany,838,700,Medium,100000838,Current,Online,Active,36877.0,USD
+507,Ashley White,"02251 Steven Ports Suite 370, Brittneyview, HI 23514",UK,2024-08-25 23:13:04.158288,4801.32,UK,507,967,Low,100000507,Fixed Deposit,Mobile,Inactive,91181.79,USD
+18,Cynthia Villanueva,"PSC 3337, Box 7738, APO AA 90333",UK,2024-11-19 15:57:04.167644,944.21,UK,18,189,Medium,100000018,Savings,Mobile,Inactive,52950.89,GBP
+427,Karla Banks,"Unit 6358 Box 2277, DPO AP 04421",Germany,2025-04-01 01:32:04.126354,644.6,Germany,427,856,High,100000427,Current,Online,Inactive,44711.52,EUR
+891,Nicole Klein,"USNS Bird, FPO AE 23927",India,2024-08-31 11:37:04.668201,2297.87,India,891,909,High,100000891,Fixed Deposit,Branch,Active,72504.43,USD
+63,Joanne Williamson,"2281 Brown Crossing, Lake Erikamouth, NH 44494",Canada,2024-10-25 17:46:04.525646,4630.52,Canada,63,574,Medium,100000063,Savings,Online,Active,83045.01,CAD
+780,Joshua Beck,"20991 Edward Pass Apt. 176, North Garychester, CT 83052",India,2024-07-25 18:01:04.228846,1453.0,India,780,819,Low,100000780,Fixed Deposit,Online,Closed,64473.62,CAD
+143,Jacqueline Walker,"431 Harris Street Suite 179, North Zacharytown, IA 53223",USA,2024-09-10 22:16:04.253769,2729.74,USA,143,222,Low,100000143,Fixed Deposit,Online,Active,50227.6,USD
+262,Jordan Jordan,"22418 Linda Summit, South Jeremy, VT 01161",Canada,2024-09-02 13:11:04.671538,3700.82,Canada,262,29,High,100000262,Fixed Deposit,Mobile,Closed,99015.33,INR
+467,Timothy Johnson,"Unit 9019 Box 2029, DPO AE 92834",Germany,2024-12-27 18:48:04.171618,4897.37,Germany,467,738,Low,100000467,Fixed Deposit,Online,Closed,29285.5,USD
+931,William Washington,"375 Marks Fords, Lake Paulafort, VA 97704",Germany,2024-10-01 11:41:04.151653,119210.99999999999,Unknown,931,562,High,100000931,Savings,Mobile,Closed,14796.25,USD
+87,Rebecca Brown,"1772 Christopher Ports, West Jenniferton, NE 06563",USA,2024-08-06 09:43:04.393072,2649.26,USA,87,498,High,100000087,Current,Branch,Active,73231.01,EUR
+50,Travis Young,"07414 Joseph Crossroad Apt. 032, South Donaldton, VT 62961",USA,2024-07-18 10:12:04.647803,726.24,USA,50,370,Medium,100000050,Savings,Mobile,Closed,19300.59,GBP
+503,Dennis Morris,"393 Anderson Passage, Dominiquechester, NE 87692",UK,2025-01-25 04:25:04.333097,4719.74,UK,503,733,High,100000503,Current,Online,Inactive,31643.23,INR
+870,Jennifer Nelson,"59054 Rose Rapid Apt. 325, East Lindachester, WV 01739",UK,2025-04-08 19:11:04.018357,2074.01,UK,870,391,Medium,100000870,Current,ATM,Closed,94665.43,GBP
+367,David French,"Unit 3051 Box 0722, DPO AP 28937",India,2024-06-06 01:15:04.576655,3247.59,India,367,230,High,100000367,Savings,ATM,Inactive,96157.87,INR
+645,Sally Chavez,"980 Marquez Motorway Suite 125, Danielsbury, MS 11613",UK,2024-09-20 10:01:04.055145,612.26,UK,645,536,High,100000645,Fixed Deposit,Mobile,Closed,12856.45,CAD
+955,Linda Mitchell,"5372 Levine Lights Suite 350, Sarahland, CT 68799",India,2024-11-13 23:16:04.601027,3731.01,India,955,95,Medium,100000955,Savings,Mobile,Closed,42458.28,GBP
+535,James Robertson,"92647 Mccoy Ridges Apt. 458, Stevensonstad, KS 61483",UK,2025-03-16 23:19:04.526533,3978.67,UK,535,207,Medium,100000535,Fixed Deposit,Online,Active,77129.75,USD
+545,Brittany Wang,"259 Page Brooks, Theresaburgh, MP 33406",UK,2025-01-02 14:36:04.472249,4160.25,UK,545,668,High,100000545,Fixed Deposit,ATM,Active,62194.7,USD
+378,James Neal,"84356 Jordan Spur, South James, MO 66775",India,2024-07-09 07:20:04.017075,1865.77,India,378,575,Medium,100000378,Fixed Deposit,ATM,Inactive,3303.92,EUR
+933,Brandi Rice MD,"186 Daniel Neck Suite 454, North Cheryl, PR 62817",USA,2025-01-19 11:45:04.598494,112049.0,Unknown,933,644,High,100000933,Current,Online,Inactive,98455.82,GBP
+102,Jennifer Luna,"951 Sanders Orchard, South Alexanderburgh, PR 28061",India,2024-06-28 22:17:04.375615,2268.78,India,102,492,High,100000102,Savings,Branch,Closed,64004.63,INR
+201,Sara Archer,"2302 Wilson Oval Apt. 762, North Emily, CO 08836",Canada,2024-09-29 10:00:04.294965,1058.22,Canada,201,148,Medium,100000201,Fixed Deposit,Mobile,Active,64561.13,EUR
+193,Marcus Marshall,"6134 Monica Shoal Suite 875, Nicholsport, MT 91949",UK,2024-09-12 03:54:04.059476,1724.87,UK,193,592,Low,100000193,Current,Online,Active,90141.39,CAD
+876,Matthew Bailey,"256 Daniel Oval Suite 156, Michaelview, WY 72724",UK,2025-03-27 21:43:04.161852,4240.4,UK,876,884,Low,100000876,Savings,Mobile,Active,16459.11,EUR
+490,Elizabeth Watts,"250 Martin Green Apt. 818, West Tammie, LA 21275",Canada,2025-02-20 09:31:04.287159,1373.23,Canada,490,201,Medium,100000490,Fixed Deposit,ATM,Inactive,89136.11,EUR
+549,Diamond Pierce,"459 Anthony Drive, Smithfort, AL 35759",USA,2024-11-19 20:19:04.366532,243.96,USA,549,183,High,100000549,Current,Branch,Inactive,52510.46,EUR
+797,Emma Payne,"623 Brown Alley Suite 114, Port James, NV 54519",India,2024-06-29 20:02:04.407807,4181.29,India,797,931,Medium,100000797,Current,Mobile,Active,93279.71,USD
+191,John Miller,"874 Morgan Point Suite 887, Penaton, IA 68395",Canada,2025-01-04 15:36:04.602503,1164.66,Canada,191,124,Low,100000191,Fixed Deposit,Branch,Inactive,10217.17,GBP
+495,Charles Santos,"8893 Monique Cliff Suite 863, East Susan, IL 50368",Canada,2024-10-13 07:38:04.112024,4599.61,Canada,495,204,Medium,100000495,Fixed Deposit,Online,Active,46906.14,INR
+93,Samuel Green MD,"1609 Robert Port Suite 327, East Daniel, UT 62360",Canada,2025-01-15 13:20:04.115315,3354.4,Canada,93,172,Low,100000093,Current,Branch,Active,76317.72,EUR
+257,Katherine Aguirre,"60504 Candice Hollow Apt. 273, Port Alexis, MI 55720",Canada,2025-03-11 13:24:04.309712,4077.14,Canada,257,593,Low,100000257,Fixed Deposit,ATM,Closed,93679.32,INR
+883,Heather Day,"98814 Dixon Turnpike, Kylemouth, CT 61742",USA,2025-04-21 17:15:04.574300,274.02,USA,883,929,High,100000883,Current,ATM,Active,2951.34,EUR
+275,Bruce Rojas,"171 Bradshaw Glen Suite 638, New Kelseytown, CA 30528",India,2025-02-24 07:44:04.363823,2589.85,India,275,430,Medium,100000275,Current,ATM,Active,51622.9,USD
+357,Rhonda Lucas,"3433 Jason Keys, Goodmanport, WA 52539",Canada,2024-07-01 15:25:04.152495,455.9,Canada,357,597,Low,100000357,Fixed Deposit,ATM,Closed,3624.62,GBP
+47,Ryan Miller,"903 Williams Plaza, New Morganview, ND 21576",UK,2025-05-19 04:38:04.206658,1652.37,UK,47,954,Low,100000047,Current,ATM,Closed,31859.4,GBP
+748,Stephen Escobar,"307 Sharp Points Apt. 803, South Michelle, MI 88100",Germany,2025-04-07 00:36:04.344046,3148.74,Germany,748,416,Low,100000748,Fixed Deposit,Branch,Closed,54811.73,USD
+130,John Stewart,"57378 Allen Glens Suite 909, Port Felicia, AK 22396",India,2025-03-15 09:11:04.562516,507.02,India,130,845,High,100000130,Current,Online,Closed,51563.98,USD
+86,Jason Robinson,"39118 Reginald Extension, Lawsonborough, PA 15371",India,2024-10-10 06:21:04.260827,20823.5,Unknown,86,342,High,100000086,Savings,ATM,Active,33193.15,INR
+443,Dawn Charles,"7597 Hernandez Drives Suite 227, Danielhaven, WY 18709",Germany,2024-11-14 14:39:04.096268,628.04,Germany,443,790,Low,100000443,Current,Online,Closed,38052.81,USD
+904,Matthew Villa,"USNS Sutton, FPO AP 75235",Canada,2025-03-12 22:28:04.051470,901.07,Canada,904,58,High,100000904,Fixed Deposit,Mobile,Closed,58721.11,EUR
+600,Ernest Wood,"37337 Brandon Drive, South Ryan, FM 58155",Canada,2025-02-22 17:01:04.646064,1735.47,Canada,600,126,High,100000600,Savings,Online,Active,5045.99,INR
+282,Kristine Smith,"20075 Wheeler Inlet Apt. 164, Gabrielchester, MI 17561",USA,2024-07-23 16:34:04.010787,666.51,USA,282,208,Medium,100000282,Current,Mobile,Active,34461.52,CAD
+741,Samantha Decker,"40476 Jamie Crescent Suite 319, East Stephanie, MA 65934",India,2025-01-14 13:05:04.432883,162339.5,Unknown,741,150,High,100000741,Current,ATM,Closed,46805.3,CAD
+326,Joanne Wilson,"1688 Dominguez Estates, Laurashire, CT 16247",India,2025-03-06 08:49:04.267652,210.06,India,326,402,Low,100000326,Fixed Deposit,Branch,Active,74051.79,GBP
+556,Lindsey Silva,"2508 Johnson Lodge Suite 872, Lindabury, ND 93702",India,2024-06-27 14:22:04.268768,3989.27,India,556,731,High,100000556,Savings,Branch,Inactive,40944.8,GBP
+155,Danielle Olson,"37203 Wendy Extension Suite 789, South Blake, VI 14607",India,2024-12-02 12:57:04.417567,60.65,India,155,614,Low,100000155,Fixed Deposit,Branch,Active,98579.39,GBP
+252,Jesus Lopez,"763 Parrish Crest, Alanmouth, AR 88922",UK,2024-08-08 05:13:04.054302,766.3,UK,252,611,Medium,100000252,Fixed Deposit,Branch,Active,39124.68,CAD
+936,Paul Ross,"00796 Paige Spring Apt. 116, Hamptonfort, VA 63002",Germany,2025-06-03 03:44:04.230863,2945.1,Germany,936,786,High,100000936,Current,ATM,Closed,27958.43,CAD
+726,Antonio Mason,"1131 Wolf Rapid Suite 710, Port Keithside, AK 39585",UK,2025-06-03 07:16:04.353184,2038.68,UK,726,83,Low,100000726,Current,Online,Closed,84341.05,CAD
+347,Brian Riley,"544 Patterson Road, Port Ericbury, WY 80307",UK,2024-07-26 10:17:04.042476,3882.23,UK,347,869,High,100000347,Current,Mobile,Closed,63874.27,GBP
+108,Charlene Ingram,"86857 Martin Cliffs Apt. 673, Michelefurt, AS 02919",Canada,2024-06-26 07:35:04.077049,4191.19,Canada,108,409,High,100000108,Current,ATM,Active,75799.56,GBP
+591,Stephanie Hall,"6558 Richard Mount, Longton, PR 31213",UK,2024-11-22 19:03:04.291623,1667.87,UK,591,729,High,100000591,Savings,Branch,Active,14743.89,CAD
+805,Brooke Nelson,"Unit 3716 Box 7604, DPO AA 37784",Germany,2025-02-01 02:23:04.265331,4559.56,Germany,805,588,Medium,100000805,Savings,ATM,Closed,42988.94,EUR
+991,Casey Hill,"241 Dustin Hills, West Joyce, HI 87855",India,2024-07-23 20:56:04.081295,257.41,India,991,381,High,100000991,Savings,ATM,Active,80142.17,GBP
+306,Michelle Burke,"24722 Megan River Apt. 560, New Jesseshire, MP 18396",Canada,2024-12-14 13:59:04.265877,4460.04,Canada,306,628,High,100000306,Fixed Deposit,Online,Active,97609.36,GBP
+441,Heather Burton,"1153 Sheila Parks, Amberberg, GU 92250",Germany,2025-04-09 21:20:04.437873,453.08,Germany,441,418,High,100000441,Savings,Branch,Closed,9398.93,EUR
+914,Sheila Henson,"6684 Sylvia Vista, New Sheryl, ID 86332",Canada,2024-09-01 19:52:04.264266,2777.23,Canada,914,212,High,100000914,Fixed Deposit,ATM,Active,41531.75,INR
+59,Eric Jones,"6353 Reid Spring, Lake Kellifurt, NV 54861",USA,2024-12-18 16:42:04.013343,2027.52,USA,59,6,Medium,100000059,Current,Mobile,Inactive,5477.5,GBP
+391,Julie Reeves,"154 Moore Springs Suite 680, South Dustinbury, ME 51213",India,2025-03-12 14:07:04.422178,4880.98,India,391,614,High,100000391,Savings,ATM,Closed,99060.01,USD
+204,Charles Gutierrez,"603 Hart Alley Apt. 657, Karinaborough, MH 27813",India,2025-03-23 11:28:04.315038,1262.11,India,204,991,Medium,100000204,Current,Mobile,Inactive,89956.86,INR
+89,Brooke Snow,"66183 Young Manor Apt. 511, New Dustinhaven, MH 15095",UK,2025-01-29 12:05:04.079525,3758.8,UK,89,208,Medium,100000089,Savings,Mobile,Active,88834.06,EUR
+302,Todd Taylor,"675 Hailey Tunnel, Lambmouth, NY 19035",India,2024-06-14 18:30:04.340131,1062.52,India,302,307,High,100000302,Fixed Deposit,Online,Active,53604.11,INR
+671,Joseph Houston,"USS Vincent, FPO AP 78444",Germany,2024-11-12 22:59:04.085976,2973.57,Germany,671,374,High,100000671,Fixed Deposit,Mobile,Closed,18163.99,EUR
+439,Laurie Stevens,"31215 Jasmine Groves Apt. 047, Donaldsonchester, HI 40396",Germany,2024-08-17 07:50:04.376168,3822.82,Germany,439,879,Low,100000439,Current,Online,Active,70917.98,INR
+650,David Jones,"PSC 7698, Box 3554, APO AE 55181",UK,2024-07-12 22:25:04.139435,535.43,UK,650,610,Medium,100000650,Current,Branch,Inactive,50345.78,INR
+543,Megan Rodriguez,"408 Marshall Haven Apt. 267, Adamsmouth, PW 47341",Germany,2024-06-10 14:32:04.489579,644775.0000000001,Unknown,543,643,High,100000543,Current,Mobile,Closed,23635.64,GBP
+226,Patrick Fisher,"5070 Chad Oval, Garciamouth, WV 96432",UK,2024-08-12 15:43:04.299481,1840.89,UK,226,116,High,100000226,Current,Online,Active,25154.97,INR
+686,Tony Kelley,"Unit 3766 Box 1318, DPO AP 01112",Germany,2024-11-25 10:53:04.238759,3951.25,Germany,686,348,High,100000686,Fixed Deposit,Mobile,Inactive,56119.53,CAD
+775,Laura Roberts,"8797 Coleman Bypass, West Kyle, NC 60005",Canada,2025-01-30 01:42:04.103956,1195.85,Canada,775,405,Low,100000775,Current,Branch,Inactive,79932.24,USD
+746,Matthew Nguyen,"384 Cooper Groves Apt. 820, Lake Sydney, FL 84364",Germany,2024-12-12 01:01:04.029774,984.97,Germany,746,767,High,100000746,Current,Mobile,Active,90057.88,GBP
+929,Carlos Logan,"90341 Valerie Mission Apt. 174, South Eileenfort, DE 34248",Germany,2024-10-29 03:48:04.639934,3784.5,Germany,929,346,High,100000929,Savings,Mobile,Active,63714.34,INR
+361,Dennis Robinson,"60897 Mario Walks Apt. 416, Markmouth, DC 83385",Canada,2024-12-01 15:27:04.042057,971.45,Canada,361,407,Low,100000361,Savings,Mobile,Inactive,39428.82,INR
+935,Eric Thomas,"71098 Lynn Flats Suite 900, Kathleenview, FL 13850",USA,2024-06-10 19:16:04.377215,2466.16,USA,935,896,High,100000935,Current,ATM,Inactive,17996.25,USD
+736,Holly Reed,"160 Craig Turnpike, Gregorymouth, TN 76782",USA,2025-01-29 15:00:04.608669,3513.01,USA,736,862,High,100000736,Current,ATM,Closed,87842.85,GBP
+768,Isaiah Clark,"PSC 2425, Box 2403, APO AA 25328",Germany,2024-07-24 12:04:04.616547,4506.5,Germany,768,311,High,100000768,Fixed Deposit,Branch,Active,87799.8,GBP
+886,Eddie Carpenter,"093 Ramirez Glens Suite 100, Elizabethstad, MO 95608",USA,2024-06-27 11:42:04.582309,1049.46,USA,886,621,Low,100000886,Fixed Deposit,Online,Active,18675.92,GBP
+294,Erika Hood,"96220 Myers Keys Apt. 035, Thomasmouth, NJ 65432",Germany,2024-09-04 02:17:04.362092,4964.57,Germany,294,948,Medium,100000294,Fixed Deposit,Online,Active,36658.87,GBP
+48,Stacy Pruitt,"1628 Sullivan Ridge, Morganton, NH 96914",Germany,2024-08-30 01:31:04.479510,3049.87,Germany,48,688,High,100000048,Savings,Online,Closed,52486.73,CAD
+592,Jason Franklin,"04920 Strickland Street, Victorialand, ID 73175",Canada,2024-08-24 10:48:04.573841,80667.5,Unknown,592,946,High,100000592,Current,Mobile,Inactive,64446.6,GBP
+100,Kathleen Patterson,"7951 Michelle Ramp Suite 696, New Veronicaburgh, IL 97366",UK,2025-05-16 15:42:04.120265,4523.13,UK,100,257,Low,100000100,Current,Branch,Active,11681.25,GBP
+680,Katherine Bryant,"4234 Miller Skyway Apt. 890, Karenhaven, AL 09056",India,2025-05-20 23:01:04.252518,3081.91,India,680,727,High,100000680,Fixed Deposit,Online,Closed,86685.21,USD
+139,Brandon Turner PhD,"90804 Craig Skyway, Williamsburgh, AL 85558",Canada,2024-06-18 19:56:04.340825,4212.3,Canada,139,646,Medium,100000139,Current,Online,Inactive,36999.33,EUR
+68,Tyrone Smith,"0499 Cuevas Village, Port Kenneth, OH 85551",India,2024-08-05 12:55:04.142461,2248.88,India,68,771,High,100000068,Fixed Deposit,Online,Closed,80417.5,CAD
+652,Javier Miles,"0874 Valerie Road Apt. 365, Sherryton, MO 21617",USA,2025-04-05 23:40:04.140350,4171.84,USA,652,427,Medium,100000652,Current,Online,Closed,54173.55,GBP
+780,Joshua Beck,"20991 Edward Pass Apt. 176, North Garychester, CT 83052",India,2025-01-23 23:57:04.394226,1507.63,India,780,176,Low,100000780,Fixed Deposit,ATM,Closed,64473.62,CAD
+294,Erika Hood,"96220 Myers Keys Apt. 035, Thomasmouth, NJ 65432",Germany,2024-06-24 19:38:04.459436,4577.1,Germany,294,632,Medium,100000294,Fixed Deposit,ATM,Active,36658.87,GBP
+649,Lauren Farmer,"85435 Kimberly Stravenue Apt. 122, Taylormouth, OK 11082",USA,2025-01-07 17:02:04.173873,2413.54,USA,649,195,Low,100000649,Current,ATM,Inactive,79127.95,USD
+61,Jennifer Howell,"52554 Jason Lodge Apt. 957, Jimenezstad, OH 66063",India,2025-03-17 16:22:04.117035,4651.25,India,61,255,Low,100000061,Savings,ATM,Active,39479.05,INR
+35,Joseph Valentine,"4155 Miller Inlet, Woodsland, MT 97006",USA,2024-12-20 17:50:04.371715,852.15,USA,35,254,Low,100000035,Fixed Deposit,Mobile,Inactive,96597.57,GBP
+702,Andrew Sanchez,"USNS Hernandez, FPO AA 30469",Germany,2025-01-01 04:06:04.464760,619.9,Germany,702,890,Low,100000702,Current,Mobile,Inactive,6130.53,USD
+225,Angel Kent,"93343 Bailey Creek, Apriltown, WI 20592",UK,2025-05-06 22:15:04.152902,1484.74,UK,225,175,Medium,100000225,Fixed Deposit,ATM,Active,27255.03,CAD
+782,Adam Ferguson,"6536 Kristen Alley Suite 839, Port Timothyland, MA 15808",USA,2025-01-02 13:08:04.414213,44.49,USA,782,44,Low,100000782,Savings,Branch,Active,54729.72,EUR
+273,Eric Espinoza,"USNV Smith, FPO AP 22274",India,2024-12-30 13:05:04.063112,128.0,India,273,260,High,100000273,Savings,Branch,Inactive,86840.16,USD
+930,Michael Carter Jr.,"80401 Kelly Hollow, Stuartmouth, NE 48286",USA,2025-03-06 22:23:04.388157,3314.17,USA,930,920,High,100000930,Current,Online,Closed,26530.88,INR
+983,Daniel Cole,"155 Angela Viaduct, New Garyport, OK 29705",USA,2025-04-30 13:49:04.600519,2758.08,USA,983,762,Low,100000983,Fixed Deposit,Branch,Closed,11553.23,CAD
+627,Sherry Jones,"131 Orozco View, South Kylebury, OH 48257",Canada,2025-01-10 17:17:04.174441,4340.69,Canada,627,793,High,100000627,Savings,Branch,Inactive,46790.94,INR
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-10-04 08:19:04.571281,3702.14,Germany,107,463,Low,100000107,Current,ATM,Inactive,41627.91,CAD
+864,Maria Herrera,"4758 Tucker Mall, North Timothyhaven, LA 18299",Germany,2024-09-03 01:53:04.399339,1905.68,Germany,864,460,Medium,100000864,Current,ATM,Active,44635.51,EUR
+27,Susan Rowland,"3288 Emma Ways, East Meaganport, AS 15948",UK,2025-02-14 13:10:04.078216,2483.27,UK,27,363,Low,100000027,Fixed Deposit,Mobile,Inactive,20767.7,CAD
+430,Thomas Brown,"16627 Erica Roads Apt. 394, South James, AR 89462",Canada,2024-07-13 01:47:04.568594,2038.92,Canada,430,657,Medium,100000430,Fixed Deposit,Branch,Closed,12589.63,INR
+221,Amanda Woods,"9487 Humphrey Cove Apt. 826, Williamsonhaven, PA 89858",Germany,2025-01-16 03:43:04.388668,1854.93,Germany,221,169,High,100000221,Current,Mobile,Active,66103.68,INR
+620,Dominique Smith,"244 Dean Summit Suite 957, Jessicaburgh, NE 22077",India,2025-01-23 14:06:04.454248,234.34,India,620,517,Low,100000620,Savings,Online,Closed,75077.71,CAD
+910,Jesse Alvarado,"234 Jamie Rapid, Mooreland, UT 50908",USA,2024-09-17 18:33:04.288975,105.93,USA,910,627,Medium,100000910,Fixed Deposit,Mobile,Inactive,38589.55,CAD
+297,Cheryl Perez,"9477 Schaefer Cape Apt. 807, Anitaborough, MA 34394",Canada,2024-06-30 17:31:04.132358,3662.1,Canada,297,720,Low,100000297,Fixed Deposit,Online,Inactive,77229.36,INR
+220,James Barnett,"37649 Wolfe Points, Lake Garyport, AK 75166",UK,2024-11-25 00:11:04.104417,1539.37,UK,220,849,Medium,100000220,Savings,Online,Inactive,85073.12,GBP
+884,Sean Brown,"022 Tucker Plains, South Rebecca, FM 04586",UK,2025-01-26 06:40:04.312066,3587.02,UK,884,879,High,100000884,Savings,Online,Closed,11306.75,EUR
+675,Matthew Peck,"919 Joshua Rest Suite 873, Silvafurt, VT 94429",Germany,2024-06-29 21:11:04.329420,4912.64,Germany,675,709,Medium,100000675,Fixed Deposit,Mobile,Closed,41629.29,GBP
+755,Anthony Edwards,"2545 Webster Street Apt. 664, Scottshire, HI 26423",India,2024-09-11 15:32:04.370089,2593.83,India,755,878,Medium,100000755,Savings,Mobile,Inactive,14787.94,INR
+441,Heather Burton,"1153 Sheila Parks, Amberberg, GU 92250",Germany,2024-08-16 05:47:04.665772,2461.26,Germany,441,925,High,100000441,Savings,ATM,Closed,9398.93,EUR
+395,Amanda Martinez,"USNV Ruiz, FPO AE 14345",USA,2025-02-04 04:18:04.518084,4271.94,USA,395,416,Low,100000395,Current,Mobile,Active,34739.55,INR
+501,Ernest Martin,"253 Stone Ports Suite 843, South Andrea, GA 17658",India,2024-07-21 06:24:04.117543,4025.1,India,501,954,Low,100000501,Savings,ATM,Closed,70118.01,EUR
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2024-06-25 08:12:04.322313,2199.79,India,484,473,Medium,100000484,Savings,Mobile,Inactive,63128.25,EUR
+949,Kelsey Henderson DDS,"371 Mario Port, Brianberg, HI 11307",UK,2025-02-04 08:55:04.297992,315.96,UK,949,868,High,100000949,Current,ATM,Inactive,87515.12,GBP
+377,Kelly Rivera,"619 Armstrong Locks, Montoyaport, ND 27043",India,2024-10-17 05:11:04.180334,4525.52,India,377,904,Low,100000377,Current,ATM,Active,84642.66,GBP
+991,Casey Hill,"241 Dustin Hills, West Joyce, HI 87855",India,2024-12-31 15:52:04.037040,4942.99,India,991,794,High,100000991,Savings,Online,Active,80142.17,GBP
+438,John Hawkins,"371 Cooper Via Apt. 823, Port David, ND 43587",UK,2024-12-10 15:53:04.100127,3293.88,UK,438,931,Medium,100000438,Savings,Mobile,Inactive,82364.15,EUR
+870,Jennifer Nelson,"59054 Rose Rapid Apt. 325, East Lindachester, WV 01739",UK,2024-12-07 14:53:04.076184,476.24,UK,870,423,Medium,100000870,Current,Online,Closed,94665.43,GBP
+539,Tanner Mathis,"33882 Jackson Brooks Suite 852, West Tina, DC 46209",India,2024-06-25 01:01:04.577983,1849.42,India,539,745,Low,100000539,Current,Mobile,Inactive,45603.87,GBP
+914,Sheila Henson,"6684 Sylvia Vista, New Sheryl, ID 86332",Canada,2025-03-24 05:45:04.202409,2420.86,Canada,914,38,High,100000914,Fixed Deposit,ATM,Active,41531.75,INR
+349,Dylan Green,"65114 Robert Glen, Martinmouth, HI 55980",USA,2025-03-27 10:36:04.295493,2624.26,USA,349,87,Low,100000349,Fixed Deposit,Branch,Closed,38086.65,EUR
+404,Kelly Winters,"7472 Brooke Burg, North Jeffrey, MN 84640",USA,2025-05-18 17:03:04.259676,1047.11,USA,404,742,High,100000404,Current,Online,Inactive,82819.29,GBP
+885,Yvonne Barnett,"11476 Gutierrez Motorway Apt. 892, Mercadoberg, AZ 82344",UK,2024-10-09 09:28:04.328166,2141.56,UK,885,302,High,100000885,Current,Online,Closed,80191.69,GBP
+43,Michael Hodges,"162 Diaz Ford Suite 619, Lake Allison, WV 08518",UK,2024-11-24 19:41:04.119792,2227.92,UK,43,706,Low,100000043,Savings,Mobile,Active,4404.46,INR
+839,Katherine Johnson,"4281 Melanie Port, Sierraview, VT 34959",USA,2024-10-10 11:27:04.153368,1370.43,USA,839,55,High,100000839,Current,Online,Active,58478.25,INR
+580,Matthew Rice,"56278 Elijah Ferry, East Michael, SC 21868",UK,2024-10-22 19:42:04.589625,2075.09,UK,580,42,Low,100000580,Fixed Deposit,Branch,Inactive,26566.19,EUR
+682,Brian Williams,"7950 Mason Lock, Mooreshire, AK 54934",USA,2024-10-12 00:26:04.414749,1504.89,USA,682,573,Low,100000682,Fixed Deposit,Online,Inactive,26532.38,CAD
+509,Francis Glass DDS,"09374 Hansen Mountain Apt. 187, Lake Justinland, IL 19266",Canada,2024-06-16 18:44:04.580323,4042.71,Canada,509,998,High,100000509,Current,Mobile,Closed,95030.19,CAD
+565,Miss Megan Patel,"71421 Nichols Knolls, West Brandi, MP 55882",USA,2024-08-12 09:14:04.384254,2499.7,USA,565,756,High,100000565,Savings,Mobile,Active,35708.17,CAD
+261,Greg Evans,"16590 Hall Squares, West Lisa, TN 27960",USA,2024-06-21 22:02:04.337844,1787.84,USA,261,342,Medium,100000261,Current,Online,Closed,61885.72,USD
+514,Ashley Perez,"03186 Miller Shore Suite 577, Cynthiachester, IN 06946",Germany,2025-02-05 10:11:04.095074,850.21,Germany,514,129,High,100000514,Fixed Deposit,Online,Inactive,86740.33,GBP
+488,Annette Thompson,"5491 Perkins View Suite 085, Ashleymouth, VT 49696",India,2025-02-02 23:14:04.079111,879.58,India,488,241,Medium,100000488,Fixed Deposit,Mobile,Inactive,28815.36,CAD
+504,Shawn Graham,"6742 Sandoval Tunnel Apt. 184, New Dylanville, MS 96887",USA,2024-11-11 16:46:04.667746,1666.35,USA,504,718,Low,100000504,Savings,Mobile,Closed,81565.71,CAD
+305,Phillip Wright,"183 Sheila Fort, Williamstown, CT 78802",USA,2025-05-27 11:33:04.123718,4173.11,USA,305,905,Low,100000305,Current,ATM,Closed,72883.04,INR
+982,Phillip Delgado,"727 Mercado Key, Port Natalieborough, ID 92722",UK,2025-01-07 18:48:04.284265,4942.62,UK,982,545,Medium,100000982,Fixed Deposit,Branch,Inactive,77320.31,USD
+669,Robert Morales,"951 Murray Trafficway, Patrickburgh, ME 96438",India,2025-03-02 04:19:04.165034,2419.66,India,669,798,High,100000669,Current,Mobile,Closed,19470.14,EUR
+759,Kimberly Gardner,"PSC 0324, Box 6611, APO AA 77903",India,2024-12-15 09:43:04.322814,4237.26,India,759,533,Low,100000759,Savings,Mobile,Closed,89495.37,CAD
+713,Benjamin Burgess,"5919 Ryan Divide, Port Laurenville, MA 54802",USA,2024-07-22 03:39:04.452711,3939.13,USA,713,637,High,100000713,Savings,Online,Inactive,47686.04,USD
+392,Steven Nunez,"34915 Shelton Fields, Danaburgh, DC 13680",Canada,2024-10-06 17:10:04.370546,2378.3,Canada,392,606,High,100000392,Savings,Online,Closed,41849.15,CAD
+525,Jeanette Maxwell,"7774 Vicki Track, West Jeremy, OK 95862",Germany,2024-07-27 12:10:04.165553,4559.85,Germany,525,27,High,100000525,Fixed Deposit,Mobile,Active,83994.54,EUR
+860,James Turner,"67592 Eric Drives Suite 959, Lake Christopher, MI 34283",India,2025-01-26 13:22:04.611095,3873.46,India,860,364,Low,100000860,Savings,Online,Inactive,7505.16,EUR
+771,Lucas Weaver,"169 Jason Lakes, Lake Pamela, AL 44754",India,2024-11-12 09:43:04.666319,4392.49,India,771,430,Low,100000771,Current,ATM,Active,11952.54,USD
+250,Robert Molina,"904 Robert Islands, Michaelstad, DC 01134",USA,2024-06-19 21:49:04.026406,2018.01,USA,250,297,High,100000250,Fixed Deposit,Online,Closed,85447.94,USD
+948,Carol Wilson,"20170 Henry Estate Suite 267, Stephanieport, MA 66723",USA,2025-01-02 13:58:04.274422,2935.7,USA,948,812,Low,100000948,Savings,Branch,Active,90101.85,USD
+102,Jennifer Luna,"951 Sanders Orchard, South Alexanderburgh, PR 28061",India,2024-09-03 05:55:04.082586,646.65,India,102,490,High,100000102,Savings,ATM,Closed,64004.63,INR
+215,Charles White,"678 Robert Street Suite 522, East Paula, TN 94691",India,2025-01-22 12:18:04.096674,2329.17,India,215,107,Medium,100000215,Savings,Online,Active,71505.74,USD
+651,Cindy Watson,"8663 Alan Forest, South Markside, HI 38634",UK,2025-01-04 13:02:04.470241,968.71,UK,651,49,Medium,100000651,Fixed Deposit,Mobile,Inactive,9605.11,INR
+382,James Hodges,"88224 Gutierrez Corner Apt. 665, Trevormouth, KS 40735",UK,2024-10-03 16:14:04.049842,3462.53,UK,382,692,High,100000382,Fixed Deposit,Mobile,Inactive,69976.98,GBP
+727,Rachel Nichols,"24212 Arellano Highway, New Manuelview, PA 16918",Germany,2024-09-07 18:18:04.585245,2160.9,Germany,727,728,Low,100000727,Savings,ATM,Inactive,14837.47,INR
+372,Steven Morales,"39921 Jason Common Suite 854, Williamsmouth, MO 92239",India,2024-07-27 13:51:04.379343,3719.82,India,372,715,Low,100000372,Savings,Mobile,Active,2803.96,CAD
+319,Elizabeth Cole,"0909 Cummings Court, East Kathryn, UT 96785",Canada,2024-12-21 02:38:04.258483,1677.38,Canada,319,795,Medium,100000319,Fixed Deposit,Online,Closed,16487.27,CAD
+766,John Miller,"56310 Sue Valley, North Stephenville, MD 43255",Canada,2024-12-15 23:23:04.471239,3488.26,Canada,766,607,High,100000766,Current,Branch,Closed,57419.08,USD
+874,Harold Horn,"271 Gonzalez Fort Suite 904, Port Joseph, MO 45884",UK,2025-05-16 09:31:04.017901,2014.91,UK,874,982,Medium,100000874,Savings,ATM,Inactive,41464.68,CAD
+656,Jerry Lynch,"8433 Rogers Passage, Lake Cynthiastad, VA 65005",Canada,2025-03-19 20:49:04.013795,1802.23,Canada,656,41,Low,100000656,Fixed Deposit,Online,Inactive,13630.45,GBP
+748,Stephen Escobar,"307 Sharp Points Apt. 803, South Michelle, MI 88100",Germany,2024-10-16 16:38:04.376647,151.59,Germany,748,1000,Low,100000748,Fixed Deposit,Mobile,Closed,54811.73,USD
+514,Ashley Perez,"03186 Miller Shore Suite 577, Cynthiachester, IN 06946",Germany,2025-03-21 06:56:04.108250,2217.53,Germany,514,93,High,100000514,Fixed Deposit,Mobile,Inactive,86740.33,GBP
+253,Scott Cline,"9081 Roth Row, Matthewmouth, CT 28972",UK,2025-05-24 18:28:04.399943,2380.85,UK,253,125,Medium,100000253,Fixed Deposit,Branch,Active,85262.53,USD
+535,James Robertson,"92647 Mccoy Ridges Apt. 458, Stevensonstad, KS 61483",UK,2025-03-31 04:26:04.054720,3488.38,UK,535,395,Medium,100000535,Fixed Deposit,Mobile,Active,77129.75,USD
+179,Kimberly Atkins,"7269 Dawn Lodge, South Scottshire, ID 30756",Canada,2025-05-27 14:47:04.039228,83.68,Canada,179,914,Medium,100000179,Savings,Online,Active,93736.27,INR
+122,Shelia Leach,"89620 Megan Mountains Suite 650, Hobbsport, AK 51508",India,2025-03-15 10:09:04.205468,4665.11,India,122,183,Medium,100000122,Savings,Mobile,Closed,89713.04,GBP
+11,Denise Torres,"82510 Thomas Underpass, North Crystalfurt, GA 82181",USA,2025-03-03 15:23:04.015376,3625.06,USA,11,980,Medium,100000011,Current,Mobile,Active,3037.86,CAD
+86,Jason Robinson,"39118 Reginald Extension, Lawsonborough, PA 15371",India,2024-10-10 06:21:04.260827,20823.5,Unknown,86,342,High,100000086,Savings,ATM,Active,33193.15,INR
+40,Brian Kelley,"272 Potter Squares Apt. 729, New Luisstad, SC 10465",Germany,2025-05-22 15:30:04.266472,3978.81,Germany,40,134,High,100000040,Current,Online,Active,44575.1,CAD
+587,Debra Berry,"8212 Flores Lodge, Jasonport, VI 75957",India,2024-12-28 21:17:04.112907,117.56,India,587,698,High,100000587,Savings,Online,Active,8510.47,CAD
+650,David Jones,"PSC 7698, Box 3554, APO AE 55181",UK,2024-07-12 22:25:04.139435,26771.499999999996,Unknown,650,610,High,100000650,Current,Branch,Inactive,50345.78,INR
+245,Kenneth Williams,"6480 Lee Ridges Apt. 030, New Zachary, TX 06864",USA,2025-01-13 07:12:04.290539,3685.88,USA,245,113,Medium,100000245,Current,Branch,Inactive,2530.21,CAD
+427,Karla Banks,"Unit 6358 Box 2277, DPO AP 04421",Germany,2025-04-01 01:32:04.126354,32230.0,Unknown,427,856,High,100000427,Current,Online,Inactive,44711.52,EUR
+336,John King,"0014 Larry Road Apt. 166, North Harold, NC 49259",USA,2024-12-07 22:55:04.384835,2562.75,USA,336,329,Low,100000336,Savings,Branch,Inactive,5032.15,EUR
+172,Nicholas Small,"6455 Joseph Forges Apt. 136, Debrabury, MN 87381",UK,2024-08-07 19:22:04.412173,216.36,UK,172,68,Medium,100000172,Savings,Online,Active,2642.2,GBP
+145,Brendan Young,"71153 Barry Mountains Apt. 718, East Jennifer, WY 67623",UK,2025-02-24 01:09:04.262029,3430.12,UK,145,329,High,100000145,Current,ATM,Closed,29199.21,USD
+993,Catherine Humphrey,"66482 Norton Keys, Huberview, IA 89430",Germany,2024-11-17 06:22:04.612252,4338.13,Germany,993,864,Low,100000993,Fixed Deposit,Branch,Active,27942.37,EUR
+970,Jennifer House,"76939 Deborah Well, Taylortown, RI 99542",USA,2024-09-05 13:05:04.423242,108.22,USA,970,99,Low,100000970,Savings,Mobile,Inactive,48128.99,GBP
+130,John Stewart,"57378 Allen Glens Suite 909, Port Felicia, AK 22396",India,2025-04-12 07:09:04.154226,2619.57,India,130,886,High,100000130,Current,Branch,Closed,51563.98,USD
+171,Nathan Harris,"32888 Joseph Corner Suite 306, Lake Hunterhaven, CT 21529",UK,2025-02-19 08:50:04.276119,4250.83,UK,171,349,High,100000171,Current,Branch,Active,68078.87,CAD
+947,Jennifer Blackburn,"92215 Juarez Flat, Vazquezland, OR 88627",Canada,2025-04-10 12:44:04.457295,4413.04,Canada,947,500,High,100000947,Fixed Deposit,Branch,Inactive,14551.68,GBP
+391,Julie Reeves,"154 Moore Springs Suite 680, South Dustinbury, ME 51213",India,2024-10-26 03:14:04.366054,248.99,India,391,912,High,100000391,Savings,Branch,Closed,99060.01,USD
+983,Daniel Cole,"155 Angela Viaduct, New Garyport, OK 29705",USA,2024-11-13 19:45:04.070184,1244.46,USA,983,283,Low,100000983,Fixed Deposit,Branch,Closed,11553.23,CAD
+853,Jeffrey Travis,"USS Hutchinson, FPO AE 31955",Germany,2025-03-19 08:53:04.118086,11398.0,Unknown,853,661,High,100000853,Savings,Online,Active,21780.65,GBP
+539,Tanner Mathis,"33882 Jackson Brooks Suite 852, West Tina, DC 46209",India,2024-10-03 16:59:04.036517,4057.43,India,539,899,Low,100000539,Current,ATM,Inactive,45603.87,GBP
+194,Katie Sparks,"28744 Henry Turnpike Apt. 504, New Dillon, RI 75567",UK,2024-09-29 18:56:04.623262,4667.99,UK,194,38,Low,100000194,Current,Branch,Active,63677.04,USD
+447,Frederick Miller,"1247 Jo Stream Suite 814, West Ryan, OH 95262",Canada,2024-10-21 05:03:04.091777,1534.06,Canada,447,794,Medium,100000447,Current,ATM,Active,98614.11,GBP
+883,Heather Day,"98814 Dixon Turnpike, Kylemouth, CT 61742",USA,2025-05-03 07:01:04.323865,2409.31,USA,883,852,High,100000883,Current,Online,Active,2951.34,EUR
+16,Shelby Curtis,"44289 Jenkins Trail Apt. 926, Jordanville, IL 53596",Canada,2025-03-12 17:02:04.317786,430.64,Canada,16,54,High,100000016,Savings,Branch,Closed,19157.05,INR
+489,Laurie Baker,"9215 Vega Wells, Georgehaven, NC 33149",Canada,2024-10-16 01:48:04.395352,1052.49,Canada,489,292,Low,100000489,Fixed Deposit,Mobile,Inactive,95090.74,EUR
+928,Karen Adkins,"4217 Sandra Mountains, East Jennifer, VI 13533",UK,2024-11-18 11:27:04.065058,4064.58,UK,928,165,High,100000928,Savings,Online,Closed,54621.79,USD
+143,Jacqueline Walker,"431 Harris Street Suite 179, North Zacharytown, IA 53223",USA,2025-02-20 13:42:04.398210,485.37,USA,143,189,Low,100000143,Fixed Deposit,Online,Active,50227.6,USD
+974,Emily Mckinney,"548 Sharon Burg, Kimview, PW 85603",Canada,2024-11-29 18:35:04.207229,2480.3,Canada,974,331,Medium,100000974,Savings,Online,Active,22279.1,GBP
+250,Robert Molina,"904 Robert Islands, Michaelstad, DC 01134",USA,2024-07-20 23:54:04.104816,1224.51,USA,250,433,High,100000250,Fixed Deposit,ATM,Closed,85447.94,USD
+351,Andrew Boyd,"32471 Schmitt Bridge, Thomasview, VT 82006",Germany,2024-07-16 08:42:04.011121,577.67,Germany,351,934,Medium,100000351,Fixed Deposit,ATM,Active,50810.49,INR
+434,Donna Cochran,"7022 Tammy Ports, Debraberg, IL 31495",Canada,2024-06-21 23:18:04.008071,3444.49,Canada,434,294,Medium,100000434,Fixed Deposit,Online,Active,11011.14,GBP
+814,Robert Glover,"59554 Tara Point, Lake Jeremy, NY 20931",UK,2025-01-10 06:18:04.394795,4665.7,UK,814,995,High,100000814,Fixed Deposit,ATM,Inactive,92163.35,GBP
+337,Nicholas Brown,"97715 John Squares, North Lisa, OH 32792",Germany,2024-07-15 13:00:04.099692,2572.5,Germany,337,647,Low,100000337,Savings,ATM,Closed,85690.6,USD
+647,David Morris,"1793 West Shoals Apt. 582, New Robertport, AR 98353",Canada,2025-02-16 14:33:04.435883,735.09,Canada,647,947,High,100000647,Current,Branch,Inactive,59765.65,CAD
+445,Tammy Cummings,"USNS Cooper, FPO AP 91838",UK,2025-02-02 10:48:04.017486,4635.43,UK,445,457,High,100000445,Fixed Deposit,Mobile,Inactive,81467.16,CAD
+29,Emily Martinez,"991 Kristen Land, West Jessica, KY 68831",Canada,2024-10-11 08:37:04.109097,2091.12,Canada,29,381,High,100000029,Fixed Deposit,Online,Active,59649.04,USD
+584,Lindsay Sandoval,"Unit 9968 Box 8546, DPO AE 62291",UK,2024-06-27 11:12:04.032334,370.68,UK,584,132,Low,100000584,Savings,Online,Closed,33546.41,EUR
+817,Kyle Wilson,"71613 Joseph Throughway Suite 985, Aimeebury, LA 82834",India,2025-05-26 08:57:04.466264,1708.87,India,817,274,Low,100000817,Current,Online,Closed,59536.27,INR
+653,Carol Long,"593 Nathaniel Isle Suite 551, Joshuamouth, SC 42801",USA,2024-10-31 12:27:04.297499,362.37,USA,653,191,Low,100000653,Current,Branch,Active,59097.27,USD
+677,Michelle Barrera,"37949 Mary Path, East Waltermouth, MH 72636",UK,2024-10-15 07:50:04.206104,2070.69,UK,677,990,Low,100000677,Savings,ATM,Closed,12091.85,USD
+506,Ashley Bowen,"32218 Hill Meadows Apt. 806, Mendezfurt, KS 50041",India,2024-07-09 17:31:04.624789,1415.8,India,506,275,Medium,100000506,Savings,Branch,Active,17099.08,GBP
+563,Tracy Gardner,"9571 Phillips Landing, Caseyshire, NV 14610",Canada,2025-05-29 23:01:04.168738,1133.17,Canada,563,783,Low,100000563,Savings,Mobile,Closed,14500.78,EUR
+58,Mr. Gregory Lester DDS,"954 Ricky Knoll Suite 704, East Jorge, MI 31053",UK,2024-07-23 19:36:04.387100,698.14,UK,58,463,Medium,100000058,Current,Online,Active,20402.3,EUR
+354,Jesse Brooks,"8706 Michele Groves, North James, GA 27531",Canada,2024-07-11 19:05:04.448943,165.71,Canada,354,775,Medium,100000354,Savings,Branch,Closed,17130.51,GBP
+107,Brian Russell,"0218 Miller Junctions, Trujilloburgh, WA 06694",Germany,2024-08-08 04:35:04.347971,4866.79,Germany,107,856,Low,100000107,Current,Online,Inactive,41627.91,CAD
+723,Roberto King,"628 Jackson Rest Apt. 784, New Jim, UT 57513",USA,2025-02-23 12:02:04.331516,917.07,USA,723,504,High,100000723,Fixed Deposit,Mobile,Inactive,7583.13,EUR
+64,Felicia Jones,"02534 Johnson Branch, Samanthamouth, NE 10481",Germany,2024-11-16 08:17:04.156381,4974.91,Germany,64,502,High,100000064,Fixed Deposit,Online,Active,36318.58,USD
+264,Lynn Lyons,"USNS Yang, FPO AP 14566",UK,2024-11-21 09:00:04.580803,838.74,UK,264,731,High,100000264,Current,ATM,Active,52314.64,CAD
+810,Sara Gray,"7302 Williams Orchard, Sabrinaborough, KS 54263",UK,2024-07-18 18:22:04.605410,3386.7,UK,810,445,Low,100000810,Current,Online,Active,12210.57,USD
+170,James Kelley,"05072 Misty Street Suite 581, Floreston, CO 11284",Canada,2025-01-19 12:49:04.604423,2664.08,Canada,170,488,High,100000170,Current,Branch,Active,59498.4,USD
+113,Anthony Arnold,"PSC 4233, Box 3656, APO AE 35739",Canada,2024-07-17 19:24:04.140768,1483.66,Canada,113,650,Low,100000113,Savings,ATM,Active,93040.07,EUR
+831,Michael Watson,"102 Martin Plains, Samuelfurt, MI 53822",UK,2024-08-01 08:45:04.627272,2400.82,UK,831,944,High,100000831,Current,Branch,Active,23235.88,USD
+8,Kristi Vasquez,"920 Ortiz Key Suite 840, Katherineburgh, AL 12168",Canada,2025-05-19 21:49:04.135681,3515.55,Canada,8,744,Low,100000008,Savings,Online,Active,86751.44,INR
+896,Deborah Wright,"252 Strong Run, Lake Margaretmouth, NH 47121",UK,2025-01-07 12:13:04.102869,1325.1,UK,896,818,High,100000896,Fixed Deposit,Online,Active,21293.45,USD
+585,Matthew Maldonado,"424 Morgan Hills Suite 887, Williamsbury, WY 29663",UK,2025-05-17 02:44:04.403163,4306.27,UK,585,922,Low,100000585,Fixed Deposit,Online,Inactive,63706.68,INR
+139,Brandon Turner PhD,"90804 Craig Skyway, Williamsburgh, AL 85558",Canada,2024-09-19 23:50:04.626758,4216.68,Canada,139,238,Medium,100000139,Current,ATM,Inactive,36999.33,EUR
+314,David Walker,"19383 Neal Crossing, Brendaton, GA 06563",Canada,2024-07-24 05:24:04.325399,3837.02,Canada,314,25,Low,100000314,Fixed Deposit,Mobile,Closed,96302.19,USD
+518,Raymond Gilmore,"06978 Smith Rue, North Geraldville, VT 18179",Canada,2024-07-20 10:14:04.357978,39742.5,Unknown,518,476,High,100000518,Current,ATM,Closed,81244.78,CAD
+798,Laurie Peck,"PSC 6289, Box 1397, APO AP 38548",Germany,2024-07-04 15:09:04.068062,3993.82,Germany,798,871,Low,100000798,Savings,Mobile,Active,56948.19,INR
+698,Desiree Gregory,"162 Rose Viaduct Suite 450, East Samanthahaven, AR 39243",USA,2025-02-05 04:25:04.396805,4361.93,USA,698,166,High,100000698,Fixed Deposit,ATM,Active,58542.58,GBP
+975,Sarah Bush,"7915 Jeffrey Mountain, North Amber, CA 95118",Germany,2024-06-19 03:41:04.402632,3546.43,Germany,975,347,High,100000975,Fixed Deposit,Branch,Closed,4087.13,GBP
+981,Cheryl Hampton,"694 Nichols Junction, Lewisview, HI 36566",UK,2024-11-02 21:37:04.108663,3951.12,UK,981,351,Medium,100000981,Savings,Branch,Inactive,34090.15,EUR
+300,John West,"1486 Daniel Highway Suite 806, Port Dustin, MI 42177",Germany,2024-09-03 19:15:04.124587,3497.18,Germany,300,675,High,100000300,Savings,Branch,Closed,9449.4,CAD
+413,Juan Ryan,"73497 Mckinney Point, Lake Cynthiafort, LA 32353",USA,2025-05-04 17:30:04.528836,232.93,USA,413,888,Medium,100000413,Savings,ATM,Closed,95110.11,GBP
+987,Bobby Simmons,"94631 Mitchell Plains Suite 834, Hoodfurt, KS 10165",Germany,2025-03-04 18:31:04.572825,3781.94,Germany,987,377,Low,100000987,Savings,Branch,Closed,69151.84,CAD
+643,Jeffrey Bennett,"777 Rachel Lane, West Robinfort, OR 76400",Germany,2025-04-30 12:35:04.023444,4523.48,Germany,643,572,Medium,100000643,Savings,Mobile,Closed,21933.35,GBP
+911,Heather Kelley,"6412 Powell Knolls, Port Meghan, LA 64293",India,2024-07-01 14:07:04.472730,1682.4,India,911,444,Low,100000911,Savings,Mobile,Active,59439.2,EUR
+391,Julie Reeves,"154 Moore Springs Suite 680, South Dustinbury, ME 51213",India,2024-10-18 03:48:04.008936,168.57,India,391,368,High,100000391,Savings,Mobile,Closed,99060.01,USD
+576,Melissa Drake,"15582 Katherine Extension Suite 366, Port Eric, KS 40437",Germany,2025-03-23 10:28:04.162371,4276.57,Germany,576,441,Low,100000576,Fixed Deposit,Mobile,Inactive,95002.54,INR
+160,John Burton,"067 Gonzales Alley, Laurabury, FL 89938",India,2025-03-12 05:04:04.444475,650.88,India,160,760,Medium,100000160,Current,Mobile,Active,73093.42,GBP
+209,Luis Smith,"88814 Price Islands, Lake Nicholas, DC 35184",Germany,2025-03-05 16:55:04.296523,3849.23,Germany,209,639,Low,100000209,Current,Branch,Inactive,1501.1,USD
+292,Ryan Lopez,"PSC 6248, Box 7369, APO AA 73930",Germany,2025-03-02 06:42:04.058879,3907.28,Germany,292,264,High,100000292,Fixed Deposit,Online,Inactive,4697.47,GBP
+445,Tammy Cummings,"USNS Cooper, FPO AP 91838",UK,2024-06-18 04:23:04.429306,4461.96,UK,445,436,High,100000445,Fixed Deposit,Online,Inactive,81467.16,CAD
+696,Adam Dixon,"132 Valerie Squares, Ericfort, MT 81239",USA,2024-11-06 01:43:04.351109,4377.62,USA,696,776,High,100000696,Current,ATM,Closed,61451.38,INR
+983,Daniel Cole,"155 Angela Viaduct, New Garyport, OK 29705",USA,2025-01-03 21:45:04.674653,3103.65,USA,983,359,Low,100000983,Fixed Deposit,Mobile,Closed,11553.23,CAD
+926,Dr. Jason Watson Jr.,"512 Richardson Ports, Wilsonberg, FL 16099",UK,2024-10-30 00:33:04.440834,3964.03,UK,926,298,Low,100000926,Current,Online,Inactive,3224.46,INR
+705,Margaret Bryant,"35029 Stokes Brooks, North Ronnie, NM 80197",UK,2025-04-08 01:30:04.620172,2047.56,UK,705,23,Low,100000705,Fixed Deposit,Mobile,Active,7274.12,INR
+517,Carolyn Kennedy,"0622 Jacqueline Mills Apt. 935, New Randallstad, UT 38853",Canada,2024-11-27 17:39:04.134037,2495.79,Canada,517,866,Medium,100000517,Current,Branch,Active,38269.87,GBP
+353,Javier Winters,"4488 Hansen Junctions, Port Lisamouth, TN 62442",Germany,2025-04-14 10:33:04.622210,3500.12,Germany,353,9,Low,100000353,Savings,Branch,Closed,66210.67,INR
+356,Alex Gonzalez,"30254 Melissa Meadow Apt. 793, Lake Joseph, MA 87648",Canada,2025-04-14 22:10:04.107384,4108.15,Canada,356,191,Medium,100000356,Savings,Mobile,Closed,64599.51,EUR
+24,Kevin Doyle,"3373 Susan Shores, New Carolyn, WY 07397",Canada,2024-10-24 14:45:04.443380,4098.48,Canada,24,406,High,100000024,Fixed Deposit,Online,Closed,37269.82,GBP
+74,Joshua White,"329 April Well Apt. 694, South Kristinbury, PW 99777",UK,2024-10-06 04:05:04.272188,3041.04,UK,74,67,Medium,100000074,Current,Branch,Inactive,81730.68,EUR
+499,Mrs. Amber Smith,"4735 Danny Villages Apt. 702, East Debra, NJ 94672",UK,2024-10-31 07:30:04.410693,1032.98,UK,499,826,Low,100000499,Savings,Branch,Closed,97465.09,CAD
+845,Jill Clark,"Unit 5298 Box 9784, DPO AA 74219",Canada,2025-01-02 20:01:04.356349,986.14,Canada,845,643,Medium,100000845,Savings,Online,Inactive,15717.61,USD
+499,Mrs. Amber Smith,"4735 Danny Villages Apt. 702, East Debra, NJ 94672",UK,2024-06-06 04:07:04.273853,3364.65,UK,499,416,Low,100000499,Savings,Online,Closed,97465.09,CAD
+342,Pamela Bell,"01410 Rodriguez Plaza, Danielland, NH 43390",USA,2024-12-27 20:34:04.539066,123.52,USA,342,792,Medium,100000342,Current,Branch,Closed,47873.71,USD
+468,Jessica Gomez,"823 Katie Estate, Pinedaland, PW 58748",USA,2025-03-10 21:38:04.272741,149.31,USA,468,473,High,100000468,Current,ATM,Inactive,86991.31,INR
+745,William Lawson,"65914 Ray Hill Suite 769, North Austinmouth, WA 37273",Germany,2024-07-19 16:30:04.233386,531.22,Germany,745,160,Medium,100000745,Fixed Deposit,ATM,Active,23989.06,GBP
+406,Mark Parker,"3967 Conley Lock, Meyersview, ND 97136",India,2024-11-02 11:41:04.563072,159391.5,Unknown,406,361,High,100000406,Current,ATM,Closed,89656.8,INR
+253,Scott Cline,"9081 Roth Row, Matthewmouth, CT 28972",UK,2024-12-27 20:27:04.666814,1928.66,UK,253,739,Medium,100000253,Fixed Deposit,ATM,Active,85262.53,USD
+487,Amy Garrett,"13648 Jennifer Villages, Davidport, IL 30601",India,2024-08-24 05:50:04.583796,4395.29,India,487,992,Low,100000487,Fixed Deposit,Mobile,Inactive,5499.19,INR
+602,Robert Aguilar,"Unit 1808 Box 6068, DPO AA 84906",USA,2025-05-14 05:46:04.045213,184651.0,Unknown,602,903,High,100000602,Savings,ATM,Closed,28580.44,EUR
+543,Megan Rodriguez,"408 Marshall Haven Apt. 267, Adamsmouth, PW 47341",Germany,2024-06-10 14:32:04.489579,257.91,Germany,543,643,Low,100000543,Current,Mobile,Closed,23635.64,GBP
+462,Jason Miller,"09971 Brittany Run, Alexside, AR 45796",Germany,2025-02-07 23:44:04.166089,4767.1,Germany,462,611,Low,100000462,Savings,Online,Active,65271.82,GBP
+537,Elizabeth Freeman,"40016 Dawn Pass, Williamsburgh, PW 70508",USA,2024-10-17 17:02:04.135243,1801.09,USA,537,985,Medium,100000537,Current,Online,Active,85115.09,INR
+406,Mark Parker,"3967 Conley Lock, Meyersview, ND 97136",India,2024-09-03 03:46:04.383569,4322.48,India,406,245,Low,100000406,Current,Branch,Closed,89656.8,INR
+209,Luis Smith,"88814 Price Islands, Lake Nicholas, DC 35184",Germany,2024-11-19 21:24:04.330480,4355.75,Germany,209,392,Low,100000209,Current,ATM,Inactive,1501.1,USD
+206,Tyler Lawrence,"7937 Rogers Valleys Suite 562, New Lisa, MN 30755",India,2025-05-28 16:05:04.426164,4330.1,India,206,946,High,100000206,Current,ATM,Closed,1910.51,GBP
+333,Ellen Lee,"0879 Michael Plaza Apt. 070, New Williamside, CO 10641",Canada,2024-10-02 19:05:04.057607,102.23,Canada,333,235,Low,100000333,Savings,Online,Inactive,2424.96,EUR
+652,Javier Miles,"0874 Valerie Road Apt. 365, Sherryton, MO 21617",USA,2025-06-01 04:46:04.294433,2838.81,USA,652,138,Medium,100000652,Current,Online,Closed,54173.55,GBP
+268,Kelly Reed,"6193 Latoya Squares, Cathyton, WI 65823",USA,2024-09-04 06:41:04.435262,1542.01,USA,268,176,Low,100000268,Savings,Online,Active,70545.92,CAD
+556,Lindsey Silva,"2508 Johnson Lodge Suite 872, Lindabury, ND 93702",India,2024-11-12 20:36:04.064531,4311.41,India,556,521,High,100000556,Savings,Online,Inactive,40944.8,GBP
+12,Christopher Dillon,"32447 Caleb Cove Suite 356, Port Roberto, MA 01085",Germany,2024-08-03 14:54:04.068689,570.84,Germany,12,35,High,100000012,Current,Mobile,Closed,97021.08,EUR
+255,Joanna Ramsey,"55559 Bullock Island Suite 650, Simpsonbury, AS 69067",UK,2024-07-01 03:34:04.603453,1080.56,UK,255,368,High,100000255,Savings,ATM,Inactive,17779.78,INR
+861,Timothy Spencer,"69305 Timothy Point, North Allen, RI 29277",Germany,2024-07-13 23:01:04.412689,4438.89,Germany,861,420,Low,100000861,Fixed Deposit,Mobile,Closed,77777.23,USD
+134,Dave Wall,"085 Peter Cliff Suite 304, Blakefort, NC 08823",India,2024-12-29 05:44:04.260267,535.17,India,134,5,High,100000134,Savings,Online,Inactive,34423.9,INR
+864,Maria Herrera,"4758 Tucker Mall, North Timothyhaven, LA 18299",Germany,2024-08-12 01:48:04.053479,4933.32,Germany,864,814,Medium,100000864,Current,ATM,Active,44635.51,EUR
+852,Denise Garcia PhD,"Unit 7392 Box 9789, DPO AE 74787",USA,2024-08-04 19:07:04.280280,3753.88,USA,852,702,High,100000852,Fixed Deposit,Branch,Closed,75246.09,CAD
+928,Karen Adkins,"4217 Sandra Mountains, East Jennifer, VI 13533",UK,2024-10-17 04:20:04.450101,1622.49,UK,928,151,High,100000928,Savings,ATM,Closed,54621.79,USD
+500,Jeremiah Fox,"3494 Michael Walk, North Stephen, IL 41159",UK,2024-06-07 13:44:04.386564,4413.49,UK,500,482,Medium,100000500,Savings,ATM,Active,98634.86,GBP
+337,Nicholas Brown,"97715 John Squares, North Lisa, OH 32792",Germany,2024-06-10 14:47:04.045624,617.29,Germany,337,106,Low,100000337,Savings,ATM,Closed,85690.6,USD
+819,Christine Day,"0556 Jason Island, East Cory, MP 10433",Germany,2025-03-15 12:33:04.012739,2186.89,Germany,819,134,Medium,100000819,Savings,ATM,Active,6421.4,CAD
+397,Haley Green,"1114 Sullivan Hill, New Traci, SC 92022",USA,2024-08-18 10:08:04.287763,4007.34,USA,397,307,High,100000397,Current,Branch,Closed,85982.86,INR
+659,Lori Smith,"598 Bryant Spurs, Lewisburgh, UT 65019",India,2024-09-23 10:21:04.595990,3354.0,India,659,253,Low,100000659,Fixed Deposit,ATM,Inactive,64945.81,GBP
+463,Mrs. Shari Gonzalez MD,"597 Webb Burg Apt. 776, New Jerryview, AS 98705",Canada,2025-02-18 19:37:04.471730,3587.82,Canada,463,438,Medium,100000463,Fixed Deposit,Online,Inactive,74858.44,GBP
+551,Matthew Boyle,"35001 Maria Stravenue, New Christopherville, NV 76966",UK,2024-10-29 03:08:04.456751,3126.16,UK,551,504,High,100000551,Fixed Deposit,Branch,Closed,52496.19,INR
+203,Tiffany Blankenship,"64658 Paul Drives, South Melissaborough, IN 22211",Germany,2024-10-24 08:27:04.107803,3688.46,Germany,203,733,Low,100000203,Current,Mobile,Closed,17001.24,GBP
+302,Todd Taylor,"675 Hailey Tunnel, Lambmouth, NY 19035",India,2025-01-15 03:04:04.556139,132.56,India,302,987,High,100000302,Fixed Deposit,Branch,Active,53604.11,INR
+726,Antonio Mason,"1131 Wolf Rapid Suite 710, Port Keithside, AK 39585",UK,2025-03-16 16:03:04.275529,1659.42,UK,726,562,Low,100000726,Current,Online,Closed,84341.05,CAD
+977,Cassidy Cook,"USCGC Martinez, FPO AE 31360",UK,2024-12-03 04:54:04.181836,1380.06,UK,977,650,High,100000977,Savings,Branch,Inactive,59912.72,INR
+604,Brian Rodriguez,"50723 Neal Crossing Apt. 445, West Davidmouth, AS 75834",UK,2025-05-18 00:29:04.256178,2739.32,UK,604,384,Medium,100000604,Fixed Deposit,Online,Inactive,9781.55,CAD
+527,Brent Serrano,"43371 Timothy Land, Garciamouth, OR 94936",Canada,2024-06-17 08:22:04.629366,4729.31,Canada,527,290,Low,100000527,Savings,Branch,Closed,42067.13,USD
+933,Brandi Rice MD,"186 Daniel Neck Suite 454, North Cheryl, PR 62817",USA,2025-01-19 11:45:04.598494,2240.98,USA,933,644,Low,100000933,Current,Online,Inactive,98455.82,GBP
+606,Kimberly Garcia,"41916 Cooper Ridges, West Benjaminburgh, MP 33995",Canada,2025-02-02 13:18:04.159767,4298.45,Canada,606,428,Low,100000606,Savings,Branch,Active,46617.1,GBP
+445,Tammy Cummings,"USNS Cooper, FPO AP 91838",UK,2024-11-05 03:09:04.293827,4094.46,UK,445,861,High,100000445,Fixed Deposit,Mobile,Inactive,81467.16,CAD
+310,James Howard,"0404 Miles Summit Apt. 206, Port John, WY 07541",Canada,2025-05-05 04:10:04.350551,3451.74,Canada,310,344,High,100000310,Savings,Mobile,Active,27812.39,EUR
+648,Philip Chavez,"94390 Garcia Meadows, Hutchinsonstad, TN 39973",Germany,2024-07-18 10:54:04.606850,562.61,Germany,648,540,Medium,100000648,Savings,Online,Inactive,68231.13,USD
+717,Mary Evans,"2824 Darrell Trail Suite 401, North Stephen, AZ 84287",UK,2024-12-26 02:41:04.163438,4305.5,UK,717,189,High,100000717,Current,Online,Inactive,83231.32,EUR
+991,Casey Hill,"241 Dustin Hills, West Joyce, HI 87855",India,2024-12-31 15:52:04.037040,247149.5,Unknown,991,794,High,100000991,Savings,Online,Active,80142.17,GBP
+422,Linda Gonzalez,"85605 Anna Mountain, Dukeshire, AL 38106",India,2024-09-07 10:28:04.421139,4977.73,India,422,299,Medium,100000422,Fixed Deposit,Online,Active,79172.2,INR
+978,Wendy Lewis,"09918 Roy Inlet Apt. 926, Annmouth, IA 55213",Canada,2025-01-09 17:03:04.319784,1488.15,Canada,978,13,High,100000978,Fixed Deposit,ATM,Closed,6091.16,INR
+567,Patrick Ochoa,"2108 Jonathan River Suite 853, West Sara, KY 43425",Canada,2024-08-20 01:53:04.121184,528.47,Canada,567,195,High,100000567,Savings,ATM,Active,39832.16,EUR
+95,Cheryl Thomas,"920 Wade Common, North Helen, OR 37717",Canada,2025-03-20 08:32:04.641479,1273.93,Canada,95,918,Medium,100000095,Current,Online,Closed,77325.75,CAD
+353,Javier Winters,"4488 Hansen Junctions, Port Lisamouth, TN 62442",Germany,2025-04-14 10:33:04.622210,175006.0,Unknown,353,9,High,100000353,Savings,Branch,Closed,66210.67,INR
+875,Luke Brown,"993 Timothy Shoal, North Stephanie, NM 92452",UK,2024-08-28 16:46:04.031041,3806.32,UK,875,872,Low,100000875,Fixed Deposit,Online,Closed,3513.25,USD
+927,Anthony Grimes,"USNS Richardson, FPO AA 02995",UK,2025-04-30 07:44:04.022013,3355.06,UK,927,663,Low,100000927,Current,Mobile,Active,27599.06,EUR
+22,Casey Ramirez,"16788 Pamela Plaza, South Hollyland, OR 98595",India,2024-12-07 05:38:04.640989,3528.41,India,22,349,Low,100000022,Current,ATM,Closed,14809.89,GBP
+931,William Washington,"375 Marks Fords, Lake Paulafort, VA 97704",Germany,2024-07-26 22:04:04.468598,1950.35,Germany,931,171,High,100000931,Savings,Branch,Closed,14796.25,USD
+749,Denise Reed,"58432 Soto Ports Suite 027, Port Robertchester, WA 05350",Germany,2024-08-11 02:51:04.033741,3548.4,Germany,749,711,Low,100000749,Savings,ATM,Active,90740.74,USD
+128,Christopher Richardson,"27678 Jo Light Suite 254, Erikside, ID 92644",UK,2025-04-04 19:32:04.090512,4140.33,UK,128,422,Medium,100000128,Savings,Mobile,Inactive,86212.33,GBP
+741,Samantha Decker,"40476 Jamie Crescent Suite 319, East Stephanie, MA 65934",India,2025-01-14 13:05:04.432883,3246.79,India,741,150,High,100000741,Current,ATM,Closed,46805.3,CAD
+108,Charlene Ingram,"86857 Martin Cliffs Apt. 673, Michelefurt, AS 02919",Canada,2024-07-14 13:36:04.491268,1185.66,Canada,108,275,High,100000108,Current,Branch,Active,75799.56,GBP
+379,Antonio Francis,"USNS Thomas, FPO AP 05356",USA,2024-07-19 22:07:04.569772,3253.16,USA,379,205,Medium,100000379,Current,Online,Active,81632.38,USD
+84,Shelly Robinson,"407 Crystal Park Apt. 512, Port Frank, RI 30814",USA,2024-10-07 12:56:04.365464,3915.48,USA,84,76,High,100000084,Savings,Online,Active,7292.28,EUR
+964,Robert Walker,"Unit 9562 Box 6742, DPO AA 54021",UK,2024-12-28 06:19:04.585697,2744.02,UK,964,120,Low,100000964,Fixed Deposit,Branch,Inactive,39540.27,GBP
+969,Debra Espinoza,"1298 Hunt Skyway Apt. 649, New Preston, FL 80324",India,2024-10-13 21:46:04.338899,1048.64,India,969,83,High,100000969,Current,Mobile,Active,57074.06,GBP
+776,Laura Miller,"877 Jackson Lodge Apt. 057, Millsmouth, IN 85253",UK,2024-09-25 17:38:04.315502,4861.33,UK,776,858,Low,100000776,Fixed Deposit,Branch,Inactive,15841.83,CAD
+937,Christopher Bailey,"Unit 8582 Box 3200, DPO AE 00613",UK,2024-06-12 20:30:04.335085,4810.68,UK,937,156,High,100000937,Current,Branch,Active,2820.68,CAD
+181,Patrick Weaver,"9431 Ford Meadow Apt. 061, East Amanda, IN 07544",Germany,2025-04-16 08:24:04.451214,95301.5,Unknown,181,31,High,100000181,Fixed Deposit,Online,Closed,34765.57,USD
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2025-01-03 05:25:04.669353,1978.78,India,484,903,Medium,100000484,Savings,ATM,Inactive,63128.25,EUR
+176,Alexandra Patel,"05997 Mitchell Falls Apt. 455, Josephview, MT 92236",Canada,2024-07-17 16:40:04.341462,1483.49,Canada,176,907,Medium,100000176,Savings,Mobile,Active,18262.28,CAD
+466,Theresa Gonzalez,"8649 Hayes Circles Suite 537, East Maryfort, WY 23834",India,2025-04-29 19:28:04.025968,2419.61,India,466,718,Medium,100000466,Fixed Deposit,Online,Inactive,38112.19,CAD
+195,Mary Adkins,"55962 Isaiah Roads, North Haleyborough, AR 98182",UK,2024-12-11 11:02:04.668614,812.99,UK,195,715,Medium,100000195,Current,Mobile,Closed,34563.95,CAD
+346,James Richmond,"207 Laura Islands, Leachview, KY 19421",Germany,2025-03-25 08:36:04.264782,3227.54,Germany,346,278,High,100000346,Fixed Deposit,ATM,Active,61969.16,GBP
+762,Scott Fletcher,"088 Morris Ridge Apt. 051, New Kevin, WV 82174",USA,2025-04-04 05:20:04.181375,944.9,USA,762,736,Low,100000762,Fixed Deposit,Branch,Inactive,31860.48,INR
+192,Carolyn Francis,"1851 Chad Lodge Suite 226, Kathleenhaven, RI 67358",UK,2024-07-02 05:43:04.557378,3782.17,UK,192,862,High,100000192,Current,Mobile,Closed,89824.36,CAD
+935,Eric Thomas,"71098 Lynn Flats Suite 900, Kathleenview, FL 13850",USA,2024-12-06 05:07:04.404417,3370.15,USA,935,457,High,100000935,Current,Online,Inactive,17996.25,USD
+484,Brian Davidson,"162 Mullen Estate Apt. 425, Barbermouth, VI 98951",India,2024-10-14 15:33:04.192052,4490.62,India,484,13,Medium,100000484,Savings,Branch,Inactive,63128.25,EUR
+399,Melissa Lopez,"6284 James Canyon Apt. 849, Nathanhaven, MT 78915",UK,2024-10-06 21:09:04.646638,163045.5,Unknown,399,252,High,100000399,Savings,Mobile,Active,75336.24,GBP
+951,Diana Scott,"02337 Montoya Unions Suite 111, Port Meganton, PA 72171",UK,2024-07-09 14:03:04.009319,1448.04,UK,951,761,Medium,100000951,Savings,Mobile,Inactive,60451.17,GBP
+442,Fernando Anderson,"29466 Elizabeth Circle, Cindyland, MA 63454",Germany,2024-09-24 10:33:04.469241,3087.95,Germany,442,207,High,100000442,Savings,Online,Active,98677.32,CAD
+300,John West,"1486 Daniel Highway Suite 806, Port Dustin, MI 42177",Germany,2024-09-03 19:15:04.124587,174859.0,Unknown,300,675,High,100000300,Savings,Branch,Closed,9449.4,CAD
+534,Carl Barr,"09965 Rogers Roads Apt. 674, East Shelbyville, LA 52030",USA,2025-05-31 16:19:04.579805,3980.86,USA,534,88,High,100000534,Current,ATM,Inactive,55987.74,USD
+424,Abigail Dennis,"4168 Timothy Mills Suite 906, Goodwinstad, PA 79625",India,2024-07-21 04:41:04.038529,1727.07,India,424,752,Low,100000424,Savings,Online,Active,49947.61,EUR
+141,Sheila Atkins,"42494 Alec Lights Suite 731, Port Andrew, WI 75425",Canada,2024-08-10 06:57:04.074849,3442.62,Canada,141,919,High,100000141,Savings,Online,Inactive,96282.28,USD
+630,Trevor Mendez,"089 Maldonado Ridges Apt. 555, West Nicole, MS 07030",UK,2024-09-28 04:18:04.332043,3062.85,UK,630,661,Medium,100000630,Current,Branch,Inactive,25991.26,EUR
+307,Justin Brady,"31084 Anderson Extensions, Raymondville, PW 97552",Germany,2025-05-11 14:02:04.144092,1926.06,Germany,307,586,Low,100000307,Fixed Deposit,ATM,Closed,52113.73,CAD
+736,Holly Reed,"160 Craig Turnpike, Gregorymouth, TN 76782",USA,2025-03-24 01:38:04.183825,616.53,USA,736,167,High,100000736,Current,Online,Closed,87842.85,GBP
