@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Schema Browser Architecture" id="pnZzsJhvu45iCU7TgP0W">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGvR56vMkVZ5YO0q6Hcc-1" target="UGvR56vMkVZ5YO0q6Hcc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-1" value="Databases" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-2" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;fillColor=#DAE8FC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-1">
+          <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-3" value="Oracle" style="rounded=1;whiteSpace=wrap;fillColor=#DAE8FC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-1">
+          <mxGeometry x="110" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-4" value="SQL Server" style="rounded=1;whiteSpace=wrap;fillColor=#DAE8FC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-1">
+          <mxGeometry x="210" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-5" value="MySQL" style="rounded=1;whiteSpace=wrap;fillColor=#DAE8FC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-1">
+          <mxGeometry x="310" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-6" value="Hive" style="rounded=1;whiteSpace=wrap;fillColor=#DAE8FC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-1">
+          <mxGeometry x="390" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGvR56vMkVZ5YO0q6Hcc-7" target="UGvR56vMkVZ5YO0q6Hcc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-7" value="Triggers/Hooks" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-8" value="Hive Hooks" style="rounded=1;whiteSpace=wrap;fillColor=#E1D5E7" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-7">
+          <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-9" value="DB Triggers" style="rounded=1;whiteSpace=wrap;fillColor=#E1D5E7" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-7">
+          <mxGeometry x="110" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-10" value="Change Event Processor" style="rounded=1;whiteSpace=wrap;fillColor=#FFE6CC" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-11" value="Metadata Extractor" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-12" value="Parsing &amp; Standardization" style="rounded=1;whiteSpace=wrap;fillColor=#D5E8D4" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-11">
+          <mxGeometry x="10" y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-13" value="Type Mapper" style="rounded=1;whiteSpace=wrap;fillColor=#D5E8D4" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-11">
+          <mxGeometry x="170" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-14" value="Semantic Tagger" style="rounded=1;whiteSpace=wrap;fillColor=#D5E8D4" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-11">
+          <mxGeometry x="270" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-15" value="Profiler" style="rounded=1;whiteSpace=wrap;fillColor=#D5E8D4" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-11">
+          <mxGeometry x="390" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-16" value="Metadata Repository" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="520" y="20" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-17" value="Schema Metadata" style="rounded=1;whiteSpace=wrap;fillColor=#F8CECC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-18" value="Business Metadata" style="rounded=1;whiteSpace=wrap;fillColor=#F8CECC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="140" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-19" value="Lineage Metadata" style="rounded=1;whiteSpace=wrap;fillColor=#F8CECC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="10" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-20" value="Operational Metadata" style="rounded=1;whiteSpace=wrap;fillColor=#F8CECC" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="140" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-21" value="Access Control" style="rounded=1;whiteSpace=wrap;fillColor=#E1D5E7" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="10" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-22" value="Audit Logging" style="rounded=1;whiteSpace=wrap;fillColor=#E1D5E7" vertex="1" parent="UGvR56vMkVZ5YO0q6Hcc-16">
+          <mxGeometry x="140" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-23" value="ER Diagram Generator" style="rounded=1;whiteSpace=wrap;fillColor=#FFF2CC" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-24" value="Lineage Graph Builder" style="rounded=1;whiteSpace=wrap;fillColor=#FFF2CC" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGvR56vMkVZ5YO0q6Hcc-25" value="Statistics Profiler" style="rounded=1;whiteSpace=wrap;fillColor=#FFF2CC" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
